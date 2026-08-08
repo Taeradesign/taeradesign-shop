@@ -433,6 +433,25 @@ maßvoll und **nur bei gehaltenem ROAS-Ziel** — nicht als Vorschuss.
   war nicht enthalten; Markenanfrage (Kategorie Unternehmen, URL
   taeradesign.com, Zweitname „Taera Design") wurde gesendet, Prüfung
   **4–6 Wochen**. → Wiedervorlage ~20.09.2026.
+- **C vollständig konfiguriert, Speichern durch Identitätsprüfung
+  gestoppt (08.08.2026):** Die Brand-Suchkampagne „Brand Taeradesign"
+  wurde per Assistent komplett eingestellt (Werte unten). Beim
+  Budget-Schritt verlangt Google **„Identität bestätigen"** (die
+  angekündigte Passkey-/Sicherheitsprüfung für sensible Aktionen) —
+  **Claude führt keine Identitätsbestätigung/Authentifizierung durch;
+  das macht der Betreiber.** Fehlt zum Abschluss nur: Identitätsprüfung
+  bestätigen, dann Tagesbudget auf **benutzerdefiniert 1,50 €** setzen
+  (der Assistent bot 3,23/2,69/2,15 € an — nicht übernehmen),
+  Überprüfen-Schritt, **pausiert** speichern.
+  Konfigurierte Werte von „Brand Taeradesign":
+  Suchkampagne ohne Zielvorhaben; **Klicks maximieren, CPC-Limit
+  0,50 €**; nur Google-Suchnetzwerk (Partner + Display abgewählt);
+  Standort Deutschland, Sprache Deutsch; politische Werbung „Nein";
+  **AI Max samt Textanpassung und URL-Erweiterung deaktiviert**;
+  Keywords [taeradesign], "taeradesign", [taera design],
+  "taeradesign shop", "taeradesign gotteslobhülle"; Anzeige mit den
+  6 freigegebenen Titeln + 2 Textzeilen, finale URL taeradesign.com,
+  Anzeigeneffektivität „Durchschnittlich" (86 %). Draft-ID 10208272992.
 
 ### Auflösung des Zielkonflikts 350 % ↔ 37 €/h (= 500 %)
 
