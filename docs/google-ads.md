@@ -186,13 +186,35 @@ Kampagnenentwurf erfragen.
    (Abschnitt 3)
 7. **Teilweise: Margen** — Gotteslobhülle liegt vor (Abschnitt 4);
    weitere Produktgruppen beim Entwurf
-8. **Offen: Shopify-Bestsellerdaten je Saison** — blockiert am
-   08.08.2026: Shopify-Admin verlangt Login; Anmeldung macht der
-   Betreiber selbst (Claude gibt keine Zugangsdaten ein), danach
-   Fortsetzung
-9. **Offen: Shopify-Admin-Sichtung** — installierte Apps (Konfigurator,
-   Bewertungs-App, Google & YouTube), Versandkosten (gleiche Blockade
-   wie 8)
+8. ~~Shopify-Bestsellerdaten je Saison~~ **erledigt** (nach
+   Betreiber-Login am Abend) — Quartalszahlen in
+   [`ist-zustand.md`](ist-zustand.md) §7: Kommunion-Halbzeit trägt ~2/3
+   des Shop-Umsatzes, CR steigt saisonal auf ~5 %, Ø-Bestellwert
+   Q1 ≈ 46 €
+9. ~~Shopify-Admin-Sichtung~~ **erledigt** — Apps und Versandkosten in
+   `ist-zustand.md` §2 (Google & YouTube-Kanal installiert ✓;
+   Versand 2,90/5,50 €, nur Deutschland)
+
+**Damit ist die Prüfliste bis auf Rest-Margen abgearbeitet — der
+Kampagnenentwurf kann auf Daten stehen.**
+
+## 5a. Messlatte des Betreibers (08.08.2026)
+
+Auf Amazon und Etsy erwirtschaftet Werbung **im Mittel etwa das
+Zehnfache des Einsatzes** (Betreiber-Angabe: „für 10 € Werbung 100 €
+Umsatz" — ein ROAS ≈ 10; die dortige Plattform-Conversion-Rate liegt
+bei ~10 %). Google liegt aktuell bei ROAS ≈ 2,5. **Ziel: Google in
+Richtung des Marktplatz-Niveaus entwickeln.**
+
+Ehrliche Einordnung dazu: Marktplatz-Anzeigen treffen Menschen, die
+bereits im Laden stehen und suchen — der Shop bei ~3–5 %
+Website-Conversion kann das strukturell nicht eins zu eins erreichen.
+Aber zwischen 2,5 und 10 liegt erheblicher Spielraum, und die Hebel
+sind benannt: Saisonfokus auf die konversionsstärksten Fenster
+(Kommunion: CR ~5 %, Ø-Bestellwert 46 €), Gebotsstrategie von
+Ziel-CPA 29,57 € auf Ziel-ROAS umstellen, Brand-Nachfrage ausbauen
+(„taeradesign" macht bereits 1.320 €/Quartal), Feed-Pflege, und
+Budget nur dort, wo die Marge es trägt.
 
 ## 6. Kampagnen-Grobgedanke (Skizze — nach neuem Befund geschärft)
 

@@ -31,8 +31,10 @@ Drei Verkaufskanäle (Angabe Betreiber):
 | Plattform | Shopify, Store-Kennung `1a8137.myshopify.com` |
 | Theme | „Be Yours" Version 9.1.0 (Theme-Store-ID 1399) |
 | Domains | taeradesign.com führend; www.taeradesign.de leitet dorthin um |
-| Konfigurator | Eigener Schritt-für-Schritt-Konfigurator mit Live-Vorschau auf den Produktseiten (Beispiel Gotteslobhülle: 10 Schritte — Filzfarbe, Filzfarbe Innenlasche, Verschluss, Motiv, Farben, Text Vorderseite/Rückseite/Buchrücken, Rosenkranztasche, Format). Mit welcher App der Konfigurator umgesetzt ist: **offen, im Shopify-Admin nachsehen** |
-| Bewertungen | Widget auf der Startseite zeigt „1103 Bewertungen" mit Einzelrezensionen (neueste vom 06.08.2026 — es kommen laufend welche dazu). Welche Bewertungs-App: **offen** (Judge.me ist es dem Quelltext nach nicht) |
+| Konfigurator | Eigener Schritt-für-Schritt-Konfigurator mit Live-Vorschau auf den Produktseiten (Beispiel Gotteslobhülle: 10 Schritte — Filzfarbe, Filzfarbe Innenlasche, Verschluss, Motiv, Farben, Text Vorderseite/Rückseite/Buchrücken, Rosenkranztasche, Format). App: **CPB – Custom Product Builder** (40 $/Monat + Nutzungsgebühren; Admin-Sichtung 08.08.2026) |
+| Bewertungen | Widget auf der Startseite zeigt „1103 Bewertungen" mit Einzelrezensionen (neueste vom 06.08.2026 — es kommen laufend welche dazu). App: **Judge.me Reviews** (15 $/Monat) |
+| Weitere Apps | Shuttle – Sync with Etsy (5 $/Monat + Nutzung), Globo Product Options (19,90 $/Monat — zweite Optionen-App neben CPB, Redundanz prüfen), C-EDD Estimated Delivery Date (8,98 $/Monat — der Liefercountdown), Billbee (Auftragsabwicklung/Multichannel), Digital Products (Stickdateien), EU Widerruf Pro, IT-Recht AGB, Flow, Search & Discovery, Messaging. Vertriebskanäle: Onlineshop, **Google & YouTube**, Facebook & Instagram, Pinterest, Inbox |
+| Versand | Nur Zone Deutschland. Zwei Profile: **Deutsche Post Großbrief 2,90 €** (2–4 Werktage, 500+ Kleinprodukte) und **DHL Standardversand 5,50 €** (übrige Produkte) |
 | Lieferversprechen | Startseite: „Innerhalb Deutschlands 2-3 Tagen nach Bestelleingang". Produktseite: Countdown („Bestelle in den nächsten 04 Stunden …") mit Datumsleiste Bestellt/Versand/Geliefert |
 | Tracking | Im Quelltext gefunden: GA4-Property `G-5J2W20R04R` und Google-Ads-Tag `AW-11371975038`; Consent-Banner vorhanden. Ob und wann die Tags tatsächlich feuern: → [`google-ads.md`](google-ads.md) |
 | Social | Facebook (Taeradesign), Pinterest (taeradesign), Instagram (taera_design) im Footer verlinkt |
@@ -138,26 +140,38 @@ systematischer Durchgang durch alle Seiten und Produkttexte.
 
 ---
 
-## 7. Saisonkalender (für Sortiment und Werbung)
+## 7. Saisonkalender — belegt mit Shopify-Zahlen (Admin-Sichtung 08.08.2026)
 
-| Zeitraum | Anlass | Produkte |
-|---|---|---|
-| Januar–April | Kommunion, Firmung (Feiern meist ab Weißem Sonntag; Kaufzeitraum davor) | Gotteslobhüllen, Rosenkranztaschen |
-| Juni–September | Einschulung, Zeugnisse | Schultüten-Anhänger, Zeugnis- und Urkundenmappen — **läuft gerade** (Beleg: Amazon-Kaufsignal, Abschnitt 5) |
-| Oktober–Dezember | Weihnachten | Wichtelwelt komplett |
-| ganzjährig | Haustiere, Geschenke, Basteln | Heimtier-/Equidenpass-Hüllen, Schlüsselanhänger, Material, Stickdateien |
+Online-Store-Umsatz je Quartal (Shopify-Statistik, nur der eigene Shop —
+Amazon/Etsy laufen separat):
 
-Einordnung der Zeiträume ist plausibilisiert, aber **Annahme** — die
-echten Verkaufskurven stehen in Shopify und sollten die Annahme ersetzen,
-sobald wir in den Admin schauen.
+| Quartal | Umsatz | Bestellungen | Conversion-Rate | Prägung (Landing-Pages) |
+|---|---|---|---|---|
+| Q3 2025 (Jul–Sep) | 3.569,96 € | 72 | 3,1 % | Sommertal; Einschulung/Zeugnisse |
+| Q4 2025 (Okt–Dez) | 5.448,79 € | 139 | 3,28 % | Wichtelwelt, Filzplatten (+526 %), auch Gotteslobhülle (+252 %) |
+| Q1 2026 (Jan–Mär) | 11.321,33 € | 248 | 4,89 % | **Gotteslobhülle dominiert** (932 Sitzungen, +152 %), Filzplatten |
+| Q2 2025 (Apr–Jun) | ≈ 13.200 € (abgeleitet aus „Q3 −73 % vs. Q2") | — | — | Kommunion-Feiern |
+
+Lesart: **Die Kommunion-Halbzeit (Q1+Q2) trägt rund zwei Drittel des
+Shop-Jahresumsatzes** (grob 33.000–34.000 €/Jahr über die vier
+Quartale). Die Conversion-Rate steigt in der Kommunion-Saison auf ~5 %
+— kaufentschlossenere Besucher bei gleichem Traffic (Q1: 2.844
+Besucher wie Q4, aber doppelter Umsatz). Ø-Bestellwert: Q4 ≈ 39 €,
+Q1 ≈ 46 €. Geräte: ~66–68 % der Sitzungen mobil. Wichtel-Nachfrage
+startet nachweislich schon im August (Ads-Produktdaten, google-ads.md
+§3). Umsatz nach Referrer (Q1): „Keine/Keine" (direkt/App) 5.800 €,
+Google-Suche 3.460 € (organisch + bezahlt gemischt), Brand
+„taeradesign" 1.320 €.
 
 ---
 
 ## 8. Offene Punkte
 
 1. **Etsy-Präsenz sichten** (Sortiment, Bewertungen, Preisvergleich).
-2. **Shopify-Admin:** installierte Apps (Konfigurator, Bewertungen,
-   Google & YouTube), Versandkosten, echte Bestsellerdaten je Saison.
+2. ~~Shopify-Admin~~ **erledigt 08.08.2026** — Apps und Versand in §2,
+   Saisonzahlen in §7. Nachgelagert offen: Redundanz CPB/Globo prüfen;
+   wofür genau Billbee im Einsatz ist (vermutlich
+   Multichannel-Abwicklung — Annahme).
 3. ~~Tracking verifizieren~~ **erledigt 08.08.2026** — funktioniert;
    Befund und Konto-Ist-Stand in [`google-ads.md`](google-ads.md).
 4. **Amazon-Markenauftritt** („Generisch") — separate Baustelle, nicht
