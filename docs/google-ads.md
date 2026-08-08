@@ -85,40 +85,116 @@ Profile ✓ · Business Manager ✓ · Shopify-Store „Taeradesign" ✓.
 **Damit sind Shopping-/PMax-Kampagnen technisch vollständig
 unterfüttert** — die laufende PMax beweist es.
 
-### Warnhinweise im Konto (nichts davon behoben, nur notiert)
+### Warnhinweise im Konto — aufgeklärt am 08.08.2026 abends (nichts verändert)
 
-1. Google-Tag „Taeradesign": **„Maßnahme(n) erforderlich"** (Data
-   Manager; Detail noch nicht gesichtet)
-2. Gotteslob-Max-Performance: alle Asset-Gruppen durch **Richtlinien**
-   eingeschränkt (Grund noch nicht gesichtet)
-3. Conversion „Google Shopping App Add To Cart": „Überprüfung
-   erforderlich"
-4. Google kündigt **Passkey-Pflicht** für sensible Kontoaktionen an
-   (Betreiber-Schritt)
+1. Google-Tag „Maßnahme(n) erforderlich" = **Tag-Abdeckungs-Diagnose,
+   kosmetisch:** 268 Seiten getaggt, nur 3 ungetaggt (eine
+   Stripe/Klarna-Durchgangsseite + zwei vom Konfigurator erzeugte
+   versteckte Produktklone), 156 „keine neuen Daten"
+   (Kundenkonto-Seiten). Zweiter Punkt: Vorschlag, weitere Domains für
+   domainübergreifende Messung zu konfigurieren (u. a.
+   `account.taeradesign.com`) — Konfigurationsentscheidung des
+   Betreibers, kein Defekt.
+2. Gotteslob-Max-Performance: Richtlinie **„Religiöse Überzeugungen in
+   personalisierten Anzeigen"** — Google stuft Gotteslob-Inhalte als
+   religiös ein; die Asset-Gruppe wird nur eingeschränkt ausgeliefert
+   (bestimmte Länder/Geräte). **Strukturelle Folge für die
+   Kommunion-Saison:** Personalisierungslastige Kampagnen (PMax) sind
+   für Gotteslob-Produkte gedeckelt; keyword-basierte Suchanzeigen auf
+   explizite Suchanfragen („gotteslobhülle personalisiert") sind der
+   naheliegende Weg (Einschätzung, im Entwurf zu verifizieren).
+   „Einspruch einlegen" wäre möglich — Betreiber-Entscheidung.
+   Beachtenswert: In der laufenden „Filzprodukte"-Kampagne ist
+   „Gotteslobhülle" trotzdem ein wachsendes Suchthema — der
+   Feed-Verkauf läuft also nicht auf null.
+3. Add To Cart „Überprüfung erforderlich" = die Aktion erfasst
+   nachweislich (letzte Conversion am 08.08.2026); der Hinweis ist
+   Googles Aufforderung, **erweiterte Conversions** zu aktivieren
+   (gehashte Kundendaten) — kollidiert mit roter Linie 3, **bleibt
+   bewusst aus**, Hinweis wird dauerhaft ignoriert. Positiv-Befund im
+   selben Dialog: **„Einwilligungsmodus ist aktiviert"** ✓.
+4. **Passkey-Pflicht** für sensible Kontoaktionen angekündigt —
+   Betreiber-Schritt. (Beim Sichten öffnete Google von sich aus einen
+   Passkey-Einrichtungs-Tab; Claude hat ihn nicht angefasst.)
 
-## 4. Prüfliste (Stand 08.08.2026)
+### Detail-Sichtung „Filzprodukte" (08.08.2026 abends, lesend)
+
+**Einstellungen:** Optimiert auf Käufe, **Gebotsstrategie Ziel-CPA
+29,57 €**, Budget 10 €/Tag (limitiert), Standort Deutschland, Sprache
+Deutsch, Merchant Center **5293575741**, Feed „Alle Produkte aus allen
+Feeds", Kundenakquisition ohne Sondergebote, keine Wertregeln. **Eine**
+Asset-Gruppe „Filzprodukte" (19 Bilder, 1 Video, Anzeigeneffektivität
+„Durchschnittlich", Zielgruppensignal 25–34 u. a.) für das gesamte
+Sortiment.
+
+**⚠ Die wichtigste Zahl: Ziel-CPA 29,57 € ≈ Ø-Bestellwert 30,55 €.**
+Real zahlte die Kampagne letzte Woche nur ~12 € je Kauf, weil das
+Budget deckelt. Würde das Budget erhöht, dürfte Google bis ~30 € je
+Kauf bieten — bei ~24 € Nettoerlös je Durchschnittsbestellung sicher
+defizitär. **Vor jeder Budget-Erhöhung muss das Ziel-CPA runter oder
+die Strategie auf Ziel-ROAS umgestellt werden** (Betreiber-Entscheidung
+im Kampagnenentwurf).
+
+**Suchthemen** (Google-Insights, steigend): Geschenke ↗,
+Schlüsselanhänger ↗, Gotteslobhülle ↗, Equidenpass. Smart-Bidding-
+Signale: Brand-Suche „taeradesign", Rheinland-Pfalz, Smartphone,
+werktags 11–19 Uhr.
+
+**Produktebene (Woche 01.–07.08.):** Conversions kamen u. a. von
+Filzplatten (1 Kauf, Wert 22,50), Wichtel-Miniatur „Wohnzimmer" (1
+Kauf, 10,98 — **Wichtel verkauft schon im August**), Schlüsselanhänger
+(1 Kauf, 16,74). Feed-Pflegebedarf: Schultüten-Anhänger mit Warnungen
+„fehlende Farbe/Altersgruppe/Geschlecht" und Status „aktiv
+(eingeschränkt)".
+
+## 4. Wirtschaftlichkeit — erste Rechnung am Leitprodukt (08.08.2026)
+
+Betreiber-Angabe: **Gotteslobhülle ≈ 3 € Material, ≈ 25 Minuten
+Arbeit.** Rechnung (Annahmen: 19 % USt.; Gebühren für
+Zahlungsabwicklung/Shopify und Verpackung noch nicht abgezogen;
+Versand als kostendeckend angenommen):
+
+| Position | je Gotteslobhülle (28,99 €) |
+|---|---|
+| Nettoerlös (÷ 1,19) | 24,36 € |
+| − Material | −3,00 € |
+| = Deckungsbeitrag vor Arbeit und Werbung | **21,36 €** |
+| Stundenlohn-Äquivalent ohne Werbekosten (25 min) | ≈ 51 €/h |
+| − Werbekosten je Kauf, real letzte Woche (72,27 € / 6) | −12,05 € → **≈ 22 €/h** |
+| − Werbekosten je Kauf bei ausgeschöpftem Ziel-CPA | −29,57 € → **−8,21 € Verlust vor Arbeitslohn** |
+
+Lesart: Beim realen Wochenwert arbeitet die Werbung auskömmlich (der
+Klickpreis-Deckel durch das kleine Budget schützt); das eingestellte
+Ziel-CPA wäre, wenn Google es ausschöpft, defizitär. Und: Ein Teil der
+Ads-Käufe sind günstigere Artikel (10–22 € Bestellwert), dort ist die
+Rechnung entsprechend knapper. Margen weiterer Produktgruppen
+(Wichtel, Schlüsselanhänger, Mappen, Filzplatten) nach Bedarf beim
+Kampagnenentwurf erfragen.
+
+## 5. Prüfliste (Stand 08.08.2026 abends)
 
 1. ~~Kontozustand~~ **erledigt** — aktiv, Abrechnung läuft, Historie
    vorhanden (Abschnitt 3)
 2. ~~Kauf-Conversion~~ **erledigt** — Shopify-App-Purchase aktiv/primär
    mit Wertübergabe
 3. ~~GA4 ↔ Ads~~ **erledigt** — verknüpft, GA4-Aktionen importiert
-4. ~~Consent-Verifikation~~ **erledigt** — Accept-Pfad feuert
-   (Abschnitt 2)
-5. ~~Merchant Center~~ **erledigt** — verknüpft, Shopify-Feed-Anbindung
-   aktiv
-6. **Offen: Shopify-Bestsellerdaten je Saison** (Shopify-Admin) — sie
-   ersetzen die Saison-Annahmen und steuern die Produktauswahl der
-   Kampagnen
-7. **Offen: Margen je Produktgruppe** (Betreiber) — ohne sie keine
-   seriöse Budget-/ROAS-Bewertung
-8. **Offen: Detail-Sichtung der laufenden PMax** — Suchbegriffe,
-   Asset-Gruppen, beworbene Produkte, sowie die drei Warnhinweise aus
-   Abschnitt 3
+4. ~~Consent-Verifikation~~ **erledigt** — Accept-Pfad feuert, Consent
+   Mode aktiv (Abschnitt 2 und 3)
+5. ~~Merchant Center~~ **erledigt** — verknüpft (5293575741),
+   Shopify-Feed-Anbindung aktiv
+6. ~~Detail-Sichtung der laufenden PMax + Warnhinweise~~ **erledigt**
+   (Abschnitt 3)
+7. **Teilweise: Margen** — Gotteslobhülle liegt vor (Abschnitt 4);
+   weitere Produktgruppen beim Entwurf
+8. **Offen: Shopify-Bestsellerdaten je Saison** — blockiert am
+   08.08.2026: Shopify-Admin verlangt Login; Anmeldung macht der
+   Betreiber selbst (Claude gibt keine Zugangsdaten ein), danach
+   Fortsetzung
 9. **Offen: Shopify-Admin-Sichtung** — installierte Apps (Konfigurator,
-   Bewertungs-App, Google & YouTube), Versandkosten
+   Bewertungs-App, Google & YouTube), Versandkosten (gleiche Blockade
+   wie 8)
 
-## 5. Kampagnen-Grobgedanke (Skizze — nach neuem Befund geschärft)
+## 6. Kampagnen-Grobgedanke (Skizze — nach neuem Befund geschärft)
 
 Die Frage ist nicht mehr „Ads aufbauen", sondern: **Was tun mit einer
 laufenden, budgetlimitierten PMax mit ROAS ≈ 2,5 — und wie die neue
@@ -136,7 +212,7 @@ nach Prüfliste 6–8):
 - Werbebotschaft in allem: **Konfigurator mit Live-Vorschau**,
   Handarbeit/Made in Germany, Bewertungszahlen mit Stand
 
-## 6. Rote Linien (Startfassung — Betreiber ergänzt oder streicht)
+## 7. Rote Linien (Startfassung — Betreiber ergänzt oder streicht)
 
 1. **Budget, Aktivierung und jede Zahlungsfrage entscheidet der
    Betreiber.** Claude legt nichts scharf, pausiert nichts, ändert
