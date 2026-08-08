@@ -1,0 +1,9 @@
+* text=auto eol=lf
+
+# Binaerdateien: nicht zeilenweise diffen oder mergen
+*.pdf  binary
+*.png  binary
+*.jpg  binary
+*.xlsx binary
+*.docx binary
+*.zip  binary
