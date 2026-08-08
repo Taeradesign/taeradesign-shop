@@ -403,20 +403,51 @@ maßvoll und **nur bei gehaltenem ROAS-Ziel** — nicht als Vorschuss.
   Marktplätzen; realistisch erreichbar ist zunächst die Spanne 4–6 —
   jede Stufe wird gegen die Vormonate belegt, nicht behauptet.
 
-### Entscheidungsliste für den Betreiber
+### Entscheidungsliste — entschieden am 08.08.2026 (abends)
 
-1. **Ziel-ROAS-Umstellung** der „Filzprodukte"-PMax: ja/nein; Startwert
-   (Vorschlag 350 %)
-2. **Stundensatz-Ansatz** für die Margenrechnung (die Tabelle oben
-   rechnet die Folgen vor — welcher Lohn soll der Werbung als
-   Untergrenze dienen?)
-3. **Brand-Trennung:** Markenausschluss in der PMax + eigene
-   Brand-Kampagne: ja/nein
-4. **Wichtelwelt-Kampagne:** ja/nein; Start Mitte September oder
-   1. Oktober; Tagesbudget (Vorschlag 5 €)
-5. **Kommunion-Struktur:** Suchkampagne wie skizziert ja/nein;
-   Shopping-Test ja/nein; Kapazitätsgrenze der Fertigung in der
-   Spitze (Hüllen/Woche)
-6. **Umsetzungsweg:** Betreiber selbst mit Anleitung / Claude per
-   Chrome mit Einzelfreigaben (Anlage pausiert, Aktivierung Betreiber)
+1. **Ziel-ROAS-Umstellung: ja.**
+2. **Stundenlohn-Untergrenze: 37 €/h** — am Leitprodukt entspricht das
+   **Ziel-ROAS 500 %** als Zielzustand (Tabelle oben).
+3. **Brand-Trennung: ja.**
+4. **Wichtelwelt-Kampagne: ja** (Startdatum offen gelassen — Anlage
+   pausiert, das Aktivierungsdatum entscheidet sich beim Aktivieren;
+   Vorschlag bleibt ~1. Oktober, Vorziehen auf Mitte September
+   möglich).
+5. **Kommunion: ja, Shopping-Test: ja.** Kapazität laut Betreiber:
+   **60 Hüllen/Tag in der Spitze ≈ 420/Woche.** Damit ist die
+   Fertigung im geplanten Budgetrahmen **kein Engpass** — die Werbung
+   liefert derzeit 6 Käufe pro *Woche*; selbst eine Verzwanzigfachung
+   bliebe weit unter der Kapazität.
+6. **Umsetzung: Claude per Chrome mit Einzelfreigaben.** Jede
+   Kontoänderung wird vorher mit konkreten Werten vorgelegt; angelegt
+   wird pausiert, **aktiviert wird ausschließlich vom Betreiber.**
+
+### Auflösung des Zielkonflikts 350 % ↔ 37 €/h (= 500 %)
+
+Der Ist-ROAS liegt bei ~250 %. Ein Sprung direkt auf 500 % halbiert
+das erlaubte Gebotsniveau schlagartig — erfahrungsgemäß drosselt
+Google dann die Auslieferung gegen null, und die Lernphase bekommt
+keine Kaufdaten. **Empfehlung: Rampe.** Start **400 %**, nach zwei
+stabilen Wochen **450 %**, nach zwei weiteren **500 %** (die
+Untergrenze). Preis der Rampe: rund vier Wochen leicht unterhalb der
+37-€-Linie (≈ 34 €/h), dafür bleibt das Volumen als Datenbasis
+erhalten. Alternative auf Wunsch: direkt 500 % mit bewusst
+akzeptiertem Volumeneinbruch — Betreiber wählt in Freigabe A.
+
+### Umsetzungsplan (Einzelfreigabe je Schritt)
+
+| Schritt | Änderung | Konkrete Werte | Status |
+|---|---|---|---|
+| **A** | PMax „Filzprodukte": Gebotsstrategie Ziel-CPA 29,57 € → **Ziel-ROAS** | Start 400 % (Rampe 450 → 500 % je nach Verlauf; oder direkt 500 %, s. o.). Budget bleibt 10 €/Tag | wartet auf Freigabe |
+| **B** | **Markenliste „Taeradesign"** anlegen und in der PMax als Markenausschluss setzen | Marke: Taeradesign (+ Schreibvariante „Taera Design") | wartet auf Freigabe |
+| **C** | **Brand-Suchkampagne** anlegen (pausiert) | Name „Brand Taeradesign", nur Suchnetzwerk (Partner aus), DE/Deutsch, 1,50 €/Tag, Klicks maximieren mit CPC-Limit 0,50 €. Keywords: [taeradesign], "taeradesign", [taera design], "taeradesign shop", "taeradesign gotteslobhülle". Titel-Bausteine: „Taeradesign Online-Shop" · „Filzunikate mit Live-Vorschau" · „Direkt vom Hersteller" · „Konfigurator mit Vorschau" · „Handarbeit aus Deutschland" · „Gotteslobhüllen und mehr". Textzeilen: „Der Taeradesign-Shop: personalisierte Filzprodukte im Konfigurator gestalten." · „Bestickt statt bedruckt, gefertigt in Deutschland — mit Live-Vorschau." Zielseite Startseite | wartet auf Freigabe (Texte = Lesung in der Freigabe) |
+| **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | wartet auf Freigabe |
+| **E** | **Feed-Pflege:** fehlende Attribute Schultüten-Anhänger (Farbe, Altersgruppe, Geschlecht) in der Google-&-YouTube-App nachtragen | betrifft die „aktiv (eingeschränkt)"-Produkte aus §3 | wartet auf Freigabe (unkritisch, jederzeit) |
+| **F** | **Kommunion-Suchkampagne + Standard-Shopping-Test** anlegen (pausiert) | Struktur und Texte aus Stufe 2; Anlage **im Dezember** mit Text-Lesung, live 1. Januar | geplant Dezember 2026 |
+
+Nach A–D: vier Wochen Messplan (wöchentlich ROAS je Kampagne, Brand
+getrennt), dann Budgetentscheidung. **Vor Aktivierung von C und D
+soll das Shop-Update durch sein** (Tippfehler, SEO —
+Betreiber-Reihenfolge vom 08.08.2026), damit die Anzeigen auf
+fehlerfreie Seiten führen.
 
