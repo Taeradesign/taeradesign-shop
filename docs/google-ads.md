@@ -216,7 +216,7 @@ Ziel-CPA 29,57 € auf Ziel-ROAS umstellen, Brand-Nachfrage ausbauen
 („taeradesign" macht bereits 1.320 €/Quartal), Feed-Pflege, und
 Budget nur dort, wo die Marge es trägt.
 
-## 6. Kampagnen-Grobgedanke (Skizze — nach neuem Befund geschärft)
+## 6. Kampagnen-Grobgedanke (Skizze vom Nachmittag — ausgearbeitet in Abschnitt 8)
 
 Die Frage ist nicht mehr „Ads aufbauen", sondern: **Was tun mit einer
 laufenden, budgetlimitierten PMax mit ROAS ≈ 2,5 — und wie die neue
@@ -247,3 +247,176 @@ nach Prüfliste 6–8):
    08.08.2026 für Ads-Konto und Shopify-Admin; Muster keiltronic):
    Datenabfrage ja; Signups, Zahlungsdaten, Einstellungsänderungen
    macht der Betreiber.
+
+---
+
+## 8. Kampagnenentwurf (08.08.2026 — Entscheidungsvorlage)
+
+**Status: Entwurf. Nichts davon ist im Konto umgesetzt.** Jede Stufe
+braucht eine Betreiber-Entscheidung (Liste am Ende); Umsetzung dann wie
+beim keiltronic-Muster: Anlage gern durch Claude nach Einzelfreigabe,
+grundsätzlich **pausiert** — die Aktivierung bleibt Betreiber-Sache.
+Alle Budget- und Zielwerte sind **Vorschläge**, keine Fakten.
+
+### Leitidee
+
+Nicht „mehr Budget in die bestehende Kampagne", sondern **erst die
+Steuerung reparieren, dann saisonal ausbauen**: Die laufende PMax
+bekommt ein Wertziel statt des gefährlichen Ziel-CPA; die Saisonfenster
+(Wichtel ab Herbst, Kommunion ab Januar) bekommen eigene Kampagnen mit
+eigener Ökonomie; die Brand-Nachfrage wird herausgelöst, damit die
+Zahlen ehrlich werden. Werbebotschaft überall: **Konfigurator mit
+Live-Vorschau, bestickt statt bedruckt, Handarbeit aus Deutschland.**
+
+### Stufe 0 — Fundament reparieren (sofort, unabhängig von der Saison)
+
+1. **Gebotsstrategie der „Filzprodukte"-PMax: Ziel-CPA 29,57 € →
+   Ziel-ROAS.** Rechnung am Leitprodukt (Abschnitt 4, Annahme
+   19 % USt., vor Gebühren):
+
+   | Ziel-ROAS | Werbekosten je 29-€-Kauf | bleibt für 25 min Arbeit | ≈ Stundenlohn |
+   |---|---|---|---|
+   | 250 % (heute real) | ~11,60 € | 9,76 € | ~23 €/h |
+   | **350 % (Vorschlag Start)** | ~8,30 € | 13,06 € | ~31 €/h |
+   | **400 % (Vorschlag Ziel)** | ~7,25 € | 14,11 € | ~34 €/h |
+   | 500 % (ambitioniert) | ~5,80 € | 15,56 € | ~37 €/h |
+
+   Vorschlag: **Start bei 350 %, nach vier stabilen Wochen auf 400 %
+   heben.** Höher lohnt erst, wenn das Volumen nicht einbricht — ein zu
+   scharfes Ziel würgt die Auslieferung ab. Hinweis zur Mechanik: Der
+   Strategiewechsel setzt die Lernphase zurück; 1–2 Wochen Schwankung
+   sind normal und kein Grund zum Zurückdrehen.
+2. **Budget der PMax vorerst bei 10 €/Tag belassen.** Erhöhung erst,
+   wenn das ROAS-Ziel vier Wochen gehalten wird (Messplan unten) —
+   nicht auf Googles Budget-Empfehlung hin.
+3. **Brand herauslösen:** In der PMax die **Markenausschlüsse** auf
+   „Taeradesign" setzen und parallel eine kleine
+   **Brand-Suchkampagne** anlegen ("taeradesign", [taeradesign shop]
+   u. ä., 1–2 €/Tag, Ziel: Platz 1 unter der eigenen Marke halten).
+   Warum: Die Brand-Käufe (1.320 €/Quartal) laufen heute durch die
+   PMax und **schönen deren ROAS** — nach der Trennung zeigt die PMax
+   ihre echte Neukunden-Leistung, und erst dann ist die
+   Budget-Steuerung ehrlich. Achtung: Der ausgewiesene PMax-ROAS wird
+   dadurch optisch **sinken** — das ist Aufklärung, kein Rückschritt.
+4. **Feed-Pflege im Merchant Center / in der Google-&-YouTube-App:**
+   fehlende Attribute der Schultüten-Anhänger (Farbe, Altersgruppe,
+   Geschlecht) nachtragen; die zwei ungetaggten Konfigurator-Klone
+   bleiben ignoriert.
+5. **Alt-Kampagnen aufräumen (nur Hygiene, keine Reaktivierung):** Die
+   sieben pausierten Kampagnen bleiben pausiert; der PMax-Entwurf
+   „Kampagne-Urkundenmappe" (05/2025) kann gelöscht werden, wenn der
+   Betreiber ihn nicht mehr braucht.
+
+### Stufe 1 — Wichtel-Saison (Anlage im September, live ~1. Oktober)
+
+**Eigene PMax „Wichtelwelt"** mit Feed-Filter auf die
+Wichtel-Kategorien (Eintragsgruppen), eigener Asset-Gruppe mit
+Wichtel-Bildern und **Ziel-ROAS höher als beim Fundament — Vorschlag
+450–500 %**, weil die Warenkörbe klein sind (gesehene
+Wichtel-Bestellwerte ~11 €; bei 5 € Werbekosten je 11-€-Kauf wäre die
+Marge weg). Budget-Vorschlag: **5 €/Tag ab Oktober, Dezember-Hälfte
+prüfen, Ende Dezember pausieren.** Die Ads-Produktdaten zeigen
+Wichtel-Käufe schon im August — ein Vorziehen auf Mitte September ist
+vertretbar, wenn die Fertigung die Weihnachtslast früh annehmen will.
+Flankierende Shop-Idee (fürs Shop-Update): **Wichtel-Sets/Bundles**
+heben den kleinen Warenkorb — das verbessert jede Werbe-Ökonomie mehr
+als jede Gebotsoptimierung.
+
+### Stufe 2 — Kommunion (Anlage im Dezember, live 1. Januar bis ~30. April)
+
+Das ist das wichtigste Fenster (≈ 2/3 des Shop-Jahres, Conversion-Rate
+~5 %, Ø-Bestellwert 46 €) — und wegen der Richtlinie „Religiöse
+Überzeugungen in personalisierten Anzeigen" der Ort für
+**keyword-basierte Suchanzeigen statt PMax-Personalisierung**:
+
+- **Suchkampagne „Kommunion"**, Deutschland, Deutsch, Ziel-ROAS oder
+  (bei dünner Datenlage zum Start) manuell begrenzte CPCs. Zwei
+  Anzeigengruppen zum Start:
+  - **A Gotteslobhülle:** "gotteslobhülle", "gotteslob hülle",
+    "gotteslobhülle mit namen", "gotteslobhülle personalisiert",
+    "gotteslobhülle filz", "gotteslobhülle kommunion", "gotteslob
+    einband", [gotteslobhülle bestickt] → Zielseite
+    Gotteslobhüllen-Konfigurator
+  - **B Kommunion-Geschenk personalisiert:** "kommunion geschenk
+    personalisiert", "geschenk kommunion mädchen personalisiert",
+    "geschenk kommunion junge personalisiert" — Testgruppe mit kleinem
+    Anteil; breiter, teurer, dafür großes Publikum → Zielseite
+    Themenwelt Kommunion & Firmung
+  - Ausschlüsse (Start): schnittmuster, selber nähen, selber machen,
+    anleitung, kostenlos, gebraucht, amazon, ebay, etsy
+- **Anzeigen-Bausteine (Entwurf — Lesung durch Betreiber vor
+  Verwendung, Zeichenlimits beim Anlegen final prüfen):** Titel:
+  „Gotteslobhülle mit Namen" · „Im Konfigurator gestalten" ·
+  „Live-Vorschau beim Gestalten" · „Bestickt statt bedruckt" ·
+  „Handarbeit aus Deutschland" · „Zur Kommunion & Firmung" · „3-mm-Filz,
+  Markenstickgarn". Textzeilen: „Aus Filz, bestickt statt bedruckt —
+  gestalte sie im Konfigurator mit Live-Vorschau." · „Filzfarbe, Motiv,
+  Garnfarben und Text frei wählbar — gefertigt in Deutschland." Die
+  Lieferzusage („2–3 Tage") nur verwenden, wenn sie auch in der
+  Hochsaison hält — Betreiber-Bestätigung nötig.
+- **Optionaler Test parallel:** Standard-Shopping-Kampagne nur für
+  Gotteslob-Produkte (suchanfragengetrieben, weniger
+  personalisierungsabhängig als PMax). Erwartung unklar — die
+  Richtlinien-Behandlung von Shopping-Anzeigen für religiöse Artikel
+  zeigt erst der Versuch; als kleiner Test (2–3 €/Tag) einplanbar.
+- **Budget-Vorschlag Hochsaison:** Suche 8–12 €/Tag (+ ggf.
+  Shopping-Test), Fundament-PMax läuft mit 10 €/Tag weiter →
+  Gesamtrahmen ~20 €/Tag Januar–April. Nur ausschöpfen, wenn die
+  ROAS-Ziele halten; die Rechnung „mehr Budget = mehr Gewinn" gilt bei
+  Handarbeit nur bis zur Fertigungsgrenze — **die Kapazität in der
+  Kommunion-Spitze setzt das echte Limit** (Betreiber-Einschätzung
+  nötig: wie viele Hüllen pro Woche sind lieferbar?).
+
+### Stufe 3 — Sommer (Mai–Juli)
+
+Zurück aufs Fundament: nur die PMax mit 10 €/Tag (oder abgesenkt),
+Einschulungs-Nachfrage (Zeugnismappen, Schultüten-Anhänger) läuft über
+den Feed mit. Eine eigene Einschulungs-Kampagne ist Kür für 2027 —
+erst, wenn Wichtel und Kommunion bewiesen haben, dass die
+Saisonstruktur trägt.
+
+### Jahres-Budgetrahmen (Vorschlag, alles Betreiber-Entscheidung)
+
+| Zeitraum | Kampagnen | Rahmen/Tag | ≈ Monat |
+|---|---|---|---|
+| Aug–Sep | Fundament (nach tROAS-Umbau) + Brand | 11–12 € | ~350 € |
+| Okt–Dez | + Wichtelwelt | 16–17 € | ~500 € |
+| Jan–Apr | + Kommunion-Suche (Wichtel aus) | ~20 € | ~600 € |
+| Mai–Jul | Fundament + Brand | 8–12 € | ~300 € |
+
+Zum Vergleich: Heute laufen ~300 €/Monat. Der Rahmen skaliert also
+maßvoll und **nur bei gehaltenem ROAS-Ziel** — nicht als Vorschuss.
+
+### Messplan und Erfolgskriterien
+
+- **Wöchentlich** (erste vier Wochen nach jedem Umbau): ROAS je
+  Kampagne (Conv.-Wert ÷ Kosten), Käufe, Ø-Bestellwert; bei der PMax
+  zusätzlich die Suchthemen-Insights. Brand und Nicht-Brand getrennt
+  lesen.
+- **Monatlich:** Shopify-Umsatz gegen Ads-Umsatz stellen (die
+  Shopify-Zahlen sind die Wahrheit, Ads attribuiert großzügig);
+  Saisonkurve in `ist-zustand.md` §7 fortschreiben.
+- **Erfolgskriterium Stufe 0 (Vorschlag):** ROAS ≥ 350 % über vier
+  Wochen bei mindestens gehaltenem Kaufvolumen → dann erste
+  Budgeterhöhung testen (10 → 13 €/Tag).
+- **Messlatte (Abschnitt 5a):** Richtung ROAS 10 wie auf den
+  Marktplätzen; realistisch erreichbar ist zunächst die Spanne 4–6 —
+  jede Stufe wird gegen die Vormonate belegt, nicht behauptet.
+
+### Entscheidungsliste für den Betreiber
+
+1. **Ziel-ROAS-Umstellung** der „Filzprodukte"-PMax: ja/nein; Startwert
+   (Vorschlag 350 %)
+2. **Stundensatz-Ansatz** für die Margenrechnung (die Tabelle oben
+   rechnet die Folgen vor — welcher Lohn soll der Werbung als
+   Untergrenze dienen?)
+3. **Brand-Trennung:** Markenausschluss in der PMax + eigene
+   Brand-Kampagne: ja/nein
+4. **Wichtelwelt-Kampagne:** ja/nein; Start Mitte September oder
+   1. Oktober; Tagesbudget (Vorschlag 5 €)
+5. **Kommunion-Struktur:** Suchkampagne wie skizziert ja/nein;
+   Shopping-Test ja/nein; Kapazitätsgrenze der Fertigung in der
+   Spitze (Hüllen/Woche)
+6. **Umsetzungsweg:** Betreiber selbst mit Anleitung / Claude per
+   Chrome mit Einzelfreigaben (Anlage pausiert, Aktivierung Betreiber)
+
