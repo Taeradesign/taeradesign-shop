@@ -158,7 +158,8 @@ sobald wir in den Admin schauen.
 1. **Etsy-Präsenz sichten** (Sortiment, Bewertungen, Preisvergleich).
 2. **Shopify-Admin:** installierte Apps (Konfigurator, Bewertungen,
    Google & YouTube), Versandkosten, echte Bestsellerdaten je Saison.
-3. **Tracking verifizieren** → [`google-ads.md`](google-ads.md).
+3. ~~Tracking verifizieren~~ **erledigt 08.08.2026** — funktioniert;
+   Befund und Konto-Ist-Stand in [`google-ads.md`](google-ads.md).
 4. **Amazon-Markenauftritt** („Generisch") — separate Baustelle, nicht
    Teil des Shop-Updates.
 5. **Vollständiger Text-Durchgang** vor der Korrekturrunde (Abschnitt 6).
