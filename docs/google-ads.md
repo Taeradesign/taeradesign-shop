@@ -422,6 +422,18 @@ maßvoll und **nur bei gehaltenem ROAS-Ziel** — nicht als Vorschuss.
    Kontoänderung wird vorher mit konkreten Werten vorgelegt; angelegt
    wird pausiert, **aktiviert wird ausschließlich vom Betreiber.**
 
+### Umsetzungsprotokoll 08.08.2026 (Claude per Chrome, mit Einzelfreigabe)
+
+- **A erledigt und im Konto verifiziert:** PMax „Filzprodukte"
+  Gebotsstrategie auf **Ziel-ROAS 400 %** umgestellt (Budget
+  unverändert 10 €/Tag, Kampagne bleibt aktiv). Lernphase-Reset ist
+  normal — 1–2 Wochen Schwankung nicht überinterpretieren.
+- **B blockiert (neuer Befund):** Der PMax-Markenausschluss verlangt
+  eine **in Googles Markenbibliothek verifizierte Marke**. „Taeradesign"
+  war nicht enthalten; Markenanfrage (Kategorie Unternehmen, URL
+  taeradesign.com, Zweitname „Taera Design") wurde gesendet, Prüfung
+  **4–6 Wochen**. → Wiedervorlage ~20.09.2026.
+
 ### Auflösung des Zielkonflikts 350 % ↔ 37 €/h (= 500 %)
 
 Der Ist-ROAS liegt bei ~250 %. Ein Sprung direkt auf 500 % halbiert
@@ -438,16 +450,21 @@ akzeptiertem Volumeneinbruch — Betreiber wählt in Freigabe A.
 
 | Schritt | Änderung | Konkrete Werte | Status |
 |---|---|---|---|
-| **A** | PMax „Filzprodukte": Gebotsstrategie Ziel-CPA 29,57 € → **Ziel-ROAS** | Start 400 % (Rampe 450 → 500 % je nach Verlauf; oder direkt 500 %, s. o.). Budget bleibt 10 €/Tag | wartet auf Freigabe |
-| **B** | **Markenliste „Taeradesign"** anlegen und in der PMax als Markenausschluss setzen | Marke: Taeradesign (+ Schreibvariante „Taera Design") | wartet auf Freigabe |
-| **C** | **Brand-Suchkampagne** anlegen (pausiert) | Name „Brand Taeradesign", nur Suchnetzwerk (Partner aus), DE/Deutsch, 1,50 €/Tag, Klicks maximieren mit CPC-Limit 0,50 €. Keywords: [taeradesign], "taeradesign", [taera design], "taeradesign shop", "taeradesign gotteslobhülle". Titel-Bausteine: „Taeradesign Online-Shop" · „Filzunikate mit Live-Vorschau" · „Direkt vom Hersteller" · „Konfigurator mit Vorschau" · „Handarbeit aus Deutschland" · „Gotteslobhüllen und mehr". Textzeilen: „Der Taeradesign-Shop: personalisierte Filzprodukte im Konfigurator gestalten." · „Bestickt statt bedruckt, gefertigt in Deutschland — mit Live-Vorschau." Zielseite Startseite | wartet auf Freigabe (Texte = Lesung in der Freigabe) |
-| **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | wartet auf Freigabe |
-| **E** | **Feed-Pflege:** fehlende Attribute Schultüten-Anhänger (Farbe, Altersgruppe, Geschlecht) in der Google-&-YouTube-App nachtragen | betrifft die „aktiv (eingeschränkt)"-Produkte aus §3 | wartet auf Freigabe (unkritisch, jederzeit) |
-| **F** | **Kommunion-Suchkampagne + Standard-Shopping-Test** anlegen (pausiert) | Struktur und Texte aus Stufe 2; Anlage **im Dezember** mit Text-Lesung, live 1. Januar | geplant Dezember 2026 |
+| **A** | PMax „Filzprodukte": Gebotsstrategie Ziel-CPA 29,57 € → **Ziel-ROAS** | **400 %** gesetzt (Rampe → 450 → 500 %). Budget bleibt 10 €/Tag | **✅ ERLEDIGT 08.08.2026** (im Konto verifiziert: „Ziel-ROAS – 400 %") |
+| **B** | **Markenliste „Taeradesign"** anlegen und in der PMax als Markenausschluss setzen | Marke: Taeradesign (+ Schreibvariante „Taera Design"), URL taeradesign.com | **⚠ BLOCKIERT:** „Taeradesign" ist **nicht in Googles Markenbibliothek**. Markenanfrage am 08.08.2026 gesendet — **Prüfung 4–6 Wochen**. Ausschluss kann erst nach Freigabe (ca. Mitte/Ende September) gesetzt werden. Bis dahin übernimmt Schritt C die Brand-Abschöpfung teilweise |
+| **C** | **Brand-Suchkampagne** anlegen (pausiert) | Name „Brand Taeradesign", nur Suchnetzwerk (Partner aus), DE/Deutsch, 1,50 €/Tag, Klicks maximieren mit CPC-Limit 0,50 €. Keywords: [taeradesign], "taeradesign", [taera design], "taeradesign shop", "taeradesign gotteslobhülle". Titel-Bausteine: „Taeradesign Online-Shop" · „Filzunikate mit Live-Vorschau" · „Direkt vom Hersteller" · „Konfigurator mit Vorschau" · „Handarbeit aus Deutschland" · „Gotteslobhüllen und mehr". Textzeilen: „Der Taeradesign-Shop: personalisierte Filzprodukte im Konfigurator gestalten." · „Bestickt statt bedruckt, gefertigt in Deutschland — mit Live-Vorschau." Zielseite Startseite | freigegeben — Anlage als Nächstes |
+| **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | freigegeben — Anlage als Nächstes |
+| **E** | **Feed-Pflege:** fehlende Attribute Schultüten-Anhänger (Farbe, Altersgruppe, Geschlecht) in der Google-&-YouTube-App nachtragen | betrifft die „aktiv (eingeschränkt)"-Produkte aus §3 | freigegeben — unkritisch, jederzeit |
+| **F** | **Kommunion-Suchkampagne + Standard-Shopping-Test** anlegen (pausiert) | Struktur und Texte aus Stufe 2 | **vorgezogen auf ~1. Oktober** (Betreiber 08.08.2026: Gotteslobhüllen-Weihnachtsgeschäft beginnt im Oktober — belegt durch Q4-Sichtung „Gotteslobhülle +252 %"). Anlage im September mit Text-Lesung |
 
 Nach A–D: vier Wochen Messplan (wöchentlich ROAS je Kampagne, Brand
-getrennt), dann Budgetentscheidung. **Vor Aktivierung von C und D
+getrennt), dann Budgetentscheidung. **Vor Aktivierung von C, D und F
 soll das Shop-Update durch sein** (Tippfehler, SEO —
 Betreiber-Reihenfolge vom 08.08.2026), damit die Anzeigen auf
 fehlerfreie Seiten führen.
+
+**Merker Markenausschluss (B):** Wiedervorlage ~20.09.2026 — prüfen, ob
+die Marke „Taeradesign" in der Bibliothek verifiziert ist, dann in der
+PMax „Filzprodukte" als Markenausschluss setzen. Erst dann zeigt die
+PMax ihre echte Nicht-Brand-Leistung.
 
