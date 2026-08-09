@@ -469,6 +469,43 @@ maßvoll und **nur bei gehaltenem ROAS-Ziel** — nicht als Vorschuss.
   der Betreiber aktiviert. Aktivierung: Betreiber, empfohlen nach dem
   Shop-Update.
 
+- **D ✅ ERLEDIGT (veröffentlicht 09.08.2026 nachmittags, sofort
+  pausiert):** PMax **„Wichtelwelt", Kampagnen-ID 24118847240, Status
+  PAUSIERT** (im Konto verifiziert, 0 Impressionen — zwischen
+  Veröffentlichen und Pausieren lagen rund drei Minuten). Werte wie
+  freigegeben: **Ziel-ROAS 450 %**; Tagesbudget **benutzerdefiniert
+  5,00 €** (Googles Vorschläge 13,51–20,27 € verworfen); Deutschland,
+  Deutsch; politische Werbung „Nein"; **Eintragsgruppen-Filter
+  Produkttyp „wichtelzubehör"** (183 Produkte, einziger Wichtel-Typ im
+  Feed — auch die Türen laufen darunter); finale URL
+  `taeradesign.com/collections/wichtelturen-und-zubehor` (192-Produkte-
+  Kollektion). Asset-Gruppe „Wichtelwelt": 6 Anzeigentitel, 2 lange
+  Titel, 3 Textzeilen (Lesung 09.08. — bewusst OHNE
+  „Filz/bestickt/Konfigurator/Handarbeit", das Wichtel-Sortiment ist
+  überwiegend Holz-/Metall-/Woll-Miniaturen; ohne Lieferzeit-Zusage),
+  **20 Bilder** (Merchant-Center-Produktfotos, gewählt aus 386
+  Wichtel-Bildern, inkl. Auto-Zuschnitten) + 5 Konto-Logos.
+  **Asset-Optimierung komplett deaktiviert** (Textanpassung,
+  URL-Erweiterung, Bild-/Landingpage-Bilder, Video-Optimierung) — in
+  der Überprüfen-Zusammenfassung ausdrücklich als „Deaktiviert"
+  bestätigt; der C-Befund trat nicht auf. Kein Zielgruppensignal,
+  keine Suchthemen. Googles automatisch generierte Titel/Textzeilen
+  („Deko und Wohnen" u. ä.) vor der Texteingabe komplett gelöscht;
+  Tag-Einrichtungsseite nach dem Veröffentlichen übersprungen.
+  Identitätsprüfung kam einmal (beim Speichern der
+  Kampagneneinstellungen) — **vom Betreiber durchgeführt**; Ziel-ROAS-
+  Wert ebenfalls vom Betreiber getippt (der
+  Claude-Code-Berechtigungsklassifikator blockierte die Eingabe des
+  Gebotswerts; der Budgetwert ging durch). **Vor Aktivierung:
+  Sichtfreigabe der 20 Bilder durch den Betreiber** (Merker).
+- **G entschieden (Betreiber 09.08.2026): Option A** — eigene kleine
+  **Suchkampagne „Zeugnismappen"** noch für die Einschulungssaison
+  2026, pausiert anzulegen nach Text-Lesung (Keywords + RSA im Chat
+  vorgelegt). Begründung: ohne Lernphase ab Tag eins wirksam,
+  CPC-gedeckelt nach Brand-Muster; macht das **Shop-Update
+  zeitkritisch**, weil vor jeder Aktivierung (Restfenster bis ~Mitte
+  September).
+
 ### Auflösung des Zielkonflikts 350 % ↔ 37 €/h (= 500 %)
 
 Der Ist-ROAS liegt bei ~250 %. Ein Sprung direkt auf 500 % halbiert
@@ -488,10 +525,10 @@ akzeptiertem Volumeneinbruch — Betreiber wählt in Freigabe A.
 | **A** | PMax „Filzprodukte": Gebotsstrategie Ziel-CPA 29,57 € → **Ziel-ROAS** | **400 %** gesetzt (Rampe → 450 → 500 %). Budget bleibt 10 €/Tag | **✅ ERLEDIGT 08.08.2026** (im Konto verifiziert: „Ziel-ROAS – 400 %") |
 | **B** | **Markenliste „Taeradesign"** anlegen und in der PMax als Markenausschluss setzen | Marke: Taeradesign (+ Schreibvariante „Taera Design"), URL taeradesign.com | **⚠ BLOCKIERT:** „Taeradesign" ist **nicht in Googles Markenbibliothek**. Markenanfrage am 08.08.2026 gesendet — **Prüfung 4–6 Wochen**. Ausschluss kann erst nach Freigabe (ca. Mitte/Ende September) gesetzt werden. Bis dahin übernimmt Schritt C die Brand-Abschöpfung teilweise |
 | **C** | **Brand-Suchkampagne** anlegen (pausiert) | Wie freigegeben umgesetzt; Details im Umsetzungsprotokoll | **✅ ERLEDIGT 09.08.2026** — ID 24118761062, pausiert; Aktivierung Betreiber nach Shop-Update |
-| **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | freigegeben — Anlage als Nächstes |
+| **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | **✅ ERLEDIGT 09.08.2026** — ID 24118847240, pausiert; Details im Umsetzungsprotokoll. Sichtfreigabe der Bilder + Aktivierung durch Betreiber nach Shop-Update |
 | **E** | **Feed-Pflege:** fehlende Attribute Schultüten-Anhänger (Farbe, Altersgruppe, Geschlecht) in der Google-&-YouTube-App nachtragen | betrifft die „aktiv (eingeschränkt)"-Produkte aus §3 | freigegeben — unkritisch, jederzeit |
 | **F** | **Kommunion-Suchkampagne + Standard-Shopping-Test** anlegen (pausiert) | Struktur und Texte aus Stufe 2 | **vorgezogen auf ~1. Oktober** (Betreiber 08.08.2026: Gotteslobhüllen-Weihnachtsgeschäft beginnt im Oktober — belegt durch Q4-Sichtung „Gotteslobhülle +252 %"). Anlage im September mit Text-Lesung |
-| **G** | **Zeugnismappen/Einschulung** — eigene Kampagne noch für die Saison 2026 (Betreiber-Idee 09.08.2026, siehe Nachtrag Stufe 3) | offen: Format (PMax mit Feed-Filter vs. Suchkampagne), Budget, Ziel-ROAS; Restfenster bis ~Mitte September | **Entscheidung offen** — Optionen am 09.08.2026 im Chat vorgelegt |
+| **G** | **Zeugnismappen/Einschulung** — eigene Kampagne noch für die Saison 2026 (Betreiber-Idee 09.08.2026, siehe Nachtrag Stufe 3) | **Suchkampagne** nach Brand-Muster (Klicks maximieren + CPC-Deckel), pausiert anlegen; Budget/Deckel und Texte per Lesung; Restfenster bis ~Mitte September | **Entschieden 09.08.2026: Option A (Suchkampagne).** Anlage nach Text-Lesung; wiederverwendbar zu jedem Zeugnistermin (Halbjahr ~Ende Januar, Schuljahresende Juni/Juli) |
 
 Nach A–D: vier Wochen Messplan (wöchentlich ROAS je Kampagne, Brand
 getrennt), dann Budgetentscheidung. **Vor Aktivierung von C, D und F
