@@ -433,25 +433,30 @@ maßvoll und **nur bei gehaltenem ROAS-Ziel** — nicht als Vorschuss.
   war nicht enthalten; Markenanfrage (Kategorie Unternehmen, URL
   taeradesign.com, Zweitname „Taera Design") wurde gesendet, Prüfung
   **4–6 Wochen**. → Wiedervorlage ~20.09.2026.
-- **C vollständig konfiguriert, Speichern durch Identitätsprüfung
-  gestoppt (08.08.2026):** Die Brand-Suchkampagne „Brand Taeradesign"
-  wurde per Assistent komplett eingestellt (Werte unten). Beim
-  Budget-Schritt verlangt Google **„Identität bestätigen"** (die
-  angekündigte Passkey-/Sicherheitsprüfung für sensible Aktionen) —
-  **Claude führt keine Identitätsbestätigung/Authentifizierung durch;
-  das macht der Betreiber.** Fehlt zum Abschluss nur: Identitätsprüfung
-  bestätigen, dann Tagesbudget auf **benutzerdefiniert 1,50 €** setzen
-  (der Assistent bot 3,23/2,69/2,15 € an — nicht übernehmen),
-  Überprüfen-Schritt, **pausiert** speichern.
-  Konfigurierte Werte von „Brand Taeradesign":
-  Suchkampagne ohne Zielvorhaben; **Klicks maximieren, CPC-Limit
-  0,50 €**; nur Google-Suchnetzwerk (Partner + Display abgewählt);
-  Standort Deutschland, Sprache Deutsch; politische Werbung „Nein";
-  **AI Max samt Textanpassung und URL-Erweiterung deaktiviert**;
-  Keywords [taeradesign], "taeradesign", [taera design],
-  "taeradesign shop", "taeradesign gotteslobhülle"; Anzeige mit den
-  6 freigegebenen Titeln + 2 Textzeilen, finale URL taeradesign.com,
-  Anzeigeneffektivität „Durchschnittlich" (86 %). Draft-ID 10208272992.
+- **C ✅ ERLEDIGT (veröffentlicht 09.08.2026 kurz nach Mitternacht,
+  sofort pausiert):** Brand-Suchkampagne **„Brand Taeradesign",
+  Kampagnen-ID 24118761062, Status PAUSIERT** (im Konto verifiziert,
+  0 Impressionen — zwischen Veröffentlichen und Pausieren lagen unter
+  zwei Minuten, mitten in der Nacht). Werte: Suchkampagne; **Klicks
+  maximieren mit CPC-Limit 0,50 €**; Tagesbudget **benutzerdefiniert
+  1,50 €** (Googles Vorschläge 2,15–3,23 € verworfen); nur
+  Google-Suchnetzwerk (Partner + Display abgewählt); Deutschland,
+  Deutsch; politische Werbung „Nein"; AI Max samt Textanpassung und
+  URL-Erweiterung im Assistenten deaktiviert; Keywords [taeradesign],
+  "taeradesign", [taera design], "taeradesign shop", "taeradesign
+  gotteslobhülle"; eine RSA mit den sechs freigegebenen Titeln + zwei
+  Textzeilen, finale URL taeradesign.com. Google-Tag-Einrichtungsseite
+  nach dem Veröffentlichen übersprungen (Tag läuft über die
+  Shopify-App). **Der Speichervorgang verlangte zweimal die
+  Google-Identitätsbestätigung — beide Male vom Betreiber selbst
+  durchgeführt** (Claude authentifiziert grundsätzlich nicht).
+  **Vor Aktivierung prüfen (Merker):** In der
+  Überprüfen-Zusammenfassung stand unter „AI Max:
+  Asset-Optimierung — Textanpassung und Erweiterung der finalen URL
+  aktiviert", obwohl die Schalter im Assistenten aus waren — in den
+  Kampagneneinstellungen kontrollieren und ggf. deaktivieren, bevor
+  der Betreiber aktiviert. Aktivierung: Betreiber, empfohlen nach dem
+  Shop-Update.
 
 ### Auflösung des Zielkonflikts 350 % ↔ 37 €/h (= 500 %)
 
@@ -471,7 +476,7 @@ akzeptiertem Volumeneinbruch — Betreiber wählt in Freigabe A.
 |---|---|---|---|
 | **A** | PMax „Filzprodukte": Gebotsstrategie Ziel-CPA 29,57 € → **Ziel-ROAS** | **400 %** gesetzt (Rampe → 450 → 500 %). Budget bleibt 10 €/Tag | **✅ ERLEDIGT 08.08.2026** (im Konto verifiziert: „Ziel-ROAS – 400 %") |
 | **B** | **Markenliste „Taeradesign"** anlegen und in der PMax als Markenausschluss setzen | Marke: Taeradesign (+ Schreibvariante „Taera Design"), URL taeradesign.com | **⚠ BLOCKIERT:** „Taeradesign" ist **nicht in Googles Markenbibliothek**. Markenanfrage am 08.08.2026 gesendet — **Prüfung 4–6 Wochen**. Ausschluss kann erst nach Freigabe (ca. Mitte/Ende September) gesetzt werden. Bis dahin übernimmt Schritt C die Brand-Abschöpfung teilweise |
-| **C** | **Brand-Suchkampagne** anlegen (pausiert) | Name „Brand Taeradesign", nur Suchnetzwerk (Partner aus), DE/Deutsch, 1,50 €/Tag, Klicks maximieren mit CPC-Limit 0,50 €. Keywords: [taeradesign], "taeradesign", [taera design], "taeradesign shop", "taeradesign gotteslobhülle". Titel-Bausteine: „Taeradesign Online-Shop" · „Filzunikate mit Live-Vorschau" · „Direkt vom Hersteller" · „Konfigurator mit Vorschau" · „Handarbeit aus Deutschland" · „Gotteslobhüllen und mehr". Textzeilen: „Der Taeradesign-Shop: personalisierte Filzprodukte im Konfigurator gestalten." · „Bestickt statt bedruckt, gefertigt in Deutschland — mit Live-Vorschau." Zielseite Startseite | freigegeben — Anlage als Nächstes |
+| **C** | **Brand-Suchkampagne** anlegen (pausiert) | Wie freigegeben umgesetzt; Details im Umsetzungsprotokoll | **✅ ERLEDIGT 09.08.2026** — ID 24118761062, pausiert; Aktivierung Betreiber nach Shop-Update |
 | **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | freigegeben — Anlage als Nächstes |
 | **E** | **Feed-Pflege:** fehlende Attribute Schultüten-Anhänger (Farbe, Altersgruppe, Geschlecht) in der Google-&-YouTube-App nachtragen | betrifft die „aktiv (eingeschränkt)"-Produkte aus §3 | freigegeben — unkritisch, jederzeit |
 | **F** | **Kommunion-Suchkampagne + Standard-Shopping-Test** anlegen (pausiert) | Struktur und Texte aus Stufe 2 | **vorgezogen auf ~1. Oktober** (Betreiber 08.08.2026: Gotteslobhüllen-Weihnachtsgeschäft beginnt im Oktober — belegt durch Q4-Sichtung „Gotteslobhülle +252 %"). Anlage im September mit Text-Lesung |
