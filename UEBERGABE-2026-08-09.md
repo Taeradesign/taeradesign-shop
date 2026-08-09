@@ -85,6 +85,10 @@ begonnen.
   `ist-zustand.md` §7 (Kommunion-Halbzeit ≈ 2/3 des ~33-T€-Shop-Jahres)
 - GitHub `Taeradesign/taeradesign-shop` (privat): Push aus der
   Claude-Sitzung funktioniert
-- **OFFEN: `keilbach-vault` hat kein Remote** (nur lokale
-  Git-Historie) — Betreiber entscheidet, unter welchem GitHub-Konto es
-  gesichert wird; danach Remote setzen und pushen
+- Vault-Remote **entschieden 09.08.2026:** privates Repo
+  `github.com/keilbach-thomas/vault` unter dem neuen persönlichen
+  GitHub-Konto (drittes Konto neben keiltronic und Taeradesign — passt
+  zum übergreifenden Zuschnitt). Remote ist gesetzt; der **erste Push
+  läuft mit Betreiber-Anmeldung** (`git -C /c/development/keilbach-vault
+  push -u origin main`), danach pushen Claude-Sitzungen selbst.
+  Standing-Regel ergänzt: Vault-Commits künftig auch **pushen**
