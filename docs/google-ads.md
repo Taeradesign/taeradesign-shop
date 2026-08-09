@@ -375,6 +375,17 @@ den Feed mit. Eine eigene Einschulungs-Kampagne ist Kür für 2027 —
 erst, wenn Wichtel und Kommunion bewiesen haben, dass die
 Saisonstruktur trägt.
 
+**Nachtrag 09.08.2026 (Betreiber):** Eine eigene
+**Zeugnismappen-Kampagne noch für die Einschulungssaison 2026** wird
+geprüft — Zeugnismappen werden bis zur Einschulung im September stark
+gesucht (Betreiber-Beobachtung, kein gemessenes Suchvolumen). Das
+relativiert die „Kür für 2027"-Einordnung oben. Randbedingungen: Das
+Restfenster ist kurz (Einschulung je nach Bundesland zwischen Mitte
+August und Mitte September), eine PMax braucht 1–2 Wochen Lernphase,
+und vor jeder Aktivierung soll das Shop-Update durch sein
+(Betreiber-Regel vom 08.08.2026). Als **Schritt G** im Umsetzungsplan
+geführt; Entscheidung offen.
+
 ### Jahres-Budgetrahmen (Vorschlag, alles Betreiber-Entscheidung)
 
 | Zeitraum | Kampagnen | Rahmen/Tag | ≈ Monat |
@@ -480,6 +491,7 @@ akzeptiertem Volumeneinbruch — Betreiber wählt in Freigabe A.
 | **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | freigegeben — Anlage als Nächstes |
 | **E** | **Feed-Pflege:** fehlende Attribute Schultüten-Anhänger (Farbe, Altersgruppe, Geschlecht) in der Google-&-YouTube-App nachtragen | betrifft die „aktiv (eingeschränkt)"-Produkte aus §3 | freigegeben — unkritisch, jederzeit |
 | **F** | **Kommunion-Suchkampagne + Standard-Shopping-Test** anlegen (pausiert) | Struktur und Texte aus Stufe 2 | **vorgezogen auf ~1. Oktober** (Betreiber 08.08.2026: Gotteslobhüllen-Weihnachtsgeschäft beginnt im Oktober — belegt durch Q4-Sichtung „Gotteslobhülle +252 %"). Anlage im September mit Text-Lesung |
+| **G** | **Zeugnismappen/Einschulung** — eigene Kampagne noch für die Saison 2026 (Betreiber-Idee 09.08.2026, siehe Nachtrag Stufe 3) | offen: Format (PMax mit Feed-Filter vs. Suchkampagne), Budget, Ziel-ROAS; Restfenster bis ~Mitte September | **Entscheidung offen** — Optionen am 09.08.2026 im Chat vorgelegt |
 
 Nach A–D: vier Wochen Messplan (wöchentlich ROAS je Kampagne, Brand
 getrennt), dann Budgetentscheidung. **Vor Aktivierung von C, D und F

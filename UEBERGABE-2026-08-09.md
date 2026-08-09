@@ -21,7 +21,7 @@ Betreiber-Entscheidungen sind gefallen** (u. a. Stundenlohn-Untergrenze
 Einzelfreigaben). In der Nacht 08./09.08. wurde mit der Umsetzung
 begonnen.
 
-## Umsetzungsstand A–F (Details: `docs/google-ads.md` §8, Umsetzungsprotokoll)
+## Umsetzungsstand A–G (Details: `docs/google-ads.md` §8, Umsetzungsprotokoll)
 
 | Schritt | Stand |
 |---|---|
@@ -31,6 +31,7 @@ begonnen.
 | **D** Wichtelwelt-PMax | ⬜ **NÄCHSTER SCHRITT.** Pausiert anlegen: PMax „Wichtelwelt", Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien, eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop; **Sichtfreigabe der Assets vor Aktivierung**), Ziel-ROAS 450 % (auf 400 senken, falls < 10 Käufe nach zwei aktiven Wochen), 5 €/Tag, DE/Deutsch, alle AI-Max-/Upsell-Haken aus |
 | **E** Feed-Pflege | ⬜ Offen: Schultüten-Anhänger-Attribute (Farbe, Altersgruppe, Geschlecht) in der Shopify-App „Google & YouTube" nachtragen (Produkte stehen auf „aktiv (eingeschränkt)") |
 | **F** Kommunion | 📅 **Anlage im September, live ~1. Oktober** (vorgezogen — Betreiber: Gotteslob-Weihnachtsgeschäft beginnt im Oktober; deckt sich mit Q4-Daten, Gotteslobhülle-Landingpage +252 %). Struktur: Suchkampagne (WEGEN Richtlinie „Religiöse Überzeugungen in personalisierten Anzeigen" NICHT als PMax!) + Standard-Shopping-Test, Texte in §8 Stufe 2, Text-Lesung vor Anlage |
+| **G** Zeugnismappen | 💡 **Neu 09.08. (Betreiber-Idee):** eigene Kampagne noch für die Einschulungssaison 2026 — Zeugnismappen bis zur Einschulung im September stark gesucht (Betreiber-Beobachtung). Restfenster kurz, Format offen (PMax vs. Suche). **Entscheidung offen**, Details `docs/google-ads.md` §8 Stufe-3-Nachtrag + Plan-Zeile G |
 
 ## Reihenfolge ab hier
 
