@@ -1,0 +1,36 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "settings": {
+        "narrow": true,
+        "padding_top": 16,
+        "padding_bottom": 0
+      }
+    },
+    "custom_liquid_rNxbKn": {
+      "type": "custom-liquid",
+      "name": "t:sections.custom-liquid.presets.name",
+      "settings": {
+        "custom_liquid": "<div id=\"eu-widerruf-form\"></div>\n<script>(function(){var s=document.createElement(\"script\");s.src=\"/apps/widerruf/embed?locale=\"+encodeURIComponent(document.documentElement.lang||\"\");s.defer=true;document.body.appendChild(s);})()</script>",
+        "full_width": true,
+        "show_divider": true,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    }
+  },
+  "order": [
+    "main",
+    "custom_liquid_rNxbKn"
+  ]
+}

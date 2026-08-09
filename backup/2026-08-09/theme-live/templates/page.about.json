@@ -1,0 +1,135 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "main": {
+      "type": "main-page",
+      "disabled": true,
+      "settings": {
+        "narrow": true,
+        "padding_top": 60,
+        "padding_bottom": 72
+      }
+    },
+    "image-with-text-0": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Taeradesign",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Handgemachte individualisierte Filzprodukte und Bastelzubehör für Sie und Ihre Liebsten. Höchste Produktqualität, schnelle Lieferung, volle Kundenzufriedenheit und mit dem Siegel \"Made in Germany\" versehen.</p>",
+            "text_size": "typeset2",
+            "secondary_color": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/customcolor_logo_customcolor_background_small_2cee09c4-174a-4842-bb9f-417ca6fe2c49.jpg",
+        "image_position": "center center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "image-with-text-1": {
+      "type": "image-with-text",
+      "blocks": {
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Die Gesichter hinter dem Logo",
+            "heading_size": "h1",
+            "heading_tag": "h2"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Hi, wir sind <strong>Thomas und Daniela Keilbach</strong> und betreiben zusammen unser kleines Familienunternehmen \"<strong>Taeradesign</strong>\" in Osterburken (Baden-Württemberg).</p><p><strong>Dani </strong>ist die kreative Designerin mit viel Lust auf Neues. In unserem Team ist sie die Produktionsleitung und zuständig für den Kunden-Support und die Onlinepräsentation auf unseren Vertriebsplattformen. Vor Taeradesign arbeitete sie als studierte Sozialpädagogin in einer Kinder- und Jugendpsychiatrie.</p><p><strong>Thomas </strong>ist fester Produktionsmitarbeiter, Kapo der Mitarbeiter, leitet die Lohn- und Finanzbuchhaltung, die komplette IT und organisiert alles betriebliche. Ursprünglich ist Thomas studierter Elektroingenieur und damit auch bestens geeignet als Techniker für unseren Maschinenpark :).</p><p>Gemeinsam arbeiten wir täglich viele Stunden zusammen in unser Produktion und fertigen eure Bestellungen - und das erfolgreich seit über 10 Jahren.</p><p>Das Label \"Taeradesign\" entstand mit unserer ersten Näh- und Stickmaschine im Jahr 2012 und hat sich seit Beginn auf die Bestickung und Veredelung von selbst entworfenen Filzprodukten spezialisiert. Unser Produktsortiment steigt kontinuierlich und wir erweitern ständig unsere angebotenen Produktkategorien. So sind wir aktuell auch in die faszinierende Welt der Wichtel eingetaucht und  statten diesen mit allem aus, was ein Wichtel so braucht.</p><p>Alle Filz-Unikate werden in unserer hauseigenen Produktion gefertigt. Jeder Arbeitsschritt erfolgt bei uns, z.B. der Materialzuschnitt, das Besticken und Nähen, die Endarbeiten, die Qualitätskontrolle, das Verpacken und das Versenden – alles zu 100 % „Made in Germany“ und „Made by Taeradesign“.</p><p>Für unsere selbst entworfenen und produzierten Produkte ist unsere Leitlinie simpel: </p><p><em><strong>Wir produzieren das bestmögliche einzigartige Produkt aus den besten verfügbaren Materialien mit dem besten Team der Welt. Dazu noch ein fein abgestimmtes Preis-/Leistungsverhältnis.</strong></em></p><p>Wir verkaufen unsere Produkte europaweit, seit der Gründung aber ausschließlich online im Direktvertrieb. Ein eigenes Ladengeschäft oder anderweitige Ausstellungsflächen betreiben wir nicht.</p>",
+            "text_size": "typeset",
+            "secondary_color": true
+          }
+        }
+      },
+      "block_order": [
+        "heading",
+        "text"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/WhatsApp_Image_2023-09-28_at_12.43.35.jpg",
+        "image_position": "top center",
+        "layout": "text_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "550px",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "none",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "auto",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "empty-space": {
+      "type": "empty-space",
+      "settings": {
+        "desktop_height": 0,
+        "mobile_height": 48
+      }
+    }
+  },
+  "order": [
+    "main",
+    "image-with-text-0",
+    "image-with-text-1",
+    "empty-space"
+  ]
+}

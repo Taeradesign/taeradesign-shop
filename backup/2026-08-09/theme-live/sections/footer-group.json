@@ -1,0 +1,81 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.footer-group.name",
+  "type": "footer",
+  "sections": {
+    "footer": {
+      "type": "footer",
+      "blocks": {
+        "footer-0": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Rechtliches",
+            "menu": "footer",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "footer-1": {
+          "type": "link_list",
+          "settings": {
+            "heading": "Taeradesign",
+            "menu": "shop",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "d358f146-069c-43dc-99a1-bfe29ce9dbd3": {
+          "type": "text",
+          "disabled": true,
+          "settings": {
+            "heading": "Get in touch",
+            "subtext": "<p>Du brauchst Hilfe oder hast eine Frage? <a href=\"/pages/contact\" title=\"Kontakt\">Kontaktiere</a> uns gerne oder chatte live mit uns. Klicke hierzu auf den Chat-Button an der rechten unteren Bildschirmecke.</p>",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "footer-0",
+        "footer-1",
+        "d358f146-069c-43dc-99a1-bfe29ce9dbd3"
+      ],
+      "custom_css": [],
+      "settings": {
+        "show_divider": true,
+        "newsletter_enable": true,
+        "newsletter_heading": "Newsletter",
+        "newsletter_text": "<p>Erhalte regelmäßig News oder Hinweise zu Rabattaktionen von uns.</p>",
+        "return_url": "",
+        "enable_follow_on_shop": false,
+        "show_social": true,
+        "social_heading": "Social media",
+        "enable_country_selector": true,
+        "enable_language_selector": true,
+        "payment_enable": true,
+        "show_policy": true,
+        "copyright_text": "All rights reserved.",
+        "colors_text": "#ffffff",
+        "colors_heading": "#ffffff",
+        "colors_link": "#f9f9f9",
+        "colors_border": "#d2d5d9",
+        "colors_background": "#051b33",
+        "gradient_background": "",
+        "colors_highlight": "#ffb503",
+        "enable_highlight": false,
+        "highlight_style": "marker"
+      }
+    }
+  },
+  "order": [
+    "footer"
+  ]
+}

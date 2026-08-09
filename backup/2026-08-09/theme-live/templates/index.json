@@ -1,0 +1,545 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "sections": {
+    "slideshow": {
+      "type": "slideshow",
+      "blocks": {
+        "slide-1": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0718_631f85d8-7694-448d-b5d5-851f2475e613.jpg",
+            "image_position": "80% 50%",
+            "text_box_position": "bottom-left",
+            "subheading": "Große Auswahl an Individualisierungsmöglichkeiten",
+            "subheading_size": "h5",
+            "heading": "Personalisierte Filzprodukte",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "Wähle Filzfarben, Garnfarben, Verschlüsse und Texte nach deinen Wünschen",
+            "text_size": "typeset3",
+            "button_label": "Jetzt entdecken!",
+            "button_link": "shopify://collections",
+            "button_size": "medium",
+            "button_style_secondary": false,
+            "button_alt_label": "",
+            "button_alt_link": "",
+            "button_alt_size": "medium",
+            "button_alt_style_secondary": false,
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "0a5e971d-f6e6-4f30-9a1d-8ae2c02f3d52": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0746.jpg",
+            "image_position": "center center",
+            "text_box_position": "bottom-left",
+            "subheading": "Produktkonfigurator",
+            "subheading_size": "h5",
+            "heading": "Riesige Konfigurationsmöglichkeiten",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "Erstelle dir eigene Filz-Unikate wie Schlüsselanhänger, Gotteslobhüllen, Heimtierausweise, Brillenetuis, uvm.",
+            "text_size": "typeset3",
+            "button_label": "Zum Konfigurator",
+            "button_link": "shopify://products/schlusselanhanger-aus-filz-frei-personalisierbares-unikat-pcb",
+            "button_size": "medium",
+            "button_style_secondary": false,
+            "button_alt_label": "",
+            "button_alt_link": "",
+            "button_alt_size": "medium",
+            "button_alt_style_secondary": false,
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "93d01caf-6f51-491d-b3f8-4461c36a1deb": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0481.jpg",
+            "image_position": "bottom center",
+            "text_box_position": "bottom-left",
+            "subheading": "Riesige Auswahl",
+            "subheading_size": "h5",
+            "heading": "Wichteltüren und Zubehör",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "Wir bieten alles, was ein Wichtel zum gemütlichen Aufenthalt bei dir zu Hause benötigt",
+            "text_size": "typeset3",
+            "button_label": "Jetzt entdecken!",
+            "button_link": "shopify://collections/wichtelturen-und-zubehor",
+            "button_size": "medium",
+            "button_style_secondary": false,
+            "button_alt_label": "",
+            "button_alt_link": "",
+            "button_alt_size": "medium",
+            "button_alt_style_secondary": false,
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "slide-2": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0467.jpg",
+            "image_position": "center center",
+            "text_box_position": "bottom-left",
+            "subheading": "Made in Germany",
+            "subheading_size": "h5",
+            "heading": "Handgefertigte Filzprodukt",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "Alle Produkte werden komplett von unser nach deinen Wünschen erstellt",
+            "text_size": "typeset3",
+            "button_label": "Jetzt entdecken!",
+            "button_link": "shopify://collections",
+            "button_size": "medium",
+            "button_style_secondary": false,
+            "button_alt_label": "",
+            "button_alt_link": "",
+            "button_alt_size": "medium",
+            "button_alt_style_secondary": false,
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "slide-0": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/IMG_0463.jpg",
+            "image_position": "center center",
+            "text_box_position": "bottom-left",
+            "subheading": "Perfektion bis ins Detail.",
+            "subheading_size": "h5",
+            "heading": "Hochwertige Qualität",
+            "heading_size": "h0",
+            "heading_tag": "h2",
+            "text": "Wir arbeiten ausschließlich mit den besten verfügbaren Materialien und legen großen Wert auf eine hervorragende Verarbeitungsqualität",
+            "text_size": "typeset3",
+            "button_label": "Jetzt entdecken!",
+            "button_link": "shopify://collections",
+            "button_size": "medium",
+            "button_style_secondary": false,
+            "button_alt_label": "",
+            "button_alt_link": "",
+            "button_alt_size": "medium",
+            "button_alt_style_secondary": false,
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "slide-1",
+        "0a5e971d-f6e6-4f30-9a1d-8ae2c02f3d52",
+        "93d01caf-6f51-491d-b3f8-4461c36a1deb",
+        "slide-2",
+        "slide-0"
+      ],
+      "settings": {
+        "slideshow_type": "legacy",
+        "text_alignment": "left",
+        "image_ratio": "100vh",
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "full_width": true,
+        "image_behavior": "ambient",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "600px",
+        "show_text_below": false,
+        "colors_button_label": "#1a1b18",
+        "colors_button_background": "#ffffff",
+        "colors_text": "#ffffff",
+        "colors_background": "#ffffff",
+        "colors_overlay": "#1a1b18",
+        "colors_overlay_opacity": 36,
+        "colors_navigation_text": "#ffffff",
+        "colors_navigation_background": "#1a1b18",
+        "colors_highlight": "#ffb503",
+        "padding_top": 0,
+        "padding_bottom": 36
+      }
+    },
+    "guarantees": {
+      "type": "guarantees",
+      "blocks": {
+        "guarantee-2": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "recycle",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Personalisierte Produkte",
+            "title_size": "h4",
+            "text": "<p>Jedes konfigurierte Produkt wird in Handarbeit hergestellt - Made in Germany.</p>",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "guarantee-1": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "globe",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Höchste Qualitätsansprüche",
+            "title_size": "h4",
+            "text": "<p>Wir verwenden ausschließlich hochqualitative Materialen.</p>",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "guarantee-0": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "leaf",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Schnelle Lieferung",
+            "title_size": "h4",
+            "text": "<p>Innerhalb Deutschlands 2-3 Tagen nach Bestelleingang.</p>",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "guarantee-3": {
+          "type": "guarantee",
+          "settings": {
+            "icon": "shield",
+            "icon_size": "medium",
+            "custom_icon": "",
+            "title": "Sehr hohe Kundenzufriedenheit",
+            "title_size": "h4",
+            "text": "<p>Tausende zufriedene Kunden haben uns bereits positiv bewertet.</p>",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "guarantee-2",
+        "guarantee-1",
+        "guarantee-0",
+        "guarantee-3"
+      ],
+      "settings": {
+        "layout": "default",
+        "column_alignment": "center",
+        "horizontal_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "columns_desktop": 4,
+        "heading": "Schenke pure Freude und hinterlasse einen bleibenden Eindruck!",
+        "heading_size": "h1",
+        "heading_tag": "h2",
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "use_custom_colors": true,
+        "colors_icon": "#ffffff",
+        "colors_text": "#1a1b18",
+        "colors_background": "#f3f3f3",
+        "gradient_background": "",
+        "colors_highlight": "#ffb503",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "enable_highlight": false,
+        "highlight_style": "marker"
+      }
+    },
+    "393ba4ab-214d-4fe7-9000-db46b32c6ea2": {
+      "type": "collage",
+      "blocks": {
+        "template--19496308965701__393ba4ab-214d-4fe7-9000-db46b32c6ea2-product-1": {
+          "type": "product",
+          "settings": {
+            "product": "gotteslobhulle-aus-filz-frei-personalisierbares-unikat",
+            "second_image": true,
+            "enable_quick_view": true
+          }
+        },
+        "eadefc52-e2d3-4a7f-a196-9fd6bfab92cf": {
+          "type": "product",
+          "settings": {
+            "product": "schlusselanhanger-aus-filz-frei-personalisierbares-unikat-pcb",
+            "second_image": true,
+            "enable_quick_view": true
+          }
+        },
+        "bd56b83c-2f14-4176-9a68-666613544782": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/64D68DDD-6F0D-4D49-A621-FAC05F7AAE49.jpg",
+            "heading": "Equidenpässe",
+            "link": "shopify://products/equidenpasshuelle-aus-filz-frei-personalisierbares-unikat-cpb-mull-2",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "template--19496308965701__393ba4ab-214d-4fe7-9000-db46b32c6ea2-product-1",
+        "eadefc52-e2d3-4a7f-a196-9fd6bfab92cf",
+        "bd56b83c-2f14-4176-9a68-666613544782"
+      ],
+      "settings": {
+        "desktop_layout": "left",
+        "mobile_layout": "collage",
+        "apply_overlay": true,
+        "show_divider": false,
+        "heading": "Entdecke unsere große Auswahl",
+        "heading_size": "h1",
+        "heading_alignment": "center",
+        "heading_tag": "h2",
+        "colors_highlight": "#ffb503",
+        "padding_top": 36,
+        "padding_bottom": 36,
+        "enable_highlight": false,
+        "highlight_style": "marker"
+      }
+    },
+    "1692783678a1a359fb": {
+      "type": "apps",
+      "blocks": {
+        "8f0021c4-fa5a-49e7-8694-7ded5ebcbe88": {
+          "type": "shopify://apps/judge-me-reviews/blocks/featured_carousel/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {
+            "maxwidth": 1080
+          }
+        }
+      },
+      "block_order": [
+        "8f0021c4-fa5a-49e7-8694-7ded5ebcbe88"
+      ],
+      "settings": {
+        "include_margins": true,
+        "show_divider": false,
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "301476d7-2e5e-46d7-8633-d60c35bafa92": {
+      "type": "rich-text",
+      "blocks": {
+        "template--19496308965701__301476d7-2e5e-46d7-8633-d60c35bafa92-heading-1": {
+          "type": "heading",
+          "settings": {
+            "heading": "Konfiguriere dein eigenes Unikat",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "template--19496308965701__301476d7-2e5e-46d7-8633-d60c35bafa92-text-1": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Schau dir unsere Produkte an und baue dir dein eigenes Unikat mit Live-Vorschau in unserem Konfigurator</p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "template--19496308965701__301476d7-2e5e-46d7-8633-d60c35bafa92-heading-1",
+        "template--19496308965701__301476d7-2e5e-46d7-8633-d60c35bafa92-text-1"
+      ],
+      "settings": {
+        "text_alignment": "center",
+        "mobile_text_alignment": "left",
+        "horizontal_content": false,
+        "narrow": false,
+        "show_divider": false,
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "colors_highlight": "#bbff00",
+        "gradient_background": "",
+        "padding_top": 36,
+        "padding_bottom": 36
+      }
+    },
+    "reveal-banner": {
+      "type": "reveal-banner",
+      "blocks": {
+        "subheading": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "DIE MARKE",
+            "subheading_size": "h5",
+            "secondary_color": false,
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Taeradesign",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p><br/></p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "slide": {
+          "type": "slide",
+          "settings": {
+            "heading": "Das zeichnet uns aus",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "text": "<p>Handgemachte individualisierte Filzprodukte und Bastelzubehör für Sie und Ihre Liebsten. Höchste Produktqualität, schnelle Lieferung, volle Kundenzufriedenheit und mit dem Siegel \"Made in Germany\" versehen. </p>",
+            "text_size": "typeset2",
+            "secondary_color": false,
+            "button_label": "Zum Sortiment",
+            "button_link": "shopify://collections",
+            "button_size": "medium",
+            "button_style_secondary": false,
+            "colors_button_label": "#ffffff",
+            "colors_button_background": "#010f1e",
+            "colors_text": "#ffffff",
+            "colors_background": "#be9063",
+            "gradient_background": "",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "subheading",
+        "heading",
+        "text",
+        "slide"
+      ],
+      "custom_css": [],
+      "settings": {
+        "image": "shopify://shop_images/customcolor_logo_customcolor_background_3ece92de-e87b-42bf-8d24-5cfe31ae163e.png",
+        "image_position": "center center",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "550px",
+        "full_width": true,
+        "show_divider": false,
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "400px",
+        "show_text_below": false,
+        "colors_text": "#ffffff",
+        "colors_overlay": "#000000",
+        "colors_overlay_opacity": 20,
+        "colors_highlight": "#ffb503",
+        "padding_top": 24,
+        "padding_bottom": 36
+      }
+    },
+    "image-with-text-0": {
+      "type": "image-with-text",
+      "blocks": {
+        "subheading": {
+          "type": "subheading",
+          "settings": {
+            "subheading": "Eine Erfolgsgeschichte",
+            "subheading_size": "h5",
+            "secondary_color": true,
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "heading": {
+          "type": "heading",
+          "settings": {
+            "heading": "Taeradesign - wer steckt dahinter?",
+            "heading_size": "h1",
+            "heading_tag": "h2",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "text": {
+          "type": "text",
+          "settings": {
+            "text": "<p>Das Label \"Taeradesign\" entstand im Jahr 2012 und hat zu Beginn auf die Bestickung und Veredelung von selbst entworfenen Filzprodukten spezialisiert. Unser Produktsortiment steigt kontinuierlich und wir erweitern  ständig unsere angebotenen Produktkategorieren.</p><p>Hinter Taeradesign steck ein kleines Familienunternehmen, angeführt von Thomas und Daniela Keilbach, aus den schönen Neckartal-Odenwald im Süden Deutschlands. </p><p>Unsere Leitlinie ist simpel: Wir produzieren das bestmögliche einzigartige Produkt aus den besten verfügbaren Materialien mit dem besten Team der Welt. Dazu noch ein fein abgestimmtest Preis-/Leistungsverhältnis und alles \"Made in Germany\".</p>",
+            "text_size": "typeset",
+            "secondary_color": false,
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "b7f31bcc-c5b7-4c17-8a97-c9268d80f579": {
+          "type": "button",
+          "settings": {
+            "button_size": "medium",
+            "button_label": "Mehr erfahren",
+            "button_link": "shopify://pages/uber-uns-1",
+            "button_style_secondary": false,
+            "button_alt_label": "",
+            "button_alt_link": "",
+            "button_alt_style_secondary": false
+          }
+        }
+      },
+      "block_order": [
+        "subheading",
+        "heading",
+        "text",
+        "b7f31bcc-c5b7-4c17-8a97-c9268d80f579"
+      ],
+      "settings": {
+        "image": "shopify://shop_images/WhatsApp_Image_2023-09-28_at_12.43.51.jpg",
+        "image_position": "top center",
+        "layout": "image_first",
+        "text_box_position": "middle",
+        "text_alignment": "left",
+        "image_ratio": "adapt",
+        "enlarge_content": false,
+        "full_width": false,
+        "show_divider": false,
+        "image_behavior": "ambient",
+        "mobile_layout": "image_first",
+        "mobile_text_alignment": "left",
+        "mobile_image_ratio": "250px",
+        "enable_video_looping": false,
+        "video_url": "",
+        "use_custom_colors": false,
+        "colors_button_label": "#ffffff",
+        "colors_button_background": "#1a1b18",
+        "colors_text": "#212326",
+        "colors_background": "#ffffff",
+        "gradient_background": "",
+        "colors_highlight": "#ffb503",
+        "padding_top": 36,
+        "padding_bottom": 0
+      }
+    }
+  },
+  "order": [
+    "slideshow",
+    "guarantees",
+    "393ba4ab-214d-4fe7-9000-db46b32c6ea2",
+    "1692783678a1a359fb",
+    "301476d7-2e5e-46d7-8633-d60c35bafa92",
+    "reveal-banner",
+    "image-with-text-0"
+  ]
+}
