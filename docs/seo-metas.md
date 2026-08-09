@@ -149,13 +149,38 @@ Kollektion daher keine Suchbegriffe abziehen.
 
 ### `/pages/gotteslobhulle` und `/pages/schlusselanhanger`
 
-Nur reparieren, nicht neu schreiben:
+Beide Beschreibungen sind zu lang (~300 bzw. ~223 Zeichen, Google
+schneidet bei ~155) und enthalten denselben Grammatikfehler. Statt zu
+flicken, jeweils **komplett durch diese Fassung ersetzen** — Titel
+bleiben unverändert, die sind gut:
 
-- beide: „Vielfalt und große Auswahl **der** unterschiedlichen
-  Varianten"
-- Gotteslob: „Ausserdem" → „Außerdem", und die Beschreibung nach dem
-  Satz „… und suche dir eine Verschlussart aus." enden lassen (danach
-  schneidet Google ohnehin ab)
+**`/pages/gotteslobhulle`** (ID 122528399685), Beschreibung neu:
+
+> Entdecke die Vielfalt unserer Gotteslobhüllen. Wähle aus unzähligen
+> Filz- und Garnfarben, einem Motiv, deinen Wunschtexten und der
+> Verschlussart – dein Unikat. *(157 Zeichen)*
+
+**`/pages/schlusselanhanger`** (ID 121815400773), Beschreibung neu:
+
+> Entdecke die Vielfalt unserer Schlüsselanhänger. Wähle aus
+> unzähligen Filz- und Garnfarben, gib deine Wunschtexte ein und such
+> dir eine Clipfarbe aus. *(150 Zeichen)*
+
+---
+
+## 4. Kopierfertig: die drei offenen Seiten
+
+Alles unten ist final formuliert und geprüft. Im Admin unter
+**Inhalt → Seiten → Seite öffnen → „Suchmaschinen-Eintrag" → Stift**.
+
+| Seite | Feld | Wert |
+|---|---|---|
+| `/pages/wichtel`<br>ID 121815925061 | Seitentitel | `Die Wichtelwelt von Taeradesign` |
+| | Meta-Beschreibung | `Wie bei uns die Wichtel einzogen – und was sie zum Wohnen brauchen. Die Geschichte hinter unserer Wichtelwelt.` |
+| `/pages/gotteslobhulle`<br>ID 122528399685 | Seitentitel | *unverändert lassen* |
+| | Meta-Beschreibung | `Entdecke die Vielfalt unserer Gotteslobhüllen. Wähle aus unzähligen Filz- und Garnfarben, einem Motiv, deinen Wunschtexten und der Verschlussart – dein Unikat.` |
+| `/pages/schlusselanhanger`<br>ID 121815400773 | Seitentitel | *unverändert lassen* |
+| | Meta-Beschreibung | `Entdecke die Vielfalt unserer Schlüsselanhänger. Wähle aus unzähligen Filz- und Garnfarben, gib deine Wunschtexte ein und such dir eine Clipfarbe aus.` |
 
 ---
 
