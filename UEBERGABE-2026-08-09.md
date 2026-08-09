@@ -41,7 +41,7 @@ größere Waren per DHL.
 | **B** Markenausschluss | ⏳ Marke „Taeradesign" war nicht in Googles Markenbibliothek; **Anfrage gesendet** (Unternehmen, taeradesign.com, Zweitname „Taera Design"), Prüfung 4–6 Wochen. **Wiedervorlage ~20.09.:** Markenliste „Eigene Marke Taeradesign" fertigstellen und in der PMax als Markenausschluss setzen |
 | **C** Brand-Suchkampagne | ✅ **„Brand Taeradesign" (ID 24118761062) PAUSIERT angelegt** — 1,50 €/Tag (benutzerdefiniert), Klicks maximieren mit CPC-Deckel 0,50 €, nur Google-Suche, DE/Deutsch, 5 Brand-Keywords, 1 RSA (6 freigegebene Titel + 2 Textzeilen), URL taeradesign.com. **Vor Aktivierung: Asset-Optimierung in den Einstellungen kontrollieren** (Befund siehe G) |
 | **D** Wichtelwelt-PMax | ✅ **„Wichtelwelt" (ID 24118847240) PAUSIERT angelegt 09.08.** — 5 €/Tag (benutzerdefiniert), Ziel-ROAS 450 %, Eintragsgruppen-Filter Produkttyp „wichtelzubehör" (183 Produkte, einziger Wichtel-Typ im Feed), finale URL `/collections/wichtelturen-und-zubehor`, 6 Titel + 2 lange Titel + 3 Textzeilen (ohne Filz-/Konfigurator-Claims — Wichtelware ist Holz/Metall/Wolle; ohne Lieferzeit-Zusage), 20 Merchant-Center-Produktbilder + 5 Konto-Logos, **Asset-Optimierung nachweislich deaktiviert** (Zusammenfassung: „Deaktiviert"). **Vor Aktivierung: Sichtfreigabe der 20 Bilder durch Betreiber.** Ziel-ROAS auf 400 senken, falls < 10 Käufe nach zwei aktiven Wochen |
-| **E** Feed-Pflege | ⬜ **NÄCHSTER SCHRITT.** Schultüten-Anhänger-Attribute (Farbe, Altersgruppe, Geschlecht) in der Shopify-App „Google & YouTube" nachtragen (Produkte stehen auf „aktiv (eingeschränkt)"). Braucht die Shopify-Admin-Sitzung des Betreibers |
+| **E** Feed-Pflege | ✅ **erledigt 09./10.08.2026 (Nachtsitzung im Shopify-Admin, Betreiber eingeloggt).** 28 aktive Produkte der Schultüten-Anhänger-Familie tragen jetzt die drei Google-Attribute: **Farbe** (je Titelbild bzw. Shopify-Vorschlag), **Altersgruppe „Kinder"**, **Zielgeschlecht „Unisex"** — gepflegt über die Kategorie-Metafelder der Produktseiten. **Kernbefund:** Bei 13 aktiven Produkten (die „Einschulung 2025"-Serie, „Du bist 1. Klasse", eine Applikation) fehlte die **Produktkategorie komplett** — ohne sie existieren die Kategorie-Metafelder gar nicht; überall „Aufnäher & Patches in Bekleidungsaccessoires" gesetzt (wie die Geschwister-Produkte). Dazu: CPB-Entwurfsprodukt „Runder Schultütenanhänger" (unveröffentlicht) bekam ebenfalls die Kategorie; ein Fehlklick auf einen Kategorie-Vorschlag beim Muschel-Anhänger wurde sofort repariert. **Nachprüfen in ein paar Tagen:** App-Übersicht zeigte vor der Pflege 1.378 Produkte / 683 genehmigt / 695 „nicht genehmigt" (andere Zählung als die 691/99 % vom 08.08. — vermutlich zählt die App den Gesamtkatalog inkl. nicht gesendeter); ob die Schultüten-Warnungen nach dem Sync verschwinden. Die 30×18-cm-Schultüten (Produkttyp „Schultüte", Geschenkverpackungen) waren nicht Teil der Warnung und blieben unangetastet |
 | **F** Kommunion | 📅 **Anlage im September, live ~1. Oktober** (vorgezogen — Betreiber: Gotteslob-Weihnachtsgeschäft beginnt im Oktober; deckt sich mit Q4-Daten, Gotteslobhülle-Landingpage +252 %). Struktur: Suchkampagne (WEGEN Richtlinie „Religiöse Überzeugungen in personalisierten Anzeigen" NICHT als PMax!) + Standard-Shopping-Test, Texte in §8 Stufe 2, Text-Lesung vor Anlage |
 | **G** Zeugnismappen | ✅ **„Zeugnismappen" (ID 24113382444) PAUSIERT angelegt 09.08.** (Betreiber-Idee vom selben Tag: stark gesucht bis zur Einschulung) — Suchkampagne, 3 €/Tag (benutzerdefiniert), Klicks maximieren mit CPC-Deckel 0,40 €, nur Google-Suche, DE/Deutsch, 7 Keywords ("zeugnismappe", [zeugnismappe personalisiert], "zeugnismappe mit namen/filz/bestickt/einschulung", "zeugnisordner") + 9 Ausschlüsse (schnittmuster, selber nähen/machen, anleitung, kostenlos, gebraucht, amazon, ebay, etsy), RSA auf `/collections/schule` (15 Produkte — `/collections/zeugnismappe` hat nur 1), 7 Titel + 3 Textzeilen (Konfigurator-Claims vom Betreiber bestätigt), AI Max aus. **Restfenster Einschulung bis ~Mitte September → Shop-Update ist zeitkritisch.** Wiederverwendbar zu jedem Zeugnistermin (Halbjahr ~Ende Januar, Schuljahresende Juni/Juli) |
 
@@ -72,14 +72,13 @@ größere Waren per DHL.
 
 ## Reihenfolge ab hier
 
-1. **E + Admin-Block** (Betreiber-Login nötig, eine Sitzung):
-   Feed-Pflege Schultüten-Anhänger (Farbe, Altersgruppe, Geschlecht)
-   · **C-EDD-Liefercountdown an den Betriebsurlaub anpassen
-   (Betreiber-Ansage 09.08. spät)** · Hauptmenü-Texte
-   („Zeugnissmappen und Schule" → „Zeugnismappen…", engl.
-   Menüpunkt „Get in Touch") · Produkttext Gotteslobhülle (letzte
-   offene §6-Fundstelle) · SEO-Metas je Themenwelt · Shop-Idee
-   Wichtel-Sets/Bundles
+1. **Admin-Block, Rest** (Betreiber-Login nötig): ~~E Feed-Pflege~~
+   **✅ erledigt (siehe Tabelle)** · **C-EDD-Liefercountdown an den
+   Betriebsurlaub anpassen (Betreiber-Ansage 09.08. spät)** ·
+   Hauptmenü-Texte („Zeugnissmappen und Schule" → „Zeugnismappen…",
+   engl. Menüpunkt „Get in Touch") · Produkttext Gotteslobhülle
+   (letzte offene §6-Fundstelle) · SEO-Metas je Themenwelt ·
+   Shop-Idee Wichtel-Sets/Bundles
 2. ~~Shop-Update~~ **Theme-Teil ERLEDIGT und LIVE** (09.08. spät;
    Commits `4d21da8`, `825ec2d`, `5f182af`). Die restlichen Texte
    liegen in Shopifys Datenbank und laufen im Admin-Block (Punkt 1)
