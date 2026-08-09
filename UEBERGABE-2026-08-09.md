@@ -128,15 +128,14 @@ Warnung und blieben unangetastet.
 
 ## Reihenfolge ab hier
 
-1. **SEO-Metas — freigegeben, 2 von 9 gesetzt.** Befund, Texte und
-   Praxis-Fallstricke in [`docs/seo-metas.md`](docs/seo-metas.md).
-   **Erledigt:** die beiden Kampagnen-Zielseiten `/collections/schule`
-   und `/collections/wichtelturen-und-zubehor`. **Offen:** vier
-   weitere Kollektionen (Gotteslobhüllen, Material, Deko und Wohnen,
-   Stickdateien) und drei Seiten (`/pages/wichtel` zurückhaltend,
-   `/pages/gotteslobhulle` und `/pages/schlusselanhanger` nur
-   Fehlerreparatur). **Betreiber-Entscheidung:** Bei den Wichteln ist
-   die **Kollektion** die Suchhauptseite, die Landingpage nur Beiwerk
+1. **SEO-Metas — freigegeben, 6 von 9 gesetzt: alle Kollektionen sind
+   fertig.** Befund, Texte, Status-Tabelle und Praxis-Fallstricke in
+   [`docs/seo-metas.md`](docs/seo-metas.md). **Offen sind nur noch die
+   drei Seiten:** `/pages/wichtel` (ID 121815925061, zurückhaltend),
+   `/pages/gotteslobhulle` (122528399685, nur Fehler + kürzen),
+   `/pages/schlusselanhanger` (121815400773, nur Fehler).
+   **Betreiber-Entscheidung:** Bei den Wichteln ist die **Kollektion**
+   die Suchhauptseite, die Landingpage nur Beiwerk
 2. **Admin-Block, Rest** (Betreiber-Login nötig):
    - **Shop-Idee Wichtel-Sets/Bundles** (hebt kleine Warenkörbe)
    - Optional: Menüpunkt „About" eindeutschen (bewusst offen gelassen)

@@ -11,17 +11,26 @@ Landingpage `/pages/wichtel` ist nur Beiwerk.** Der Vorschlag für die
 Landingpage unten ist entsprechend zurückgenommen — sie soll der
 Kollektion keine Suchbegriffe streitig machen.
 
+**Alle sechs Kollektionen sind erledigt.** Offen sind nur noch die
+drei `/pages/…`.
+
 | Seite | Stand |
 |---|---|
 | `/collections/schule` | ✅ **gesetzt und gespeichert** |
 | `/collections/wichtelturen-und-zubehor` | ✅ **gesetzt und gespeichert** |
-| `/collections/gotteslobhullen` | ⬜ offen |
-| `/collections/material` | ⬜ offen |
-| `/collections/deko-und-wohnen` | ⬜ offen |
-| `/collections/stickdateien` | ⬜ offen |
-| `/pages/wichtel` | ⬜ offen — **nur zurückhaltend**, siehe Entscheidung |
-| `/pages/gotteslobhulle` | ⬜ offen (nur Fehler reparieren + kürzen) |
-| `/pages/schlusselanhanger` | ⬜ offen (nur Fehler reparieren) |
+| `/collections/gotteslobhullen` | ✅ **gesetzt und gespeichert** |
+| `/collections/material` | ✅ **gesetzt und gespeichert** |
+| `/collections/deko-und-wohnen` | ✅ **gesetzt und gespeichert** |
+| `/collections/stickdateien` | ✅ **gesetzt und gespeichert** |
+| `/pages/wichtel` (ID 121815925061) | ⬜ offen — **nur zurückhaltend**, siehe Entscheidung |
+| `/pages/gotteslobhulle` (ID 122528399685) | ⬜ offen (nur Fehler reparieren + kürzen) |
+| `/pages/schlusselanhanger` (ID 121815400773) | ⬜ offen (nur Fehler reparieren) |
+
+**Wichtig für die Seiten:** Bei `/pages/wichtel` ist die
+Meta-Beschreibung im Admin **leer** — der Satz „… hast du es auch
+gehört?", den Google heute zeigt, ist Shopifys Automatik aus dem
+Seiteninhalt. Sobald eine Beschreibung gesetzt wird, ersetzt sie ihn;
+der Seitentext selbst bleibt unberührt.
 
 **So geht es im Admin:** Kollektion öffnen → ganz nach unten →
 „Suchmaschineneintrag" → Stift rechts → Felder „Seitentitel" und
