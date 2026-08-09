@@ -1,4 +1,4 @@
-# ÜBERGABE 09.08.2026 (abends) — A–D + G erledigt, Theme-Backup gezogen; als Nächstes E + Shop-Update
+# ÜBERGABE 09.08.2026 (spät) — Shop-Update LIVE in Theme 9.2.0; Betriebsurlaub 10.–18.08., Ads-Launch danach; als Nächstes E + Admin-Rest
 
 **Zweck:** Nahtloser Einstieg für ein neues Kontextfenster. Führend
 bleiben [`CLAUDE.md`](CLAUDE.md) und `docs/`; diese Datei sagt, wo wir
@@ -19,7 +19,19 @@ beschlossen; in der Nacht 08./09.08. begann die Umsetzung (A–C). Am
 (Zeugnismappen-Suchkampagne, neu aufgenommen und gleich umgesetzt)
 pausiert angelegt, Live-Theme als Backup ins Repo gezogen.** Vier
 Kampagnen warten jetzt pausiert auf das Shop-Update und die
-Aktivierung durch den Betreiber.
+Aktivierung durch den Betreiber. **Noch am 09.08. spät:** Betreiber
+veröffentlichte das Theme-Update **9.2.0** (neue Theme-ID
+204051939653); Claude zog es ins Repo, arbeitete den kompletten
+Text-Durchgang aller Theme-Texte ein (§6-Fundliste plus ~40 weitere
+Funde, darunter zwei kaputte mailto-Links und viermal der englische
+Platzhalter „Welcome to our store") und pushte nach Freigabe live —
+im Browser verifiziert. **Betriebsurlaub 10.–18.08.2026** steht in
+der Announcement-Bar (Betreiber-Angabe; die alten Texte nannten
+falsch 11.09. bzw. verdrehte Daten). **Der Launch der pausierten
+Kampagnen ist auf nach den Betriebsurlaub verschoben
+(Betreiber-Ansage).** FAQ sagt jetzt: Versand nur innerhalb
+Deutschlands (EU-Behauptung gestrichen), Kleinteile per Post,
+größere Waren per DHL.
 
 ## Umsetzungsstand A–G (Details: `docs/google-ads.md` §8, Umsetzungsprotokoll)
 
@@ -35,6 +47,14 @@ Aktivierung durch den Betreiber.
 
 ## Shop-Backup (erledigt 09.08.2026)
 
+- **Update spät abends:** Live ist jetzt **Be Yours v9.2.0
+  (Theme-ID 204051939653)** nach Betreiber-Theme-Update; das alte
+  9.1.0 existiert in Shopify als unpublished Theme weiter und ist
+  damit der Sofort-Rollback — der Duplizieren-Punkt unten ist
+  hinfällig. Arbeitskopie und Backup des 9.2.0-Live-Stands (inkl.
+  Shop-Update): [`backup/2026-08-09-v920/theme-live/`](backup/2026-08-09-v920/)
+  — nach dem Push von Shopify zurückgelesen, entspricht exakt dem
+  Live-Stand
 - **Live-Theme „Be Yours v9.1.0" (Shopify-Theme-ID 200817836357)**
   liegt komplett unter [`backup/2026-08-09/theme-live/`](backup/2026-08-09/README.md)
   — 375 Dateien inkl. `settings_data.json` und JSON-Templates,
@@ -52,23 +72,31 @@ Aktivierung durch den Betreiber.
 
 ## Reihenfolge ab hier
 
-1. **E** (Feed-Pflege in der Shopify-App — Betreiber-Login nötig)
-2. **Shop-Update** — Betreiber-Ansage: VOR jeder Aktivierung.
-   Kompletter Text-Durchgang aller Seiten (Tippfehler-Fundliste
-   `docs/ist-zustand.md` §6; beim Homepage-Besuch am 09.08. fielen im
-   Vorbeigehen weitere Fehler in Slider-/About-Texten auf — „Filzprodukt",
-   „von unser", „Materialen", „steck", „Produktkategorieren",
-   „abgestimmtest", „aus den schönen Neckartal-Odenwald" — mit §6
-   abgleichen), SEO (Meta-Titel/-Beschreibungen je Themenwelt),
-   Shop-Idee Wichtel-Sets/Bundles (hebt kleine Warenkörbe).
-   **Zeitkritisch wegen G** (Einschulungsfenster bis ~Mitte September)
-3. **Aktivierung C + D + G durch den Betreiber** — vorher je Kampagne:
-   bei **C und G** Asset-Optimierungs-Check in den
-   Kampagneneinstellungen (Befund trat bei beiden auf, siehe
-   Arbeitsregeln), bei **D** Sichtfreigabe der 20 Bilder
+1. **E + Admin-Block** (Betreiber-Login nötig, eine Sitzung):
+   Feed-Pflege Schultüten-Anhänger (Farbe, Altersgruppe, Geschlecht)
+   · **C-EDD-Liefercountdown an den Betriebsurlaub anpassen
+   (Betreiber-Ansage 09.08. spät)** · Hauptmenü-Texte
+   („Zeugnissmappen und Schule" → „Zeugnismappen…", engl.
+   Menüpunkt „Get in Touch") · Produkttext Gotteslobhülle (letzte
+   offene §6-Fundstelle) · SEO-Metas je Themenwelt · Shop-Idee
+   Wichtel-Sets/Bundles
+2. ~~Shop-Update~~ **Theme-Teil ERLEDIGT und LIVE** (09.08. spät;
+   Commits `4d21da8`, `825ec2d`, `5f182af`). Die restlichen Texte
+   liegen in Shopifys Datenbank und laufen im Admin-Block (Punkt 1)
+3. **Aktivierung C + D + G durch den Betreiber ab 19.08.** (nach
+   Betriebsurlaub — **Betreiber-Ansage: Launch verschoben**) —
+   vorher je Kampagne: bei **C und G** Asset-Optimierungs-Check in
+   den Kampagneneinstellungen (Befund trat bei beiden auf, siehe
+   Arbeitsregeln), bei **D** Sichtfreigabe der 20 Bilder.
+   Zeugnismappen-Restfenster nach dem Urlaub (~19.08. bis Mitte
+   September) bleibt nutzbar. Die laufende Filzprodukte-PMax blieb
+   auf Betreiber-Linie unangetastet aktiv
 4. **Messplan** (§8): wöchentlich ROAS je Kampagne, Brand getrennt
    lesen; Shopify-Zahlen sind die Wahrheit
-5. Wiedervorlagen: tROAS-Rampe Filzprodukte ~22.08. · Marke ~20.09. ·
+5. Wiedervorlagen: **19.08.: Betriebsurlaubs-Announcement
+   deaktivieren** (Block `announcement_w9EWTe` in
+   `sections/header-group.json` — per Theme-Editor oder Repo-Edit +
+   Push) **und C-EDD zurückstellen** · tROAS-Rampe Filzprodukte ~22.08. · Marke ~20.09. ·
    F-Anlage September · Wichtelwelt-tROAS-Check nach zwei aktiven
    Wochen · Zeugnismappen pausieren ~Mitte September (Saisonende),
    reaktivieren ~Ende Januar (Halbjahreszeugnisse)
@@ -142,8 +170,12 @@ Aktivierung durch den Betreiber.
   Alt-Kampagnen als Vorlage
 - Shopify: Admin `admin.shopify.com/store/1a8137` — **Login macht der
   Betreiber** (Claude gibt nie Zugangsdaten ein). Live-Theme
-  **„Be Yours v9.1.0", Theme-ID 200817836357**; Backup unter
-  `backup/2026-08-09/theme-live/` (Stand 09.08.2026)
+  **„Be Yours v9.2.0", Theme-ID 204051939653** (Shop-Update
+  eingearbeitet); Backups: `backup/2026-08-09/theme-live/` (9.1.0) ·
+  `backup/2026-08-09-v920/theme-live/` (9.2.0 = Live-Stand).
+  Kuriosum Seiten-Handles: `/pages/faq` = „Zahlen und Fakten",
+  `/pages/uber-uns` = FAQ, `/pages/uber-uns-1` = Über uns — nur bei
+  Gelegenheit aufräumen (bricht Links, Redirects nötig)
 - Shop-Kollektionen für Ads: Wichtel →
   `/collections/wichtelturen-und-zubehor` (192 Produkte) · Schule →
   `/collections/schule` (12 Zeugnismappen à 31,99 € + 3 Schultüten)

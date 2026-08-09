@@ -29,7 +29,7 @@ Drei Verkaufskanäle (Angabe Betreiber):
 | Was | Befund (Sichtung 08.08.2026) |
 |---|---|
 | Plattform | Shopify, Store-Kennung `1a8137.myshopify.com` |
-| Theme | „Be Yours" Version 9.1.0 (Theme-Store-ID 1399) |
+| Theme | „Be Yours" Version 9.2.0 seit 09.08.2026 (Theme-Store-ID 1399; Theme-Update durch den Betreiber — das alte 9.1.0 bleibt in Shopify unpublished als Rollback; Live-Theme-ID 204051939653) |
 | Domains | taeradesign.com führend; www.taeradesign.de leitet dorthin um |
 | Konfigurator | Eigener Schritt-für-Schritt-Konfigurator mit Live-Vorschau auf den Produktseiten (Beispiel Gotteslobhülle: 10 Schritte — Filzfarbe, Filzfarbe Innenlasche, Verschluss, Motiv, Farben, Text Vorderseite/Rückseite/Buchrücken, Rosenkranztasche, Format). App: **CPB – Custom Product Builder** (40 $/Monat + Nutzungsgebühren; Admin-Sichtung 08.08.2026) |
 | Bewertungen | Widget auf der Startseite zeigt „1103 Bewertungen" mit Einzelrezensionen (neueste vom 06.08.2026 — es kommen laufend welche dazu). App: **Judge.me Reviews** (15 $/Monat) |
@@ -137,6 +137,26 @@ Die Texte beißen sich stellenweise mit dem Qualitätsanspruch
 Die Liste ist nicht vollständig — gesichtet wurden Startseite,
 Kollektionsübersicht und eine Produktseite. Vor der Korrektur lohnt ein
 systematischer Durchgang durch alle Seiten und Produkttexte.
+
+**Update 09.08.2026 (spät): Theme-Teil erledigt und live.** Alle
+Theme-seitigen Funde der Tabelle sind korrigiert und in Be Yours 9.2.0
+live gepusht (Commits `4d21da8`, `825ec2d`, `5f182af`). Der
+vollständige Durchgang durch alle Theme-Texte brachte ~40 weitere
+Funde, ebenfalls korrigiert — darunter zwei kaputte mailto-Links und
+dreimal „Setzte dich" (FAQ-Seite `/pages/uber-uns`), „Du sucht sein
+Geschenk?" und viermal der englische Platzhalter „Welcome to our
+store." (Schlüsselanhänger-Landingpage), „Bestelleingangmit" (Zahlen
+und Fakten), „Bewerbe dich"/„Offene stellen" samt veraltetem
+Minijob-Betrag 520 € (Bewerbung), Sie/Du-Mix (Startseite, Über uns,
+Warenkorb), englisches Mobile-Dock (Home/Search/Cart → Start/Suche/
+Warenkorb). Inhaltlich auf Betreiber-Ansage: Betriebsurlaub
+10.–18.08.2026 in der Announcement-Bar (vorher falsche/verdrehte
+Daten), FAQ-Auslandsversand gestrichen (nur noch Deutschland), FAQ-
+Versandart präzisiert (Kleinteile Post, größere Waren DHL), „europaweit"
+auf der Über-uns-Seite entfernt. **Noch offen — liegt in Shopifys
+Datenbank, nicht im Theme:** Hauptmenü („Zeugnissmappen und Schule",
+engl. „Get in Touch"), Produktseite Gotteslobhülle (letzte Zeile der
+Tabelle), SEO-Metas. Läuft im Admin-Block, siehe Übergabe.
 
 ---
 
