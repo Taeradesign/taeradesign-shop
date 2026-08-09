@@ -21,7 +21,8 @@ kommen nur vor, soweit sie Shop- oder Werbeentscheidungen beeinflussen.
 Angelegt am 08.08.2026. Anlass: Der Shop soll aktualisiert und eine neue
 Google-Ads-Kampagne aufgesetzt werden.
 
-**Einstieg:** [`docs/ist-zustand.md`](docs/ist-zustand.md) →
+**Einstieg: die jeweils neueste `UEBERGABE-*.md`** (sagt, wo wir genau
+stehen), dann [`docs/ist-zustand.md`](docs/ist-zustand.md) →
 [`docs/google-ads.md`](docs/google-ads.md).
 
 ---
