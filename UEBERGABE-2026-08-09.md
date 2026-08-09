@@ -128,9 +128,17 @@ Warnung und blieben unangetastet.
 
 ## Reihenfolge ab hier
 
-1. **Admin-Block, Rest** (Betreiber-Login nötig):
-   - **SEO-Metas je Themenwelt** (Meta-Titel/-Beschreibungen) —
-     nächster Punkt
+1. **SEO-Metas — Freigabe steht aus.** Befund und fertige
+   Textvorschläge liegen in [`docs/seo-metas.md`](docs/seo-metas.md):
+   **alle sechs geprüften Kollektionsseiten haben gar keine
+   Meta-Beschreibung** und nur Automatiktitel — darunter
+   `/collections/schule` (Zielseite Kampagne G) und
+   `/collections/wichtelturen-und-zubehor` (Zielseite Kampagne D).
+   Dazu zwei Textfehler in bestehenden Beschreibungen („Vielfalt und
+   große Auswahl **unterschiedlichen** Varianten" auf zwei Seiten,
+   „Ausserdem"). **Nach OK des Betreibers im Admin eintragen** —
+   Kollektion → „Suchmaschinen-Eintrag" → Bearbeiten
+2. **Admin-Block, Rest** (Betreiber-Login nötig):
    - **Shop-Idee Wichtel-Sets/Bundles** (hebt kleine Warenkörbe)
    - Optional: Menüpunkt „About" eindeutschen (bewusst offen gelassen)
 2. **Aktivierung C + D + G durch den Betreiber ab 19.08.** — vorher je
