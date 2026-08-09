@@ -154,9 +154,20 @@ Warenkorb). Inhaltlich auf Betreiber-Ansage: Betriebsurlaub
 Daten), FAQ-Auslandsversand gestrichen (nur noch Deutschland), FAQ-
 Versandart präzisiert (Kleinteile Post, größere Waren DHL), „europaweit"
 auf der Über-uns-Seite entfernt. **Noch offen — liegt in Shopifys
-Datenbank, nicht im Theme:** Hauptmenü („Zeugnissmappen und Schule",
-engl. „Get in Touch"), Produktseite Gotteslobhülle (letzte Zeile der
-Tabelle), SEO-Metas. Läuft im Admin-Block, siehe Übergabe.
+Datenbank, nicht im Theme:** Hauptmenü, Produktseite Gotteslobhülle
+(letzte Zeile der Tabelle), SEO-Metas. Läuft im Admin-Block, siehe
+Übergabe.
+
+**Update Nachtsitzung 09./10.08.2026 — Admin-Block, erster Teil:**
+Hauptmenü **erledigt und live** („Zeugnissmappen und Schule" →
+„Zeugnismappen und Schule"; engl. Menüpunkt „Get in Touch" →
+„Kontakt"; der Punkt „About" blieb bewusst stehen, stand nicht auf der
+Liste). **C-EDD-Liefercountdown an den Betriebsurlaub angepasst:** in
+den App-Einstellungen unter „Holidays" fehlte der **10.08.** (die
+Liste enthielt nur 11.–18.08.) — ergänzt; die Produktseite verspricht
+seitdem Lieferung 21.–24. Aug. statt 20.–22. Aug. **Noch offen:**
+Produkttext Gotteslobhülle („Entwerfe deinen selbst gestalteten
+Gotteslobhülle … eine echtes Unikat"), SEO-Metas je Themenwelt.
 
 ---
 
