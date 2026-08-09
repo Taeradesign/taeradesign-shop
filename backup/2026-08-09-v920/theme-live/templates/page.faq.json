@@ -114,14 +114,14 @@
           "type": "question",
           "settings": {
             "title": "Wie werden die Produkte versendet?",
-            "text": "<p>Alle Produkte werden im DHL-Paket mit Sendeverfolgung versendet. Die Sendungsnummer teilen wir dir per E-Mail mit, sobald wir deine Produkte versenden.</p>"
+            "text": "<p>Kleinteile versenden wir mit der Deutschen Post als Großbrief, größere Waren im DHL-Paket mit Sendungsverfolgung. Die DHL-Sendungsnummer teilen wir dir per E-Mail mit, sobald wir deine Produkte versenden.</p>"
           }
         },
         "question-4": {
           "type": "question",
           "settings": {
             "title": "Können die Produkte auch ins Ausland gesendet werden?",
-            "text": "<p>Wir liefern europaweit (Europäische Union). Alle Nicht-EU-Mitgliedsstaaten können leider nicht beliefert werden (dazu zählt auch die Schweiz).</p>"
+            "text": "<p>Nein, wir liefern ausschließlich innerhalb Deutschlands.</p>"
           }
         },
         "599889df-1e92-4274-b11b-7bc63bf79228": {
