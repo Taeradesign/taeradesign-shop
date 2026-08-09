@@ -165,9 +165,20 @@ Hauptmenü **erledigt und live** („Zeugnissmappen und Schule" →
 Liste). **C-EDD-Liefercountdown an den Betriebsurlaub angepasst:** in
 den App-Einstellungen unter „Holidays" fehlte der **10.08.** (die
 Liste enthielt nur 11.–18.08.) — ergänzt; die Produktseite verspricht
-seitdem Lieferung 21.–24. Aug. statt 20.–22. Aug. **Noch offen:**
-Produkttext Gotteslobhülle („Entwerfe deinen selbst gestalteten
-Gotteslobhülle … eine echtes Unikat"), SEO-Metas je Themenwelt.
+seitdem Lieferung 21.–24. Aug. statt 20.–22. Aug. **Produkttext
+Gotteslobhülle erledigt und live** (Produkt-ID 8665393430853): „Entwerfe
+**deine selbst gestaltete** Gotteslobhülle und erschaffe **ein echtes**
+Unikat!" — damit ist die Fundliste in §6 **vollständig abgearbeitet**.
+Im selben Text fielen zwei weitere Fehler auf und wurden mitkorrigiert:
+„Schritt**e**-für-Schritt-Konfigurator" → „Schritt-für-Schritt-…" und
+„Und das **b**este daran" → „Und das **B**este daran". **Noch offen:**
+SEO-Metas je Themenwelt, Shop-Idee Wichtel-Bundles.
+
+**Hinweis für künftige Produkttext-Arbeit:** Die Suche nach
+„Gotteslobhülle" im Admin liefert ~50 CPB-Bestellkopien (Produkttyp
+`cpb_ordered`, Status Entwurf/Archiviert). Das echte, aktive Produkt
+findet man am schnellsten über die Produkt-ID aus dem Frontend
+(`admin.shopify.com/store/1a8137/products/<ID>`).
 
 ---
 

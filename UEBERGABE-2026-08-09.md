@@ -113,20 +113,26 @@ Warnung und blieben unangetastet.
   **„About" wurde bewusst nicht angefasst** (stand nicht auf der
   Liste) — falls er auch eingedeutscht werden soll, ist das ein
   Einzeiler
+- **Produkttext Gotteslobhülle ✅ erledigt und live** (Produkt-ID
+  **8665393430853**): „Entwerfe **deine selbst gestaltete**
+  Gotteslobhülle und erschaffe **ein echtes** Unikat!" — damit ist die
+  **§6-Fundliste vollständig abgearbeitet**. Zwei weitere Fehler im
+  selben Text mitkorrigiert: „Schritt**e**-für-Schritt-Konfigurator" →
+  „Schritt-für-Schritt-…", „Und das **b**este daran" → „Und das
+  **B**este daran". **Fallstrick fürs nächste Mal:** Die Admin-Suche
+  nach „Gotteslobhülle" liefert ~50 CPB-Bestellkopien (Typ
+  `cpb_ordered`, Entwurf/Archiviert) — das echte aktive Produkt am
+  schnellsten über die Produkt-ID aus dem Frontend aufrufen
 
 ---
 
 ## Reihenfolge ab hier
 
 1. **Admin-Block, Rest** (Betreiber-Login nötig):
-   - **Produkttext Gotteslobhülle** — letzte offene §6-Fundstelle:
-     „Entwerfe **deinen selbst gestalteten** Gotteslobhülle und
-     erschaffe **eine echtes** Unikat" → „Entwerfe **deine selbst
-     gestaltete** Gotteslobhülle und erschaffe **ein echtes** Unikat".
-     Am 09.08. live nachgewiesen, liegt in der Produktbeschreibung
-     (Shopify-DB, nicht im Theme)
-   - **SEO-Metas je Themenwelt** (Meta-Titel/-Beschreibungen)
+   - **SEO-Metas je Themenwelt** (Meta-Titel/-Beschreibungen) —
+     nächster Punkt
    - **Shop-Idee Wichtel-Sets/Bundles** (hebt kleine Warenkörbe)
+   - Optional: Menüpunkt „About" eindeutschen (bewusst offen gelassen)
 2. **Aktivierung C + D + G durch den Betreiber ab 19.08.** — vorher je
    Kampagne: bei **C und G** Asset-Optimierungs-Check in den
    Kampagneneinstellungen, bei **D** Sichtfreigabe der 20 Bilder
