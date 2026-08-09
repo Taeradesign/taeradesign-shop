@@ -1,4 +1,4 @@
-# ÜBERGABE 09.08.2026 — Ads-Umsetzung A–D erledigt, G entschieden, E offen
+# ÜBERGABE 09.08.2026 — Ads-Umsetzung A–D + G erledigt, E offen, Backup läuft
 
 **Zweck:** Nahtloser Einstieg für ein neues Kontextfenster. Führend
 bleiben [`CLAUDE.md`](CLAUDE.md) und `docs/`; diese Datei sagt, wo wir
@@ -31,26 +31,30 @@ begonnen.
 | **D** Wichtelwelt-PMax | ✅ **„Wichtelwelt" (ID 24118847240) PAUSIERT angelegt 09.08.** — 5 €/Tag (benutzerdefiniert), Ziel-ROAS 450 %, Eintragsgruppen-Filter Produkttyp „wichtelzubehör" (183 Produkte), finale URL `/collections/wichtelturen-und-zubehor`, 6 Titel + 2 lange Titel + 3 Textzeilen (ohne Filz-/Konfigurator-Claims — Wichtelware ist Holz/Metall/Wolle), 20 MC-Produktbilder + 5 Logos, **Asset-Optimierung nachweislich deaktiviert** (C-Befund trat nicht auf). **Vor Aktivierung: Sichtfreigabe der 20 Bilder durch Betreiber.** Ziel-ROAS auf 400 senken, falls < 10 Käufe nach zwei aktiven Wochen |
 | **E** Feed-Pflege | ⬜ Offen: Schultüten-Anhänger-Attribute (Farbe, Altersgruppe, Geschlecht) in der Shopify-App „Google & YouTube" nachtragen (Produkte stehen auf „aktiv (eingeschränkt)") |
 | **F** Kommunion | 📅 **Anlage im September, live ~1. Oktober** (vorgezogen — Betreiber: Gotteslob-Weihnachtsgeschäft beginnt im Oktober; deckt sich mit Q4-Daten, Gotteslobhülle-Landingpage +252 %). Struktur: Suchkampagne (WEGEN Richtlinie „Religiöse Überzeugungen in personalisierten Anzeigen" NICHT als PMax!) + Standard-Shopping-Test, Texte in §8 Stufe 2, Text-Lesung vor Anlage |
-| **G** Zeugnismappen | 🟡 **Entschieden 09.08. (Option A): Suchkampagne** „Zeugnismappen" nach Brand-Muster (Klicks maximieren + CPC-Deckel, nur Google-Suche, DE/Deutsch, pausiert) — wirkt ohne Lernphase, Restfenster Einschulung bis ~Mitte September, **macht das Shop-Update zeitkritisch**. Anlage nach Text-Lesung (Keywords + RSA); wiederverwendbar zu jedem Zeugnistermin (Halbjahr ~Ende Januar, Schuljahresende Juni/Juli). Details `docs/google-ads.md` §8 Plan-Zeile G |
+| **G** Zeugnismappen | ✅ **„Zeugnismappen" (ID 24113382444) PAUSIERT angelegt 09.08.** — Suchkampagne, 3 €/Tag (benutzerdefiniert), Klicks maximieren mit CPC-Deckel 0,40 €, nur Google-Suche, DE/Deutsch, 7 Keywords + 9 Ausschlüsse (schnittmuster, selber nähen/machen, anleitung, kostenlos, gebraucht, amazon, ebay, etsy), RSA auf `/collections/schule` (15 Produkte), 7 Titel + 3 Textzeilen, AI Max aus. **Vor Aktivierung: Asset-Optimierungs-Check — der C-Befund trat wieder auf** (Zusammenfassung zeigte „aktiviert" trotz deaktivierter Schalter). **Restfenster Einschulung bis ~Mitte September macht das Shop-Update zeitkritisch.** Wiederverwendbar zu jedem Zeugnistermin |
 
 ## Reihenfolge ab hier
 
-1. **G anlegen** (pausiert, nach Text-Lesung im Chat), dann **E**
-2. **Shop-Backup** (entschieden 09.08.: CLI-Weg — Node.js + Shopify
-   CLI sind installiert; es fehlen Betreiber-Login und `theme pull`
-   ins Repo; zusätzlich Theme-Duplikat im Shopify-Admin), danach
-   **Shop-Update** — Betreiber-Ansage: VOR jeder Aktivierung.
-   Tippfehler-Fundliste `docs/ist-zustand.md` §6 (vorher kompletter
-   Text-Durchgang aller Seiten), SEO (Meta-Titel/-Beschreibungen je
-   Themenwelt), Shop-Idee Wichtel-Sets/Bundles (hebt kleine
-   Warenkörbe). **Zeitkritisch wegen G** (Einschulungsfenster)
-3. **Aktivierung C + D + G durch den Betreiber** (bei C vorher
-   Asset-Optimierungs-Check in den Einstellungen; bei D Sichtfreigabe
-   der 20 Bilder)
+1. **E** (Feed-Pflege Schultüten-Attribute in der Shopify-App)
+2. **Shop-Backup abschließen** (CLI-Weg: Node.js + Shopify CLI
+   installiert, `theme pull` ins Repo unter `backup/2026-08-09/`
+   gestartet — braucht die Betreiber-Bestätigung der
+   Shopify-Anmeldung im Browser; zusätzlich Theme-Duplikat im
+   Shopify-Admin als Sofort-Rollback), danach **Shop-Update** —
+   Betreiber-Ansage: VOR jeder Aktivierung. Tippfehler-Fundliste
+   `docs/ist-zustand.md` §6 (vorher kompletter Text-Durchgang aller
+   Seiten), SEO (Meta-Titel/-Beschreibungen je Themenwelt), Shop-Idee
+   Wichtel-Sets/Bundles (hebt kleine Warenkörbe). **Zeitkritisch
+   wegen G** (Einschulungsfenster bis ~Mitte September)
+3. **Aktivierung C + D + G durch den Betreiber** (bei C und G vorher
+   Asset-Optimierungs-Check in den Einstellungen — der Befund trat
+   bei beiden auf; bei D Sichtfreigabe der 20 Bilder)
 4. **Messplan** (§8): wöchentlich ROAS je Kampagne, Brand getrennt
    lesen; Shopify-Zahlen sind die Wahrheit
 5. Wiedervorlagen: tROAS-Rampe ~22.08. · Marke ~20.09. · F-Anlage
-   September · Wichtelwelt-tROAS-Check nach zwei aktiven Wochen
+   September · Wichtelwelt-tROAS-Check nach zwei aktiven Wochen ·
+   Zeugnismappen pausieren ~Mitte September (Saisonende), reaktivieren
+   ~Ende Januar (Halbjahreszeugnisse)
 
 ## Arbeitsregeln (gelten unverändert)
 
@@ -81,7 +85,8 @@ begonnen.
   Shopping App Purchase" primär
 - Kampagnen: **Filzprodukte 20676090469** (aktiv) · **Brand
   Taeradesign 24118761062** (pausiert) · **Wichtelwelt 24118847240**
-  (pausiert) · Gotteslob-Max-Performance 22187193352 (pausiert,
+  (pausiert) · **Zeugnismappen 24113382444** (pausiert) ·
+  Gotteslob-Max-Performance 22187193352 (pausiert,
   Religions-Richtlinie) · 6 weitere pausierte Alt-Kampagnen als
   Vorlage
 - Shopify-Admin: `admin.shopify.com/store/1a8137` — **Login macht der

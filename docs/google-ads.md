@@ -498,13 +498,39 @@ maßvoll und **nur bei gehaltenem ROAS-Ziel** — nicht als Vorschuss.
   Claude-Code-Berechtigungsklassifikator blockierte die Eingabe des
   Gebotswerts; der Budgetwert ging durch). **Vor Aktivierung:
   Sichtfreigabe der 20 Bilder durch den Betreiber** (Merker).
-- **G entschieden (Betreiber 09.08.2026): Option A** — eigene kleine
-  **Suchkampagne „Zeugnismappen"** noch für die Einschulungssaison
-  2026, pausiert anzulegen nach Text-Lesung (Keywords + RSA im Chat
-  vorgelegt). Begründung: ohne Lernphase ab Tag eins wirksam,
-  CPC-gedeckelt nach Brand-Muster; macht das **Shop-Update
-  zeitkritisch**, weil vor jeder Aktivierung (Restfenster bis ~Mitte
-  September).
+- **G ✅ ERLEDIGT (veröffentlicht 09.08.2026 nachmittags, sofort
+  pausiert):** Suchkampagne **„Zeugnismappen", Kampagnen-ID
+  24113382444, Status PAUSIERT** (im Konto verifiziert, 0
+  Impressionen). Werte wie freigegeben (Betreiber-Wahl „1"):
+  **Klicks maximieren mit CPC-Deckel 0,40 €**; Tagesbudget
+  **benutzerdefiniert 3,00 €** (Googles Vorschläge 4,10–6,16 €
+  verworfen; Googles „mindestens 5,13 €"-Warnung bewusst ignoriert);
+  nur Google-Suchnetzwerk (Partner + Display abgewählt); Deutschland,
+  Deutsch; politische Werbung „Nein"; alle AI-Max-Schalter im
+  Assistenten deaktiviert (Haupt-Toggle, Textanpassung,
+  URL-Erweiterung); KI-Generator („Keywords und Assets erstellen")
+  übersprungen. **Keywords (7):** "zeugnismappe" · [zeugnismappe
+  personalisiert] · "zeugnismappe mit namen" · "zeugnismappe filz" ·
+  "zeugnismappe bestickt" · "zeugnismappe einschulung" ·
+  "zeugnisordner". **Auszuschließend (9, Kampagnenebene, nach der
+  Anlage nachgetragen):** schnittmuster, selber nähen, selber machen,
+  anleitung, kostenlos, gebraucht, amazon, ebay, etsy. **RSA:** finale
+  URL `taeradesign.com/collections/schule` (15 Produkte: 12
+  Zeugnismappen à 31,99 € + 3 Schultüten; die Kollektion
+  `/zeugnismappe` hat nur 1 Produkt — deshalb „Schule"), Pfad
+  `/zeugnismappe`, 7 freigegebene Titel (inkl. Konfigurator-Claims —
+  Betreiber bestätigte: Zeugnismappe läuft über den Konfigurator),
+  3 Textzeilen, Unternehmensname Taeradesign, Sitelinks von
+  Kontoebene. **Der C-Befund trat wieder auf:** Die
+  Überprüfen-Zusammenfassung zeigte „AI Max: Asset-Optimierung —
+  Textanpassung und Erweiterung der finalen URL aktiviert", obwohl
+  alle Schalter im Assistenten aus waren. **Merker: vor Aktivierung in
+  den Kampagneneinstellungen kontrollieren** (wie bei C). Keine
+  Identitätsprüfung diesmal. Wirtschaftlichkeits-Annahme aus der
+  Freigabe: bei 32-€-Warenkorb und CR 3–5 % liefert der 0,40-€-Deckel
+  rechnerisch ROAS ~240–400 % — unter der 500er-Messlatte; Betreiber
+  hat das Restfenster bewusst priorisiert. Wiederverwendbar zu jedem
+  Zeugnistermin (Halbjahr ~Ende Januar, Schuljahresende Juni/Juli).
 
 ### Auflösung des Zielkonflikts 350 % ↔ 37 €/h (= 500 %)
 
@@ -528,7 +554,7 @@ akzeptiertem Volumeneinbruch — Betreiber wählt in Freigabe A.
 | **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | **✅ ERLEDIGT 09.08.2026** — ID 24118847240, pausiert; Details im Umsetzungsprotokoll. Sichtfreigabe der Bilder + Aktivierung durch Betreiber nach Shop-Update |
 | **E** | **Feed-Pflege:** fehlende Attribute Schultüten-Anhänger (Farbe, Altersgruppe, Geschlecht) in der Google-&-YouTube-App nachtragen | betrifft die „aktiv (eingeschränkt)"-Produkte aus §3 | freigegeben — unkritisch, jederzeit |
 | **F** | **Kommunion-Suchkampagne + Standard-Shopping-Test** anlegen (pausiert) | Struktur und Texte aus Stufe 2 | **vorgezogen auf ~1. Oktober** (Betreiber 08.08.2026: Gotteslobhüllen-Weihnachtsgeschäft beginnt im Oktober — belegt durch Q4-Sichtung „Gotteslobhülle +252 %"). Anlage im September mit Text-Lesung |
-| **G** | **Zeugnismappen/Einschulung** — eigene Kampagne noch für die Saison 2026 (Betreiber-Idee 09.08.2026, siehe Nachtrag Stufe 3) | **Suchkampagne** nach Brand-Muster (Klicks maximieren + CPC-Deckel), pausiert anlegen; Budget/Deckel und Texte per Lesung; Restfenster bis ~Mitte September | **Entschieden 09.08.2026: Option A (Suchkampagne).** Anlage nach Text-Lesung; wiederverwendbar zu jedem Zeugnistermin (Halbjahr ~Ende Januar, Schuljahresende Juni/Juli) |
+| **G** | **Zeugnismappen/Einschulung** — eigene Kampagne noch für die Saison 2026 (Betreiber-Idee 09.08.2026, siehe Nachtrag Stufe 3) | Suchkampagne nach Brand-Muster: Klicks maximieren + CPC-Deckel 0,40 €, 3 €/Tag, 7 Keywords + 9 Ausschlüsse, Zielseite `/collections/schule` | **✅ ERLEDIGT 09.08.2026** — ID 24113382444, pausiert; Details im Umsetzungsprotokoll. Vor Aktivierung Asset-Optimierungs-Check (C-Befund trat wieder auf); Aktivierung Betreiber nach Shop-Update — **Restfenster bis ~Mitte September** |
 
 Nach A–D: vier Wochen Messplan (wöchentlich ROAS je Kampagne, Brand
 getrennt), dann Budgetentscheidung. **Vor Aktivierung von C, D und F
