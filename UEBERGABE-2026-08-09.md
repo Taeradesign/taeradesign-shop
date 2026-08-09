@@ -72,6 +72,10 @@ Aktivierung durch den Betreiber.
    F-Anlage September · Wichtelwelt-tROAS-Check nach zwei aktiven
    Wochen · Zeugnismappen pausieren ~Mitte September (Saisonende),
    reaktivieren ~Ende Januar (Halbjahreszeugnisse)
+6. **Backlog** (neu 09.08. abends, [`docs/backlog.md`](docs/backlog.md)):
+   Google Shopping (freie Einträge, Standard-Shopping vs. PMax,
+   Feed-Qualität) · Bewertungen (Etsy-Import auf die Website,
+   Sterne zu Google via Judge.me/Kundenrezensionen/Unternehmensprofil)
 
 ## Arbeitsregeln (gelten unverändert) + Praxisbefunde vom 09.08.
 
