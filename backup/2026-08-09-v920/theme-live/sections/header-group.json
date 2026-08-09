@@ -18,7 +18,7 @@
           "type": "announcement",
           "settings": {
             "text": "Wir haben Betriebsurlaub vom 10.08. bis einschließlich 11.09.2026",
-            "text_on_mobile": "Wir haben Betriebsurlaub vom 04.09. bis einschließlich 18.08.2026",
+            "text_on_mobile": "Wir haben Betriebsurlaub vom 10.08. bis einschließlich 11.09.2026",
             "text_size": 19,
             "link": "",
             "enable_highlight": true,
@@ -41,8 +41,8 @@
           "type": "announcement",
           "disabled": true,
           "settings": {
-            "text": "Schnelle Lieferung innerhalb 2-3 Tagen.",
-            "text_on_mobile": "Schnelle Lieferung innerhalb 2-3 Tagen.",
+            "text": "Schnelle Lieferung innerhalb von 2–3 Tagen.",
+            "text_on_mobile": "Schnelle Lieferung innerhalb von 2–3 Tagen.",
             "text_size": 15,
             "link": "",
             "enable_highlight": true,

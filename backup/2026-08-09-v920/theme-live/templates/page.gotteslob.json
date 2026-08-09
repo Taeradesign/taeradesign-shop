@@ -32,7 +32,7 @@
         "template--19662624883013__0ecb3e90-9ecf-4d02-889d-8cc97e094c66-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Keine gleicht der anderen! Entdecke die vielen Möglichkeiten um dir dein eigenes Unikat zu erschaffen. </p>",
+            "text": "<p>Keine gleicht der anderen! Entdecke die vielen Möglichkeiten, um dir dein eigenes Unikat zu erschaffen.</p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -450,7 +450,7 @@
         "heading_Atg7VD": {
           "type": "heading",
           "settings": {
-            "heading": "Mehr Beispiel ansehen?",
+            "heading": "Mehr Beispiele ansehen?",
             "heading_size": "h1",
             "heading_tag": "h2"
           }
@@ -572,7 +572,7 @@
         "template--19766337798469__811a6d72-74da-4392-8c33-973ca25f2803-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Mit unserem leicht zu bedienenden Konfigurator leiten wir dich durch alle Schritte, um eine einzigeartige Gotteslobhülle zu erschaffen, die es so nicht mehr geben wird.</p>",
+            "text": "<p>Mit unserem leicht zu bedienenden Konfigurator leiten wir dich durch alle Schritte, um eine einzigartige Gotteslobhülle zu erschaffen, die es so nicht mehr geben wird.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "highlight_style": "marker"

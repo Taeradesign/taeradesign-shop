@@ -57,7 +57,7 @@
       "type": "cart-recommendations",
       "settings": {
         "show_divider": false,
-        "heading": "Das könnte Ihnen auch gefallen",
+        "heading": "Das könnte dir auch gefallen",
         "heading_size": "h2",
         "heading_alignment": "center",
         "heading_tag": "h2",

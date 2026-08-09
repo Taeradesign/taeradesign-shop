@@ -95,10 +95,10 @@
             "text_box_position": "bottom-left",
             "subheading": "Made in Germany",
             "subheading_size": "h5",
-            "heading": "Handgefertigte Filzprodukt",
+            "heading": "Handgefertigte Filzprodukte",
             "heading_size": "h0",
             "heading_tag": "h2",
-            "text": "Alle Produkte werden komplett von unser nach deinen Wünschen erstellt",
+            "text": "Alle Produkte werden komplett von uns nach deinen Wünschen erstellt",
             "text_size": "typeset3",
             "button_label": "Jetzt entdecken!",
             "button_link": "shopify://collections",
@@ -193,7 +193,7 @@
             "custom_icon": "",
             "title": "Höchste Qualitätsansprüche",
             "title_size": "h4",
-            "text": "<p>Wir verwenden ausschließlich hochqualitative Materialen.</p>",
+            "text": "<p>Wir verwenden ausschließlich hochqualitative Materialien.</p>",
             "enable_highlight": false,
             "highlight_style": "marker"
           }
@@ -206,7 +206,7 @@
             "custom_icon": "",
             "title": "Schnelle Lieferung",
             "title_size": "h4",
-            "text": "<p>Innerhalb Deutschlands 2-3 Tagen nach Bestelleingang.</p>",
+            "text": "<p>Innerhalb Deutschlands 2–3 Tage nach Bestelleingang.</p>",
             "enable_highlight": false,
             "highlight_style": "marker"
           }
@@ -479,7 +479,7 @@
         "text": {
           "type": "text",
           "settings": {
-            "text": "<p>Das Label \"Taeradesign\" entstand im Jahr 2012 und hat zu Beginn auf die Bestickung und Veredelung von selbst entworfenen Filzprodukten spezialisiert. Unser Produktsortiment steigt kontinuierlich und wir erweitern  ständig unsere angebotenen Produktkategorieren.</p><p>Hinter Taeradesign steck ein kleines Familienunternehmen, angeführt von Thomas und Daniela Keilbach, aus den schönen Neckartal-Odenwald im Süden Deutschlands. </p><p>Unsere Leitlinie ist simpel: Wir produzieren das bestmögliche einzigartige Produkt aus den besten verfügbaren Materialien mit dem besten Team der Welt. Dazu noch ein fein abgestimmtest Preis-/Leistungsverhältnis und alles \"Made in Germany\".</p>",
+            "text": "<p>Das Label \"Taeradesign\" entstand im Jahr 2012 und hat sich zu Beginn auf die Bestickung und Veredelung von selbst entworfenen Filzprodukten spezialisiert. Unser Produktsortiment wächst kontinuierlich und wir erweitern ständig unsere angebotenen Produktkategorien.</p><p>Hinter Taeradesign steckt ein kleines Familienunternehmen, angeführt von Thomas und Daniela Keilbach, aus dem schönen Neckartal-Odenwald im Süden Deutschlands.</p><p>Unsere Leitlinie ist simpel: Wir produzieren das bestmögliche einzigartige Produkt aus den besten verfügbaren Materialien mit dem besten Team der Welt. Dazu noch ein fein abgestimmtes Preis-/Leistungsverhältnis und alles \"Made in Germany\".</p>",
             "text_size": "typeset",
             "secondary_color": false,
             "enable_highlight": false,

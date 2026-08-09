@@ -15,7 +15,7 @@
         "heading": {
           "type": "heading",
           "settings": {
-            "heading": "Bewerbe dich bei uns",
+            "heading": "Bewirb dich bei uns",
             "heading_size": "h0",
             "heading_tag": "h2",
             "enable_highlight": false,
@@ -76,7 +76,7 @@
         "template--19533418856773__5552ef7d-91d5-4d7a-9480-d31d41dfb42c-heading-1": {
           "type": "heading",
           "settings": {
-            "heading": "Offene stellen",
+            "heading": "Offene Stellen",
             "heading_size": "h1",
             "heading_tag": "h2",
             "enable_highlight": false,
@@ -86,7 +86,7 @@
         "template--19533418856773__5552ef7d-91d5-4d7a-9480-d31d41dfb42c-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Aktuell haben wir leider keine offene Stelle. </p><p>Allerdings sind wir immer auf der Suche nach Aushilfskräfte im Rahmen von Minijobs (520 EUR) für unsere Produktion. Bewerbe dich einfach initiativ, wir freuen uns.</p>",
+            "text": "<p>Aktuell haben wir leider keine offene Stelle.</p><p>Allerdings sind wir immer auf der Suche nach Aushilfskräften im Rahmen von Minijobs für unsere Produktion. Bewirb dich einfach initiativ, wir freuen uns.</p>",
             "text_size": "typeset2",
             "secondary_color": false,
             "enable_highlight": false,
@@ -129,7 +129,7 @@
         "media": {
           "type": "media",
           "settings": {
-            "heading": "Follow us"
+            "heading": "Folge uns"
           }
         }
       },
@@ -141,7 +141,7 @@
         "return_url": "",
         "show_phone": true,
         "show_divider": false,
-        "heading": "Get in touch",
+        "heading": "Kontakt",
         "heading_size": "h2",
         "heading_tag": "h2",
         "padding_top": 36,

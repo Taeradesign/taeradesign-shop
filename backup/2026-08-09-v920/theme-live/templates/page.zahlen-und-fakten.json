@@ -107,7 +107,7 @@
             "custom_icon": "",
             "title": "Support",
             "title_size": "h3",
-            "text": "<p>Wir bieten einen sehr schnellen schriftlichen Support über unseren Live-Chat und Email an. Emails beantworten wir in der Regel innerhalb weniger Minuten.</p>",
+            "text": "<p>Wir bieten einen sehr schnellen schriftlichen Support über unseren Live-Chat und E-Mail an. E-Mails beantworten wir in der Regel innerhalb weniger Minuten.</p>",
             "enable_highlight": false,
             "highlight_style": "marker"
           }
@@ -159,7 +159,7 @@
             "custom_icon": "",
             "title": "Lieferung",
             "title_size": "h3",
-            "text": "<p>Die Lieferung erfolgt 2-3 Werktage nach Bestelleingangmit DHL/Deutsche Post (Deutschland).</p>",
+            "text": "<p>Die Lieferung erfolgt 2–3 Werktage nach Bestelleingang mit DHL/Deutsche Post (Deutschland).</p>",
             "enable_highlight": false,
             "highlight_style": "marker"
           }
@@ -198,7 +198,7 @@
             "custom_icon": "",
             "title": "Mitarbeiter",
             "title_size": "h3",
-            "text": "<p>Motiviert und legen größten Wert auf saubere Arbeit.</p>",
+            "text": "<p>Wir arbeiten hoch motiviert und legen größten Wert auf saubere Arbeit.</p>",
             "enable_highlight": false,
             "highlight_style": "marker"
           }
@@ -224,7 +224,7 @@
             "custom_icon": "",
             "title": "Vertrauen",
             "title_size": "h3",
-            "text": "<p>Wir behandeln deine Kundendaten mit höchster Sensibilität entsprechender der DSGVO. </p>",
+            "text": "<p>Wir behandeln deine Kundendaten mit höchster Sensibilität entsprechend der DSGVO.</p>",
             "enable_highlight": false,
             "highlight_style": "marker"
           }

@@ -72,42 +72,42 @@
           "type": "question",
           "settings": {
             "title": "Werden die Produkte individuell für mich hergestellt?",
-            "text": "<p>Ja, jedes konfigurierbare Produkt wird für dich nach deinen Vorgaben hergestellt. Damit ist dein Produkt ein echts Unikat.</p>"
+            "text": "<p>Ja, jedes konfigurierbare Produkt wird für dich nach deinen Vorgaben hergestellt. Damit ist dein Produkt ein echtes Unikat.</p>"
           }
         },
         "question-5": {
           "type": "question",
           "settings": {
             "title": "Aus welchem Material besteht der Filz?",
-            "text": "<p>Unser Filz besteht aus robusten 3mm Polyester-Filz (100%). </p>"
+            "text": "<p>Unser Filz besteht aus robustem 3-mm-Polyester-Filz (100 %).</p>"
           }
         },
         "question-1": {
           "type": "question",
           "settings": {
             "title": "Kann ich ein gekauftes Produkt zurückgeben?",
-            "text": "<p>Wenn du dir ein Unikat hast anfertigen lassen, dann können wir dieses leider nicht mehr zurücknehmen. Personalisierte Produkte können wir nicht mehr weiterverkaufen oder wieder in Einzelteile auflösen. Bitte habe Verständnis dafür, dass wir unseren Arbeits- und Materialeinsatz nicht verschenken.</p><p>Für Lagerware gilt ein 14-tägiges Rückgaberecht. Die Rücksendekosten musst allerdings du tragen.</p>"
+            "text": "<p>Wenn du dir ein Unikat hast anfertigen lassen, dann können wir dieses leider nicht mehr zurücknehmen. Personalisierte Produkte können wir nicht mehr weiterverkaufen oder wieder in Einzelteile auflösen. Bitte habe Verständnis dafür, dass wir unseren Arbeits- und Materialeinsatz nicht verschenken.</p><p>Für Lagerware gilt ein 14-tägiges Rückgaberecht. Die Rücksendekosten musst du allerdings tragen.</p>"
           }
         },
         "50bac0ab-f237-4896-af81-841d5100f98b": {
           "type": "question",
           "settings": {
             "title": "Ich benötige eine größere Anzahl an Artikeln, gibt es dann einen Rabatt oder ein Angebot?",
-            "text": "<p>Je nach Aufwand deiner Personalisierungswünsche und Menge (min. 20 Stück) können wir dir ein Angebot bzw. einen Rabatt anbieten. Setzte dich mit uns per<a href=\"mailto:://support@taeradesign.de\" title=\"mailto:://support@taeradesign.de\"> E-Mail </a>oder per Live-Chat in Verbindung.</p>"
+            "text": "<p>Je nach Aufwand deiner Personalisierungswünsche und Menge (min. 20 Stück) können wir dir ein Angebot bzw. einen Rabatt anbieten. Setze dich mit uns per <a href=\"mailto:support@taeradesign.de\" title=\"support@taeradesign.de\">E-Mail</a> oder per Live-Chat in Verbindung.</p>"
           }
         },
         "question-2": {
           "type": "question",
           "settings": {
-            "title": "Ich benötige eine größere Anzahl an personalisierten Artikel, kann ich auch eine Sammelbestellung aufgeben statt jedes einzeln zu konfigurieren?",
-            "text": "<p>Klar, du kannst uns z.B. eine Excelliste zukommen lassen. Setzte dich einfach mit uns per Email oder Live-Chat in Verbindung damit wir dir mitteilen können, welche Informationen in der Liste zwingend erforderlich sind und welche Zahlungsoptionen es gibt.</p>"
+            "title": "Ich benötige eine größere Anzahl an personalisierten Artikeln, kann ich auch eine Sammelbestellung aufgeben, statt jeden einzeln zu konfigurieren?",
+            "text": "<p>Klar, du kannst uns z.B. eine Excel-Liste zukommen lassen. Setze dich einfach mit uns per E-Mail oder Live-Chat in Verbindung, damit wir dir mitteilen können, welche Informationen in der Liste zwingend erforderlich sind und welche Zahlungsoptionen es gibt.</p>"
           }
         },
         "bd4b2db4-4d39-4e6b-8a44-dd8127020420": {
           "type": "question",
           "settings": {
-            "title": "Ich benötige ein individuelles Logo, welches nicht in eurer Auswahlliste ist. Erstellt Ihr mir eines nach meiner Vorgabe?",
-            "text": "<p>Prinzipiell können wir Logos oder Bilder digitalisieren und so auf unsere Produkte sticken. Allerdings ist dieser Vorgang sehr aufwendig uns benötigt in der Regel auch ein bis zwei Prototypenbestickungen, bis alles sitzt. Deshalb bieten wir solche Sonder-Digitalisierungen in der Regel nur im Rahmen eines größeren Auftrags an (z.B. ab 100 Schlüsselanhänger). Setzte dich mit uns per <a href=\"mailto://support@taeradesign.de\" title=\"mailto://support@taeradesign.de\">E-Mail</a> oder Live-Chat in Verbindung, um die Details zu klären.</p>"
+            "title": "Ich benötige ein individuelles Logo, welches nicht in eurer Auswahlliste ist. Erstellt ihr mir eines nach meiner Vorgabe?",
+            "text": "<p>Prinzipiell können wir Logos oder Bilder digitalisieren und so auf unsere Produkte sticken. Allerdings ist dieser Vorgang sehr aufwendig und benötigt in der Regel auch ein bis zwei Prototypenbestickungen, bis alles sitzt. Deshalb bieten wir solche Sonder-Digitalisierungen in der Regel nur im Rahmen eines größeren Auftrags an (z.B. ab 100 Schlüsselanhänger). Setze dich mit uns per <a href=\"mailto:support@taeradesign.de\" title=\"support@taeradesign.de\">E-Mail</a> oder Live-Chat in Verbindung, um die Details zu klären.</p>"
           }
         },
         "question-3": {
@@ -121,20 +121,20 @@
           "type": "question",
           "settings": {
             "title": "Können die Produkte auch ins Ausland gesendet werden?",
-            "text": "<p>Wir liefern Europweit (Europäische Union). Alle nicht EU-Mitgliedsstaaten können lieder nicht beliefert werden (dazu zählt auch die Schweiz).</p>"
+            "text": "<p>Wir liefern europaweit (Europäische Union). Alle Nicht-EU-Mitgliedsstaaten können leider nicht beliefert werden (dazu zählt auch die Schweiz).</p>"
           }
         },
         "599889df-1e92-4274-b11b-7bc63bf79228": {
           "type": "question",
           "settings": {
             "title": "Wie lange dauert die Produktion und der Versand?",
-            "text": "<p>Wir produzieren und versenden Unikat in der Regel innerhalb von 24 Stunden (an Werktagen). Der Versand mit DHL dauert dann je nach Region nochmal 1-2 Werktage.</p>"
+            "text": "<p>Wir produzieren und versenden Unikate in der Regel innerhalb von 24 Stunden (an Werktagen). Der Versand mit DHL dauert dann je nach Region nochmal 1–2 Werktage.</p>"
           }
         },
         "78909ee5-5f03-498b-9549-37a486473582": {
           "type": "question",
           "settings": {
-            "title": "Wo werden die  Produkte hergestellt?",
+            "title": "Wo werden die Produkte hergestellt?",
             "text": "<p>Alle Unikate werden in unserer hauseigenen Produktion gefertigt. Jeder Arbeitsschritt erfolgt bei uns, z.B. der Materialzuschnitt, das Besticken und Nähen, die Endarbeiten, die Qualitätskontrolle, das Verpacken und das Versenden – alles zu 100 % „Made in Germany“ und „Made by Taeradesign“.</p>"
           }
         }
@@ -177,7 +177,7 @@
         "rich-text-0-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Kein Problem! Sende uns eine <a href=\"mailto:support@taeradesign.de\" title=\"mailto:support@taeradesign.de\">E-Mail</a> oder starte einen Live-Chat und teile uns deine Frage mit. </p><p>Emails beantworten in der Regel innerhalb weniger Minuten. Sollte sich deine Frage auf eine Bestellung beziehen, gebe bitte deine Bestellnummer an (falls zur Hand). </p>",
+            "text": "<p>Kein Problem! Sende uns eine <a href=\"mailto:support@taeradesign.de\" title=\"support@taeradesign.de\">E-Mail</a> oder starte einen Live-Chat und teile uns deine Frage mit.</p><p>E-Mails beantworten wir in der Regel innerhalb weniger Minuten. Sollte sich deine Frage auf eine Bestellung beziehen, gib bitte deine Bestellnummer an (falls zur Hand).</p>",
             "text_size": "typeset",
             "secondary_color": false
           }

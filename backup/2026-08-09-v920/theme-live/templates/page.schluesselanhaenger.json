@@ -32,7 +32,7 @@
         "template--19662624883013__0ecb3e90-9ecf-4d02-889d-8cc97e094c66-text-1": {
           "type": "text",
           "settings": {
-            "text": "<p>Vielfälltige Gestaltungsmöglichkeiten für alle Lebenslagen</p>",
+            "text": "<p>Vielfältige Gestaltungsmöglichkeiten für alle Lebenslagen</p>",
             "text_size": "typeset3",
             "secondary_color": false
           }
@@ -76,7 +76,7 @@
             "text_box_position": "middle-center",
             "subheading": "",
             "subheading_size": "h5",
-            "heading": "Du sucht sein Geschenk?",
+            "heading": "Du suchst ein Geschenk?",
             "heading_size": "h1",
             "heading_tag": "h2",
             "text": "Egal ob zum Geburtstag, Weihnachten, Mutter- oder Vatertag, Einschulung oder einfach als Aufmerksamkeit: Mit diesem Schlüsselanhänger wirst du täglich in Erinnerung bleiben!",
@@ -98,7 +98,7 @@
             "heading": "Beseitige das Chaos!",
             "heading_size": "h1",
             "heading_tag": "h2",
-            "text": "Hast du auch so viele Schlüssel? Auto, Fahrrad, Motorrad, Garage, Gartentor, Briefkasten, Schließfach, Umkleideschlüssel, Schlüssel der Eltern, uvm.  Bring Struktur in deine Schlüsselchaos und strukturiere diese farblich und mit Text, damit du immer den richtigen direkt findest.",
+            "text": "Hast du auch so viele Schlüssel? Auto, Fahrrad, Motorrad, Garage, Gartentor, Briefkasten, Schließfach, Umkleideschlüssel, Schlüssel der Eltern uvm. Bring Struktur in dein Schlüsselchaos und markiere deine Schlüssel farblich und mit Text, damit du immer den richtigen direkt findest.",
             "text_size": "typeset",
             "button_label": "Zum Konfigurator",
             "button_link": "shopify://products/schlusselanhanger-aus-filz-frei-personalisierbares-unikat-pcb",
@@ -274,7 +274,7 @@
         "apply_overlay": true,
         "full_width": false,
         "show_divider": false,
-        "heading": "Sie dir an, was andere Kunden entworfen haben",
+        "heading": "Sieh dir an, was andere Kunden entworfen haben",
         "heading_size": "h1",
         "heading_alignment": "center",
         "heading_tag": "h2",
@@ -296,7 +296,7 @@
             "custom_icon": "",
             "title": "Hochwertige Materialien",
             "title_size": "h3",
-            "text": "<p>Welcome to our store.</p>"
+            "text": "<p>Wir verwenden nur hochwertige Materialien und achten auf jedes Detail.</p>"
           }
         },
         "template--19766337831237__509e3786-56f4-480b-8140-0ec0cf7ede39-guarantee-2": {
@@ -307,7 +307,7 @@
             "custom_icon": "",
             "title": "Präzise Verarbeitung",
             "title_size": "h3",
-            "text": "<p>Welcome to our store.</p>"
+            "text": "<p>Jeder Anhänger wird sorgfältig bestickt, genäht und geprüft.</p>"
           }
         },
         "c0a6f562-08d3-4a8c-932b-4baf62eec1aa": {
@@ -318,7 +318,7 @@
             "custom_icon": "",
             "title": "Langlebiger Anhänger",
             "title_size": "h3",
-            "text": "<p>Welcome to our store.</p>"
+            "text": "<p>Robuster Filz und feste Nähte – gemacht für den täglichen Einsatz.</p>"
           }
         },
         "a95349df-3629-46f9-903d-0beb57dc9881": {
@@ -329,7 +329,7 @@
             "custom_icon": "",
             "title": "Schnelle Lieferung",
             "title_size": "h3",
-            "text": "<p>Welcome to our store.</p>"
+            "text": "<p>Wir produzieren und versenden in der Regel innerhalb weniger Werktage.</p>"
           }
         }
       },
@@ -412,7 +412,7 @@
             "heading": "Strahlende Augen bei Klein und Groß!",
             "heading_size": "h1",
             "heading_tag": "h2",
-            "text": "Wir sind uns sicher, dass auch du und deine ganzen Familie in die Fantasiewelt der Wichtel eintauchen werden.",
+            "text": "Wir sind uns sicher, dass auch du und deine ganze Familie in die Fantasiewelt der Wichtel eintauchen werdet.",
             "text_size": "typeset",
             "button_label": "Zum Sortiment",
             "button_link": "shopify://collections/wichtelturen-und-zubehor",
