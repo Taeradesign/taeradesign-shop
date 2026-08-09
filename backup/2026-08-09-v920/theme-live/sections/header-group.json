@@ -1,0 +1,123 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
+{
+  "name": "t:sections.header-group.name",
+  "type": "header",
+  "sections": {
+    "announcement-bar": {
+      "type": "announcement-bar",
+      "blocks": {
+        "announcement_w9EWTe": {
+          "type": "announcement",
+          "settings": {
+            "text": "Wir haben Betriebsurlaub vom 10.08. bis einschließlich 11.09.2026",
+            "text_on_mobile": "Wir haben Betriebsurlaub vom 04.09. bis einschließlich 18.08.2026",
+            "text_size": 19,
+            "link": "",
+            "enable_highlight": true,
+            "highlight_style": "solid-color"
+          }
+        },
+        "a33c5120-6bc1-4226-9b85-04f547452d2c": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Versand innerhalb von 24 Stunden.",
+            "text_on_mobile": "Versand innerhalb von 24 Stunden.",
+            "text_size": 15,
+            "link": "",
+            "enable_highlight": false,
+            "highlight_style": "marker"
+          }
+        },
+        "0f4f0d76-bf5c-4cb6-81c5-1acede2b3b0b": {
+          "type": "announcement",
+          "disabled": true,
+          "settings": {
+            "text": "Schnelle Lieferung innerhalb 2-3 Tagen.",
+            "text_on_mobile": "Schnelle Lieferung innerhalb 2-3 Tagen.",
+            "text_size": 15,
+            "link": "",
+            "enable_highlight": true,
+            "highlight_style": "marker"
+          }
+        }
+      },
+      "block_order": [
+        "announcement_w9EWTe",
+        "a33c5120-6bc1-4226-9b85-04f547452d2c",
+        "0f4f0d76-bf5c-4cb6-81c5-1acede2b3b0b"
+      ],
+      "settings": {
+        "only_homepage": false,
+        "layout": "carousel",
+        "mobile_layout": "carousel",
+        "autorotate": true,
+        "autorotate_speed": 5,
+        "show_navigation": true,
+        "direction": "left",
+        "speed": 1.6,
+        "colors_text": "#ffffff",
+        "colors_background": "#be9063",
+        "gradient_background": "",
+        "colors_highlight": "#ffb503",
+        "padding_top": 0,
+        "padding_bottom": 0
+      }
+    },
+    "header": {
+      "type": "header",
+      "settings": {
+        "logo": "shopify://shop_images/customcolor_logo_customcolor_no_background_square.png",
+        "logo_height": 80,
+        "mobile_logo_height": 44,
+        "logo_position": "center-split",
+        "search_style": "icon",
+        "menu": "main-menu",
+        "menu_mobile": "main-menu",
+        "customer_account_menu": "",
+        "enable_dropdown_menu": true,
+        "show_line_separator": false,
+        "uppercase_menu_items": true,
+        "cart_icon": "cart",
+        "icon_weight": "1.7",
+        "enable_country_selector": false,
+        "enable_language_selector": false,
+        "enable_sticky_header": true,
+        "show_sticky_header_scroll_up": true,
+        "enable_transparent_header": false,
+        "enable_transparent_header_collection": false,
+        "enable_transparent_header_custom": "",
+        "show_transparent_header_border": false,
+        "transparent_text_color": "#ffffff",
+        "enable_highlight": false,
+        "highlight_labels": "",
+        "highlight_style": "marker",
+        "drawer_promo_heading": "",
+        "drawer_promo_link": "",
+        "enable_sidebar": false,
+        "sidebar_heading": "",
+        "sidebar_icon": "price_tag",
+        "mobile_logo_position": "center",
+        "colors_text": "#ffffff",
+        "colors_border": "#d2d5d9",
+        "colors_background": "#051b33",
+        "gradient_background": "",
+        "colors_highlight": "#bbff00",
+        "padding_top": 12,
+        "padding_bottom": 4
+      }
+    }
+  },
+  "order": [
+    "announcement-bar",
+    "header"
+  ]
+}
