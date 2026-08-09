@@ -180,6 +180,20 @@ SEO-Metas je Themenwelt, Shop-Idee Wichtel-Bundles.
 findet man am schnellsten über die Produkt-ID aus dem Frontend
 (`admin.shopify.com/store/1a8137/products/<ID>`).
 
+### Produkttypen im Shop — wichtige Unterscheidung
+
+Betreiber-Regel vom 10.08.2026:
+
+| Typ | Bedeutung | Bearbeiten? |
+|---|---|---|
+| `cpb_ordered` | **Von Kunden konfigurierte Unikate.** Jede Bestellung über den CPB-Konfigurator erzeugt ein eigenes Produkt. ~1.746 Stück, gesammelt in der Kollektion „Customer generated" | **NIEMALS** |
+| `cpb_product` | Elternprodukt / Konfigurator-Vorlage (z. B. Gotteslobhülle 8665393430853) | ja |
+| *(leer)* | Normales Produkt ohne Typ-Angabe (z. B. die Schultüten-Anhänger) | ja |
+| `Schultüte`, `Bilderrahmen`, … | Normale Produkte mit gepflegtem Typ | ja |
+
+Weil die Unikate die Suchtreffer dominieren, gilt: **Produkttyp-Spalte
+einblenden** oder das Elternprodukt gezielt über seine ID aufrufen.
+
 ---
 
 ## 7. Saisonkalender — belegt mit Shopify-Zahlen (Admin-Sichtung 08.08.2026)

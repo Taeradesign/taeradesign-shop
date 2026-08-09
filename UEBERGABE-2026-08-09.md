@@ -190,6 +190,20 @@ Warnung und blieben unangetastet.
   `shopify.cmd`). Arbeitsweise **pull → edit → push** hat sich
   bewährt; Theme-JSONs vor dem Push mit `JSON.parse` prüfen
   (Shopify-Header-Kommentar vorher wegschneiden)
+- **🚫 NIEMALS Produkte mit Produkttyp `cpb_ordered` bearbeiten**
+  (Betreiber-Regel, 10.08.2026). Das sind **keine Elternprodukte,
+  sondern von Kunden konfigurierte Unikate** — jede Bestellung über
+  den CPB-Konfigurator erzeugt ein eigenes Produkt. Rund **1.746
+  Stück** (Sammelkollektion „Customer generated", Bedingung „Typ ist
+  gleich cpb_ordered"), meist Status Entwurf oder Archiviert.
+  **Elternprodukte erkennt man an Typ `cpb_product` oder leerem Typ.**
+  Praktische Folge: Die Admin-Suche nach einem Produktnamen liefert
+  überwiegend diese Unikate — **immer die Produkttyp-Spalte
+  einblenden** oder das Elternprodukt gezielt über die Produkt-ID aus
+  dem Frontend aufrufen. *(Nachgeprüft: Die Feed-Pflege vom 09./10.08.
+  hat ausschließlich Elternprodukte betroffen — alle 28
+  Schultüten-Anhänger mit leerem Typ, Gotteslobhülle und Runder
+  Schultütenanhänger mit `cpb_product`. Kein Unikat wurde verändert.)*
 - **Shopify-Admin per Chrome, Praxisbefunde der Nachtsitzung:**
   Produkt-Metafelder erscheinen erst, wenn eine **Produktkategorie**
   gesetzt ist · Der Pfeil „nächstes Produkt" (oben rechts) ist der
