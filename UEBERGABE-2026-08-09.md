@@ -128,16 +128,17 @@ Warnung und blieben unangetastet.
 
 ## Reihenfolge ab hier
 
-1. **SEO-Metas — freigegeben, 6 von 9 gesetzt: alle Kollektionen sind
-   fertig.** Befund, Texte, Status-Tabelle und Praxis-Fallstricke in
-   [`docs/seo-metas.md`](docs/seo-metas.md). **Offen sind nur noch die
-   drei Seiten:** `/pages/wichtel` (ID 121815925061, zurückhaltend),
-   `/pages/gotteslobhulle` (122528399685, nur Fehler + kürzen),
-   `/pages/schlusselanhanger` (121815400773, nur Fehler).
-   **Betreiber-Entscheidung:** Bei den Wichteln ist die **Kollektion**
-   die Suchhauptseite, die Landingpage nur Beiwerk
+1. ~~SEO-Metas~~ **✅ ABGESCHLOSSEN (10.08.): alle neun Seiten gesetzt
+   und live verifiziert** — sechs Kollektionen und drei Seiten, jede
+   mit eigenem Titel und eigener Meta-Beschreibung. Details in
+   [`docs/seo-metas.md`](docs/seo-metas.md). Zusatzbefund dort: Die
+   fehlerhaften Sätze der beiden Konfigurator-Seiten standen im
+   **Seiteninhalt**, nicht in einer Meta-Beschreibung — beides wurde
+   korrigiert. **Betreiber-Entscheidung:** Bei den Wichteln ist die
+   **Kollektion** die Suchhauptseite, die Landingpage nur Beiwerk
 2. **Admin-Block, Rest** (Betreiber-Login nötig):
-   - **Shop-Idee Wichtel-Sets/Bundles** (hebt kleine Warenkörbe)
+   - **Shop-Idee Wichtel-Sets/Bundles** (hebt kleine Warenkörbe) —
+     der einzige verbliebene Punkt aus dem Shop-Update
    - Optional: Menüpunkt „About" eindeutschen (bewusst offen gelassen)
 2. **Aktivierung C + D + G durch den Betreiber ab 19.08.** — vorher je
    Kampagne: bei **C und G** Asset-Optimierungs-Check in den

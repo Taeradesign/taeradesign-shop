@@ -11,26 +11,41 @@ Landingpage `/pages/wichtel` ist nur Beiwerk.** Der Vorschlag für die
 Landingpage unten ist entsprechend zurückgenommen — sie soll der
 Kollektion keine Suchbegriffe streitig machen.
 
-**Alle sechs Kollektionen sind erledigt.** Offen sind nur noch die
-drei `/pages/…`.
+## ✅ ABGESCHLOSSEN — alle neun Seiten gesetzt und live verifiziert
 
-| Seite | Stand |
+Stand 10.08.2026. Kontrolle per Abruf der Live-Seiten: Alle neun
+liefern jetzt eigenen Titel **und** eigene Meta-Beschreibung.
+
+| Seite | Titel live |
 |---|---|
-| `/collections/schule` | ✅ **gesetzt und gespeichert** |
-| `/collections/wichtelturen-und-zubehor` | ✅ **gesetzt und gespeichert** |
-| `/collections/gotteslobhullen` | ✅ **gesetzt und gespeichert** |
-| `/collections/material` | ✅ **gesetzt und gespeichert** |
-| `/collections/deko-und-wohnen` | ✅ **gesetzt und gespeichert** |
-| `/collections/stickdateien` | ✅ **gesetzt und gespeichert** |
-| `/pages/wichtel` (ID 121815925061) | ⬜ offen — **nur zurückhaltend**, siehe Entscheidung |
-| `/pages/gotteslobhulle` (ID 122528399685) | ⬜ offen (nur Fehler reparieren + kürzen) |
-| `/pages/schlusselanhanger` (ID 121815400773) | ⬜ offen (nur Fehler reparieren) |
+| `/collections/schule` | Zeugnismappen & Schule aus Filz – personalisiert |
+| `/collections/wichtelturen-und-zubehor` | Wichteltüren & Wichtelzubehör aus eigener Fertigung |
+| `/collections/gotteslobhullen` | Gotteslobhüllen aus Filz – individuell bestickt |
+| `/collections/material` | Filzplatten, Filzbänder & Bastelzubehör |
+| `/collections/deko-und-wohnen` | Filz-Deko für Zuhause – handgefertigt |
+| `/collections/stickdateien` | Stickdateien zum Sofort-Download |
+| `/pages/wichtel` | Die Wichtelwelt von Taeradesign |
+| `/pages/gotteslobhulle` | *(unverändert)* |
+| `/pages/schlusselanhanger` | *(unverändert)* |
 
-**Wichtig für die Seiten:** Bei `/pages/wichtel` ist die
-Meta-Beschreibung im Admin **leer** — der Satz „… hast du es auch
-gehört?", den Google heute zeigt, ist Shopifys Automatik aus dem
-Seiteninhalt. Sobald eine Beschreibung gesetzt wird, ersetzt sie ihn;
-der Seitentext selbst bleibt unberührt.
+### Zusatzbefund bei den beiden Konfigurator-Seiten
+
+Die fehlerhaften Sätze standen **nicht in einer Meta-Beschreibung**,
+sondern im **Seiteninhalt** — beide Seiten hatten gar keine
+Meta-Beschreibung, Google baute das Snippet aus dem Fließtext. Deshalb
+wurde **beides** korrigiert:
+
+1. **Seitentext repariert** (dort, wo die Fehler wirklich stehen):
+   „Vielfalt und große Auswahl **der** unterschiedlichen Varianten" auf
+   beiden Seiten, dazu „Ausserdem" → „**Außerdem**" auf der
+   Gotteslob-Seite
+2. **Eigene Meta-Beschreibung gesetzt** (159 bzw. 150 Zeichen), die das
+   automatische Snippet ersetzt
+
+Gleiches Muster bei `/pages/wichtel`: Der Satz „… hast du es auch
+gehört?" war Shopifys Automatik aus dem Seiteninhalt. Er bleibt als
+Seitentext erhalten, die Google-Vorschau nutzt jetzt die gesetzte
+Beschreibung.
 
 **So geht es im Admin:** Kollektion öffnen → ganz nach unten →
 „Suchmaschineneintrag" → Stift rechts → Felder „Seitentitel" und
