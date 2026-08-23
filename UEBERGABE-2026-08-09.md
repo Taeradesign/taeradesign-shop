@@ -158,10 +158,11 @@ und `docs/google-ads.md` Abschnitt 9.
 | Wann | Was |
 |---|---|
 | **laufend, monatlich** | **Auto-Apply-Status prüfen** — Empfehlungen → „Einstellungen für die automatische Anwendung". **Muss auf 0 von 7 und 0 von 14 stehen.** Am 10.08.2026 hat Google über diese Funktion nachts um 4:52 Uhr die Gebotsstrategie von C und G auf Ziel-CPA umgestellt und das Displaynetzwerk zugeschaltet; am 23.08. zurückgenommen und abgeschaltet. **Achtung: Die Seite speichert nicht automatisch** — nach dem Abwählen erscheint beim Verlassen ein Speichern-Dialog |
-| **offen seit ~22.08.2026** | tROAS-Rampe Filzprodukte 400 → 450 % (die zwei stabilen Wochen seit dem Umbau am 08.08. sind um). **Am 23.08.2026 vom Betreiber als anzugehen bestätigt, noch nicht umgesetzt** |
 | **offen seit ~12.08.2026** | Merchant-Center-Status prüfen: sind die Schultüten-Warnungen nach dem Feed-Sync weg? |
 | **erste Tage nach dem 23.08.** | Suchbegriffe von **C** prüfen — läuft die Brand-Kampagne wirklich nur auf Markensuchen? |
 | **~06.09.2026** | **D Wichtelwelt-tROAS-Check:** auf 400 % senken, falls nach zwei aktiven Wochen < 10 Käufe |
+| **~06.09.2026** | **Filzprodukte nach der Rampe:** Hält der ROAS die 450 %? Dann dritter Schritt auf 500 %. Bricht das Volumen ein, zurück auf 400 % |
+| **offen, nach der Rampe** | **Asset-Optimierung bei Filzprodukte entscheiden** — dort sind alle fünf Optimierungen an, anders als bei C/D/G. Besonders „Erweiterung der finalen URL" schickt Nutzer auf andere Seiten als die hinterlegte. Läuft aber seit 2023 so; Details und Abwägung in `docs/google-ads.md` Abschnitt 9.6 |
 | ~20.09.2026 | Marke „Taeradesign": Googles Markenprüfung, dann Markenausschluss in der PMax (B) |
 | September | F Kommunion anlegen, live ~1. Oktober |
 | ~Mitte Sept. | Zeugnismappen (G) pausieren (Saisonende), reaktivieren ~Ende Januar |
@@ -176,6 +177,12 @@ und `docs/google-ads.md` Abschnitt 9.
 - ✅ **D Wichtelwelt aktiv** (5,00 €/Tag, Ziel-ROAS 450 %). Sichtfreigabe der
   20 Bilder durch den Betreiber erfolgt; ein vertikales Bild noch in Googles
   Prüfung, kein Video hinterlegt (Google erzeugt dann selbst eines)
+- ✅ **tROAS-Rampe Filzprodukte 400 → 450 %** gesetzt. Googles Anzeige
+  „Aktuelle Leistung 123,89 %" im Gebotsdialog ist auf den 08.08. datiert und
+  misst die alte Ziel-CPA-Phase — nicht als Entscheidungsgrundlage nehmen.
+  Gerechnet: 30 Tage = 222 % (enthält die Ziel-CPA-Phase), **letzte 7 Tage =
+  459 %** bei 88,48 € Umsatz / 19,28 € Kosten. Schmale Basis, aber die
+  Bedingung „zwei stabile Wochen" ist erfüllt
 - ✅ **Auto-Apply kontoweit abgeschaltet** (war 21 von 21 Typen an)
 - ✅ **Displaynetzwerk** aus C und G entfernt
 - ⚠ **Kontobudget steht jetzt bei 19,50 €/Tag** statt 10,00 € — bei voller

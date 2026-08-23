@@ -548,7 +548,7 @@ akzeptiertem Volumeneinbruch — Betreiber wählt in Freigabe A.
 
 | Schritt | Änderung | Konkrete Werte | Status |
 |---|---|---|---|
-| **A** | PMax „Filzprodukte": Gebotsstrategie Ziel-CPA 29,57 € → **Ziel-ROAS** | **400 %** gesetzt (Rampe → 450 → 500 %). Budget bleibt 10 €/Tag | **✅ ERLEDIGT 08.08.2026** (im Konto verifiziert: „Ziel-ROAS – 400 %") |
+| **A** | PMax „Filzprodukte": Gebotsstrategie Ziel-CPA 29,57 € → **Ziel-ROAS** | **400 %** gesetzt (Rampe → 450 → 500 %). Budget bleibt 10 €/Tag | **✅ ERLEDIGT 08.08.2026** (im Konto verifiziert: „Ziel-ROAS – 400 %"). **Zweiter Rampenschritt am 23.08.2026: 450 %** — Begründung und Datenlage in Abschnitt 9.5 |
 | **B** | **Markenliste „Taeradesign"** anlegen und in der PMax als Markenausschluss setzen | Marke: Taeradesign (+ Schreibvariante „Taera Design"), URL taeradesign.com | **⚠ BLOCKIERT:** „Taeradesign" ist **nicht in Googles Markenbibliothek**. Markenanfrage am 08.08.2026 gesendet — **Prüfung 4–6 Wochen**. Ausschluss kann erst nach Freigabe (ca. Mitte/Ende September) gesetzt werden. Bis dahin übernimmt Schritt C die Brand-Abschöpfung teilweise |
 | **C** | **Brand-Suchkampagne** anlegen (pausiert) | Wie freigegeben umgesetzt; Details im Umsetzungsprotokoll | **✅ ERLEDIGT 09.08.2026** — ID 24118761062. **AKTIV seit 23.08.2026**, nach Rücknahme des Auto-Apply-Eingriffs (Abschnitt 9): nur Suchnetzwerk, Klicks maximieren, CPC-Deckel 0,50 € |
 | **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | **✅ ERLEDIGT 09.08.2026** — ID 24118847240. **AKTIV seit 23.08.2026**; Sichtfreigabe der 20 Bilder durch den Betreiber am 23.08. erfolgt (Abschnitt 9.4). Eintragsgruppen-Filter geprüft, Ziel-ROAS 450 % unverändert |
@@ -640,7 +640,7 @@ noch nicht gespeichert". Wer einfach weiterklickt, verliert alles.
 
 | Kampagne | Typ | Budget | Gebote | Netzwerk | Status |
 |---|---|---|---:|---|---|
-| Filzprodukte | PMax | 10,00 € | Ziel-ROAS 400 % | — | lief durchgehend |
+| Filzprodukte | PMax | 10,00 € | **Ziel-ROAS 450 %** (Rampe, siehe 9.5) | — | lief durchgehend |
 | **G** Zeugnismappen | Suche | 3,00 € | Klicks max., CPC 0,40 € | nur Suche | **aktiv seit 23.08.** |
 | **C** Brand Taeradesign | Suche | 1,50 € | Klicks max., CPC 0,50 € | nur Suche | **aktiv seit 23.08.** |
 | **D** Wichtelwelt | PMax | 5,00 € | Ziel-ROAS 450 % | — | **aktiv seit 23.08.** |
@@ -675,12 +675,75 @@ normale Anlauf nach einem Strategiewechsel.
   Materialzähler, kein Leistungsmaß — dieselbe Einordnung wie im
   keiltronic-Konto (`keiltronic-website/docs/google-ads.md`).
 
-### 9.5 Neue Wiedervorlagen aus diesem Vorgang
+### 9.5 tROAS-Rampe Filzprodukte: 400 → 450 % (23.08.2026)
+
+Der zweite Schritt der Rampe aus Abschnitt „Auflösung des Zielkonflikts"
+ist gesetzt: **Ziel-ROAS 450 %**, Budget unverändert 10,00 €/Tag.
+
+**Zur Datenlage — Vorsicht mit Googles eigener Zahl.** Im Gebotsdialog
+weist Google aus: *„Aktuelle Leistung (Stand 8. August 2026):
+123,89 %"*. Diese Zahl ist **auf den Umstellungstag datiert** und misst
+im Wesentlichen die vorangegangene Ziel-CPA-Phase. Sie taugt nicht als
+Entscheidungsgrundlage. Aus den Kontozahlen vom 23.08.2026:
+
+| Zeitraum | Umsatz | Kosten | ROAS |
+|---|---:|---:|---:|
+| 24.07.–22.08. (30 Tage) | 459,27 € | 206,81 € | **222 %** |
+| 16.–22.08. (letzte 7 Tage) | 88,48 € | 19,28 € | **459 %** |
+
+Die 30-Tage-Zahl enthält noch die alte Ziel-CPA-Phase; die letzte Woche
+liegt bei 459 %. Damit ist die Bedingung „zwei stabile Wochen" erfüllt
+und 450 % der folgerichtige Schritt.
+
+**Einschränkung, ehrlich:** Die 459 % stehen auf 19,28 € Kosten und
+einer Handvoll Käufen. Das ist eine schmale Basis. Bricht das Volumen
+nach der Anhebung ein, ist das das erwartete Verhalten und kein Fehler
+— dann zurück auf 400 %.
+
+### 9.6 Offener Befund: Asset-Optimierung bei „Filzprodukte" ist an
+
+Beim Setzen der Rampe aufgefallen und **bewusst nicht verändert**: In
+der PMax „Filzprodukte" (läuft seit 17.10.2023) sind **alle fünf**
+Asset-Optimierungen aktiv — Google meldet *„Alle empfohlenen
+Einstellungen zur Asset-Optimierung sind aktiviert"*:
+
+| Bereich | Einstellung | Was sie tut |
+|---|---|---|
+| Text | **Textanpassung** | erstellt Anzeigentext, der zu Suchanfragen passt |
+| Text | **Erweiterung der finalen URL** | stimmt **Landingpages** auf Suchanfragen ab |
+| Bild | **Bildoptimierung** | passt Bilder für bessere Darstellung an |
+| Bild | **Landingpage-Bilder** | verwendet Bilder von der Website |
+| Video | **Video-Optimierung** | passt Videos für bessere Darstellung an |
+
+**Das ist der Gegensatz zu C, D und G**, wo die Asset-Optimierung
+überall deaktiviert ist. Die Einstellung stammt vermutlich aus der
+Anlage 2023, nicht von Auto-Apply — im Änderungsverlauf der letzten
+30 Tage steht dazu nichts.
+
+**Warum es der Aufmerksamkeit wert ist:** „Erweiterung der finalen URL"
+schickt Nutzer auf **andere Seiten als die hinterlegte**; „Textanpassung"
+erzeugt Anzeigentexte, die niemand freigegeben hat. Beides läuft der
+Linie zuwider, die für alle neuen Kampagnen gilt (Einzelfreigabe je
+Text, keine ungeprüften Google-Vorschläge — siehe Rote Linien,
+Abschnitt 7). Andererseits läuft die Kampagne seit drei Jahren damit
+und ist die einzige, die Umsatz bringt; ein Abschalten ist ein Eingriff
+in ein laufendes System und würde die Leistung verändern.
+
+**Nicht entschieden, Betreiber-Sache.** Vorschlag: erst nach der
+tROAS-Rampe angehen, damit sich nicht zwei Änderungen überlagern und
+man am Ende nicht weiß, welche gewirkt hat. Wenn, dann zuerst nur
+**„Erweiterung der finalen URL"** abschalten — das ist die Einstellung
+mit der größten Wirkung auf das, was der Kunde tatsächlich zu sehen
+bekommt.
+
+### 9.7 Neue Wiedervorlagen aus diesem Vorgang
 
 | Wann | Was |
 |---|---|
 | **laufend, monatlich** | **Auto-Apply-Status prüfen** (Empfehlungen → Einstellungen für die automatische Anwendung). Muss auf 0 von 7 und 0 von 14 stehen. Google bewirbt die Funktion weiter; ein versehentliches Reaktivieren fällt sonst erst an den Zahlen auf |
 | **~06.09.2026** | Wichtelwelt-tROAS-Check: unter 10 Käufen in zwei aktiven Wochen auf 400 % senken |
+| **~06.09.2026** | **Filzprodukte nach der Rampe:** Hält der ROAS die 450 %? Wenn ja, dritter Schritt auf 500 % (die 37-€/h-Untergrenze). Wenn das Volumen einbricht, zurück auf 400 % |
 | **erste Tage** | Suchbegriffe von C prüfen — läuft sie wirklich nur auf Markensuchen? |
+| **danach, offen** | **Asset-Optimierung bei Filzprodukte** entscheiden (Abschnitt 9.6) — erst nach der Rampe, sonst überlagern sich zwei Änderungen |
 | **~Mitte Sept.** | Zeugnismappen pausieren (Saisonende) |
 
