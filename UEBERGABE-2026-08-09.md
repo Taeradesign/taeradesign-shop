@@ -152,15 +152,51 @@ Warnung und blieben unangetastet.
 
 ## Wiedervorlagen
 
+**Stand 23.08.2026 abends** — C, D und G sind live. Siehe Erledigt-Block unten
+und `docs/google-ads.md` Abschnitt 9.
+
 | Wann | Was |
 |---|---|
-| **19.08.2026** | **Urlaubs-Announcement deaktivieren** (Block `announcement_w9EWTe` in `backup/2026-08-09-v920/theme-live/sections/header-group.json` — Repo-Edit + `theme push`, oder im Theme-Editor) · **C-EDD-Holidays 10.–18.08. entfernen** · **Kampagnen C/D/G aktivieren** |
-| ~22.08.2026 | tROAS-Rampe Filzprodukte 400 → 450 % (nach zwei stabilen Wochen) |
-| ~12.08.2026 | Merchant-Center-Status prüfen: sind die Schultüten-Warnungen nach dem Feed-Sync weg? |
+| **laufend, monatlich** | **Auto-Apply-Status prüfen** — Empfehlungen → „Einstellungen für die automatische Anwendung". **Muss auf 0 von 7 und 0 von 14 stehen.** Am 10.08.2026 hat Google über diese Funktion nachts um 4:52 Uhr die Gebotsstrategie von C und G auf Ziel-CPA umgestellt und das Displaynetzwerk zugeschaltet; am 23.08. zurückgenommen und abgeschaltet. **Achtung: Die Seite speichert nicht automatisch** — nach dem Abwählen erscheint beim Verlassen ein Speichern-Dialog |
+| **offen seit ~22.08.2026** | tROAS-Rampe Filzprodukte 400 → 450 % (die zwei stabilen Wochen seit dem Umbau am 08.08. sind um). **Am 23.08.2026 vom Betreiber als anzugehen bestätigt, noch nicht umgesetzt** |
+| **offen seit ~12.08.2026** | Merchant-Center-Status prüfen: sind die Schultüten-Warnungen nach dem Feed-Sync weg? |
+| **erste Tage nach dem 23.08.** | Suchbegriffe von **C** prüfen — läuft die Brand-Kampagne wirklich nur auf Markensuchen? |
+| **~06.09.2026** | **D Wichtelwelt-tROAS-Check:** auf 400 % senken, falls nach zwei aktiven Wochen < 10 Käufe |
 | ~20.09.2026 | Marke „Taeradesign": Googles Markenprüfung, dann Markenausschluss in der PMax (B) |
 | September | F Kommunion anlegen, live ~1. Oktober |
-| ~Mitte Sept. | Zeugnismappen pausieren (Saisonende), reaktivieren ~Ende Januar |
-| nach 2 aktiven Wochen D | Wichtelwelt-tROAS-Check (auf 400 senken, falls < 10 Käufe) |
+| ~Mitte Sept. | Zeugnismappen (G) pausieren (Saisonende), reaktivieren ~Ende Januar |
+
+**Erledigt am 23.08.2026** — Kampagnen live
+
+- ✅ **C Brand Taeradesign aktiv** (1,50 €/Tag, nur Suchnetzwerk, Klicks
+  maximieren mit CPC-Deckel 0,50 €)
+- ✅ **G Zeugnismappen aktiv** (3,00 €/Tag, nur Suchnetzwerk, Klicks
+  maximieren mit CPC-Deckel 0,40 €). Asset-Optimierungs-Check erledigt:
+  deaktiviert, AI Max aus
+- ✅ **D Wichtelwelt aktiv** (5,00 €/Tag, Ziel-ROAS 450 %). Sichtfreigabe der
+  20 Bilder durch den Betreiber erfolgt; ein vertikales Bild noch in Googles
+  Prüfung, kein Video hinterlegt (Google erzeugt dann selbst eines)
+- ✅ **Auto-Apply kontoweit abgeschaltet** (war 21 von 21 Typen an)
+- ✅ **Displaynetzwerk** aus C und G entfernt
+- ⚠ **Kontobudget steht jetzt bei 19,50 €/Tag** statt 10,00 € — bei voller
+  Ausschöpfung ~585 €/Monat. Die Stelle zum Nachjustieren, falls D und G in
+  zwei Wochen nichts liefern
+- ✅ **Neues Theme-Backup** `backup/2026-08-23-v930/` (Be Yours **9.3.0**,
+  Live-ID 204552372549, 394 Dateien). Damit ist der Rückspiel-Fallstrick des
+  alten Backups erledigt: Im neuen Stand trägt der Announcement-Block
+  `announcement_w9EWTe` sauber `"disabled": true`
+
+**Erledigt** (Betreiber, gemeldet am 23.08.2026)
+
+- ✅ **Urlaubs-Announcement deaktiviert** — im Shop erledigt, nicht über das
+  Repo. **Am 23.08. durch ein frisches Backup abgesichert** (siehe oben):
+  In `backup/2026-08-23-v930/` steht der Block `announcement_w9EWTe` mit
+  `"disabled": true`, der Text bleibt für den nächsten Urlaub erhalten.
+  **Der alte Snapshot `backup/2026-08-09-v920/` trägt ihn weiter aktiv** —
+  das ist als datiertes Abbild vom 09.08. richtig so, aber wer daraus je
+  `theme push`t, holt das Announcement zurück. **Für Rückspielungen den
+  neuen Ordner verwenden.**
+- ✅ **C-EDD-Feiertage 10.–18.08. deaktiviert**
 
 ---
 

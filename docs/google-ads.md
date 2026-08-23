@@ -550,11 +550,11 @@ akzeptiertem Volumeneinbruch — Betreiber wählt in Freigabe A.
 |---|---|---|---|
 | **A** | PMax „Filzprodukte": Gebotsstrategie Ziel-CPA 29,57 € → **Ziel-ROAS** | **400 %** gesetzt (Rampe → 450 → 500 %). Budget bleibt 10 €/Tag | **✅ ERLEDIGT 08.08.2026** (im Konto verifiziert: „Ziel-ROAS – 400 %") |
 | **B** | **Markenliste „Taeradesign"** anlegen und in der PMax als Markenausschluss setzen | Marke: Taeradesign (+ Schreibvariante „Taera Design"), URL taeradesign.com | **⚠ BLOCKIERT:** „Taeradesign" ist **nicht in Googles Markenbibliothek**. Markenanfrage am 08.08.2026 gesendet — **Prüfung 4–6 Wochen**. Ausschluss kann erst nach Freigabe (ca. Mitte/Ende September) gesetzt werden. Bis dahin übernimmt Schritt C die Brand-Abschöpfung teilweise |
-| **C** | **Brand-Suchkampagne** anlegen (pausiert) | Wie freigegeben umgesetzt; Details im Umsetzungsprotokoll | **✅ ERLEDIGT 09.08.2026** — ID 24118761062, pausiert; Aktivierung Betreiber nach Shop-Update |
-| **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | **✅ ERLEDIGT 09.08.2026** — ID 24118847240, pausiert; Details im Umsetzungsprotokoll. Sichtfreigabe der Bilder + Aktivierung durch Betreiber nach Shop-Update |
+| **C** | **Brand-Suchkampagne** anlegen (pausiert) | Wie freigegeben umgesetzt; Details im Umsetzungsprotokoll | **✅ ERLEDIGT 09.08.2026** — ID 24118761062. **AKTIV seit 23.08.2026**, nach Rücknahme des Auto-Apply-Eingriffs (Abschnitt 9): nur Suchnetzwerk, Klicks maximieren, CPC-Deckel 0,50 € |
+| **D** | **PMax „Wichtelwelt"** anlegen (pausiert) | Feed-Filter (Eintragsgruppen) auf die Wichtel-Kategorien; eigene Asset-Gruppe aus vorhandenen Wichtel-Bildern (Alt-Kampagne „Wichtel" + Shop); Ziel-ROAS 450 % (Senkung auf 400 % falls < 10 Käufe nach zwei aktiven Wochen); 5 €/Tag; DE/Deutsch. Sichtfreigabe der Assets vor Aktivierung | **✅ ERLEDIGT 09.08.2026** — ID 24118847240. **AKTIV seit 23.08.2026**; Sichtfreigabe der 20 Bilder durch den Betreiber am 23.08. erfolgt (Abschnitt 9.4). Eintragsgruppen-Filter geprüft, Ziel-ROAS 450 % unverändert |
 | **E** | **Feed-Pflege:** fehlende Attribute Schultüten-Anhänger (Farbe, Altersgruppe, Geschlecht) in der Google-&-YouTube-App nachtragen | betrifft die „aktiv (eingeschränkt)"-Produkte aus §3 | freigegeben — unkritisch, jederzeit |
 | **F** | **Kommunion-Suchkampagne + Standard-Shopping-Test** anlegen (pausiert) | Struktur und Texte aus Stufe 2 | **vorgezogen auf ~1. Oktober** (Betreiber 08.08.2026: Gotteslobhüllen-Weihnachtsgeschäft beginnt im Oktober — belegt durch Q4-Sichtung „Gotteslobhülle +252 %"). Anlage im September mit Text-Lesung |
-| **G** | **Zeugnismappen/Einschulung** — eigene Kampagne noch für die Saison 2026 (Betreiber-Idee 09.08.2026, siehe Nachtrag Stufe 3) | Suchkampagne nach Brand-Muster: Klicks maximieren + CPC-Deckel 0,40 €, 3 €/Tag, 7 Keywords + 9 Ausschlüsse, Zielseite `/collections/schule` | **✅ ERLEDIGT 09.08.2026** — ID 24113382444, pausiert; Details im Umsetzungsprotokoll. Vor Aktivierung Asset-Optimierungs-Check (C-Befund trat wieder auf); Aktivierung Betreiber nach Shop-Update — **Restfenster bis ~Mitte September** |
+| **G** | **Zeugnismappen/Einschulung** — eigene Kampagne noch für die Saison 2026 (Betreiber-Idee 09.08.2026, siehe Nachtrag Stufe 3) | Suchkampagne nach Brand-Muster: Klicks maximieren + CPC-Deckel 0,40 €, 3 €/Tag, 7 Keywords + 9 Ausschlüsse, Zielseite `/collections/schule` | **✅ ERLEDIGT 09.08.2026** — ID 24113382444. Asset-Optimierungs-Check am 23.08. durchgeführt: deaktiviert, AI Max aus — in Ordnung. **AKTIV seit 23.08.2026**, nach Rücknahme des Auto-Apply-Eingriffs (Abschnitt 9): nur Suchnetzwerk, Klicks maximieren, CPC-Deckel 0,40 €. **Restfenster bis ~Mitte September** |
 
 Nach A–D: vier Wochen Messplan (wöchentlich ROAS je Kampagne, Brand
 getrennt), dann Budgetentscheidung. **Vor Aktivierung von C, D und F
@@ -566,4 +566,121 @@ fehlerfreie Seiten führen.
 die Marke „Taeradesign" in der Bibliothek verifiziert ist, dann in der
 PMax „Filzprodukte" als Markenausschluss setzen. Erst dann zeigt die
 PMax ihre echte Nicht-Brand-Leistung.
+
+---
+
+## 9. Der Auto-Apply-Vorfall und der Livegang von C, D und G (23.08.2026)
+
+Am 23.08.2026 sollten C, D und G nach dem Betriebsurlaub aktiviert werden.
+Die Vorprüfung förderte einen Befund zutage, der wichtiger ist als der
+Livegang selbst.
+
+### 9.1 Was passiert war
+
+Beide Suchkampagnen wichen vom freigegebenen Stand ab:
+
+| | freigegeben am 09.08. | vorgefunden am 23.08. |
+|---|---|---|
+| **C** Brand Taeradesign | Klicks maximieren, CPC-Deckel 0,50 €, nur Google-Suche | **Ziel-CPA 36,14 €**, Such- **und Displaynetzwerk** |
+| **G** Zeugnismappen | Klicks maximieren, CPC-Deckel 0,40 €, nur Google-Suche | **Ziel-CPA 36,14 €**, Such- **und Displaynetzwerk** |
+
+Der Änderungsverlauf nennt Ursache und Zeitpunkt eindeutig:
+
+> **Nutzer „Recommendations Auto-Apply", 10.08.2026, 04:52:18 Uhr** ·
+> Tool: *Automatisch angewendete Empfehlungen* · Änderung:
+> *„Angewendete Empfehlung: Ziel-CPA"* · betroffen: **Zeugnismappen**
+> und **Brand Taeradesign** · Vermerk: *„Änderungen können nicht
+> rückgängig gemacht werden"*
+
+Google hat also nachts um 4:52 Uhr, mitten im Betriebsurlaub, in beide
+Kampagnen eingegriffen. In den Auto-Apply-Einstellungen standen
+**21 von 21 Empfehlungstypen auf „automatisch anwenden"** — darunter
+„Ziel-CPA festlegen" und **„Displaynetzwerk-Aktivierung verwenden"**
+(Beschreibung: *nicht aufgebrauchte Budgetbeträge ins Displaynetzwerk
+geben*). Beide Abweichungen haben damit dieselbe Quelle.
+
+### 9.2 Warum das nicht bloß Kosmetik ist
+
+- **Ziel-CPA 36,14 € bei 1,50 €/Tag (C) bzw. 3,00 €/Tag (G).** Google
+  soll Käufe für 36 € einkaufen und hat 45 € bzw. 90 € im Monat. Smart
+  Bidding braucht Conversion-Volumen, das hier strukturell nicht
+  entstehen kann. Google zeigt den Widerspruch inzwischen selbst an:
+  *„Ihr Budget und Ihre Gebotsstrategie sind nicht kompatibel — Ihr
+  Ziel-CPA liegt über Ihrem durchschnittlichen Tagesbudget."*
+- **Der CPC-Deckel war weg.** Genau das Instrument, das bei diesen
+  Kleinbudgets den Einzelklick begrenzen sollte.
+- **Displaynetzwerk bei einer Brand-Suchkampagne.** Das Budget wandert
+  in billige Banner-Impressionen statt in die Markensuche — bei 1,50 €
+  am Tag reicht das, um die Kampagne wirkungslos zu machen.
+
+**Verallgemeinerung:** Auto-Apply optimiert auf Googles Zielgröße
+(Conversion-Volumen), nicht auf die hiesige (Deckungsbeitrag bei
+37 €/h Untergrenze, siehe Abschnitt 5a). Bei Kleinbudgets fallen beide
+Ziele auseinander. Das ist kein Fehler von Google, sondern eine andere
+Zielfunktion — und deshalb gehört die Funktion aus.
+
+### 9.3 Was am 23.08.2026 geändert wurde
+
+1. **Auto-Apply kontoweit abgeschaltet.** „Anzeigen besser verwalten"
+   von 7 von 7 auf **0 von 7**, „Umsatz steigern" von 14 von 14 auf
+   **0 von 14**. Nach frischem Seitenaufbau gegengeprüft.
+2. **Displaynetzwerk** aus C und G entfernt; beide stehen jetzt auf
+   „Google Suchnetzwerk". Suchnetzwerk-Partner waren und bleiben aus.
+3. **Gebotsstrategie** bei beiden zurück auf **Klicks maximieren** mit
+   CPC-Deckel: **0,40 € (G)**, **0,50 € (C)** — Gebotswerte vom
+   Betreiber selbst eingetragen.
+4. **C, D und G aktiviert.**
+
+**Fallstrick, gilt für die Zukunft:** Die Auto-Apply-Einstellungen
+werden **nicht automatisch gespeichert**. Das Abwählen der Haken
+erzeugt erst beim Verlassen der Seite den Dialog „Änderungen … wurden
+noch nicht gespeichert". Wer einfach weiterklickt, verliert alles.
+
+### 9.4 Stand nach dem Livegang
+
+| Kampagne | Typ | Budget | Gebote | Netzwerk | Status |
+|---|---|---|---:|---|---|
+| Filzprodukte | PMax | 10,00 € | Ziel-ROAS 400 % | — | lief durchgehend |
+| **G** Zeugnismappen | Suche | 3,00 € | Klicks max., CPC 0,40 € | nur Suche | **aktiv seit 23.08.** |
+| **C** Brand Taeradesign | Suche | 1,50 € | Klicks max., CPC 0,50 € | nur Suche | **aktiv seit 23.08.** |
+| **D** Wichtelwelt | PMax | 5,00 € | Ziel-ROAS 450 % | — | **aktiv seit 23.08.** |
+
+**Kontobudget 19,50 €/Tag** (vorher 10,00 €) — bei voller Ausschöpfung
+rund 585 € im Monat statt 300 €. Das ist die Stelle zum Nachjustieren,
+falls D und G nichts liefern.
+
+C und G zeigen anfangs den Status „Gebotsstrategie lernt"; das ist der
+normale Anlauf nach einem Strategiewechsel.
+
+**Weitere Befunde der Vorprüfung** (alle unverändert gelassen):
+
+- **AI Max** ist bei C und G **aus**, **Asset-Optimierung** bei allen
+  dreien deaktiviert, automatisch erstellte Assets aus, weitgehend
+  passende Keywords aus. Der Befund vom 09.08. („AI-Max-Zusammenfassung
+  zeigt bei Suchkampagnen fälschlich aktiviert") hat sich damit
+  erledigt — die Werte stimmen.
+- **D Wichtelwelt:** Eintragsgruppen-Filter korrekt — `wichtelzubehör`
+  einbezogen, „Alles andere in Alle Produkte" ausgeschlossen. Die
+  Kampagneneinstellung „Feeds: Alle Produkte aus allen Feeds" ist davon
+  unberührt, sie benennt nur die Quelle.
+- **Bilder D:** 20 von 20 Slots belegt, Sichtprüfung durch den Betreiber
+  am 23.08.2026 erfolgt. Eigene Produktfotos (Wichteltüren, Leitern,
+  „Home"- und „POST"-Schilder, Miniaturmöbel). **Ein vertikales Bild
+  (1559 × 2780) stand noch auf „Wird überprüft"** — blockiert den Start
+  nicht. **Kein Video hinterlegt (0):** Google erzeugt dann in der Regel
+  selbst eines aus den Bildern; abschalten lässt sich das nicht, nur
+  durch ein eigenes Video ersetzen. Als einziger Weg, auf dem
+  ungeprüftes Material nach außen ginge, hier festgehalten.
+- Anzeigeneffektivität von D steht auf „Schlecht". Das ist ein
+  Materialzähler, kein Leistungsmaß — dieselbe Einordnung wie im
+  keiltronic-Konto (`keiltronic-website/docs/google-ads.md`).
+
+### 9.5 Neue Wiedervorlagen aus diesem Vorgang
+
+| Wann | Was |
+|---|---|
+| **laufend, monatlich** | **Auto-Apply-Status prüfen** (Empfehlungen → Einstellungen für die automatische Anwendung). Muss auf 0 von 7 und 0 von 14 stehen. Google bewirbt die Funktion weiter; ein versehentliches Reaktivieren fällt sonst erst an den Zahlen auf |
+| **~06.09.2026** | Wichtelwelt-tROAS-Check: unter 10 Käufen in zwei aktiven Wochen auf 400 % senken |
+| **erste Tage** | Suchbegriffe von C prüfen — läuft sie wirklich nur auf Markensuchen? |
+| **~Mitte Sept.** | Zeugnismappen pausieren (Saisonende) |
 
