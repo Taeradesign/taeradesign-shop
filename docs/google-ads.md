@@ -743,7 +743,156 @@ bekommt.
 | **laufend, monatlich** | **Auto-Apply-Status prüfen** (Empfehlungen → Einstellungen für die automatische Anwendung). Muss auf 0 von 7 und 0 von 14 stehen. Google bewirbt die Funktion weiter; ein versehentliches Reaktivieren fällt sonst erst an den Zahlen auf |
 | **~06.09.2026** | Wichtelwelt-tROAS-Check: unter 10 Käufen in zwei aktiven Wochen auf 400 % senken |
 | **~06.09.2026** | **Filzprodukte nach der Rampe:** Hält der ROAS die 450 %? Wenn ja, dritter Schritt auf 500 % (die 37-€/h-Untergrenze). Wenn das Volumen einbricht, zurück auf 400 % |
-| **erste Tage** | Suchbegriffe von C prüfen — läuft sie wirklich nur auf Markensuchen? |
+| ~~**erste Tage**~~ | ~~Suchbegriffe von C prüfen~~ — **erledigt am 26.08.2026, Abschnitt 10. Ergebnis: ja, ausschließlich Markensuchen, kein Ausschluss nötig** |
 | **danach, offen** | **Asset-Optimierung bei Filzprodukte** entscheiden (Abschnitt 9.6) — erst nach der Rampe, sonst überlagern sich zwei Änderungen |
 | **~Mitte Sept.** | Zeugnismappen pausieren (Saisonende) |
+
+---
+
+## 10. Kontrolle am 26.08.2026 — Suchbegriffe, Merchant Center, Budgetausschöpfung
+
+Nur gelesen, nichts geändert. Zeitraum durchgehend **23.–26.08.2026**
+(vier Tage seit der Aktivierung von C, D und G).
+
+### 10.1 Suchbegriffe von C und G — sauber
+
+Der vollständige Suchbegriffe-Bericht für beide Suchkampagnen umfasst
+**vier Zeilen**, zusammen 5 Impressionen, **0 Klicks, 0,00 €**:
+
+| Suchbegriff | Kampagne | Keyword-Option | Impr. |
+|---|---|---|---|
+| **taeradesign** | Brand Taeradesign | Genau passend, hinzugefügt | 2 |
+| zeugnismappe filz | Zeugnismappen | Genau passend, hinzugefügt | 1 |
+| zeugnismappe aus filz | Zeugnismappen | Genau passend, ähnliche Variante | 1 |
+| zeugnismappe personalisiert mit folien | Zeugnismappen | Wortgruppe, ähnliche Variante | 1 |
+
+**Die Frage ist damit beantwortet: C läuft ausschließlich auf
+Markensuchen.** Kein Fremdbegriff, keine Streuung, kein
+Ausschlussbedarf. Auch G läuft thematisch sauber.
+
+**Der wichtigere Befund ist die Nicht-Auslieferung.** Auf
+Keyword-Ebene:
+
+- **C, fünf Keywords:** `[taeradesign]` aktiv (2 Impr.),
+  `"taeradesign"` aktiv (0), `[taera design]` aktiv (0) — und
+  **`"taeradesign shop"` sowie `"taeradesign gotteslobhülle"` hat
+  Google auf „Nicht aktiv: Geringes Suchvolumen" gesetzt.**
+- **G, sieben Keywords:** alle aktiv, kein Suchvolumen-Problem,
+  zusammen 4 Impressionen (nur `"zeugnismappe filz"` mit 3 und
+  `"zeugnisordner"` mit 1).
+
+Das ist kein Einrichtungsfehler, sondern fehlende Nachfrage: Nach
+„Taeradesign" sucht in vier Tagen praktisch niemand. C bleibt damit
+für 1,50 €/Tag eine günstige Versicherung gegen Marken-Gebote der
+Konkurrenz — mehr wird sie nicht. Bei G kommt das Saisonende dazu.
+
+**Nebenbefund Filzprodukte (PMax):** Die Kampagne streut in
+französischsprachige Suchen („botte de foin miniature", „comment
+fabriquer une piste de ski miniature") und auf den Miniaturmöbel-
+Hersteller „bodo hennig". Je 1 Impression, 0 Klicks, 0,00 € — kostet
+nichts, zeigt aber die Reichweite der PMax-Streuung.
+
+### 10.2 Keine Kampagne ist budgetbegrenzt — das ist die zentrale Zahl
+
+| Kampagne | Budget/Tag | Kosten 23.–26.08. (4 Tage) | Ø/Tag | Ausschöpfung |
+|---|---|---|---|---|
+| Filzprodukte (PMax) | 10,00 € | 3,43 € | 0,86 € | **8,6 %** |
+| Wichtelwelt (PMax) | 5,00 € | 3,07 € | 0,77 € | **15,4 %** |
+| Zeugnismappen (Suche) | 3,00 € | 0,00 € | 0,00 € | **0 %** |
+| Brand Taeradesign (Suche) | 1,50 € | 0,00 € | 0,00 € | **0 %** |
+| **Konto** | **19,50 €** | **6,50 €** | **1,63 €** | **8,3 %** |
+
+*(Filzprodukte errechnet als Konto minus Wichtelwelt; die übrigen
+Kampagnen sind pausiert und haben 0,00 €.)*
+
+**Keine einzige Kampagne trägt den Status „Durch Budget begrenzt".**
+Damit ist jede Budgetumschichtung gegenstandslos — siehe 10.4.
+
+Leistung im selben Zeitraum: 2.345 Impressionen, 45,73 €
+Conversion-Wert, 2 Käufe, 6,50 € Kosten. Der gesamte Umsatz kommt von
+Filzprodukte; Wichtelwelt hat nach vier Tagen **0 Käufe** bei 3,07 €.
+
+**Zur tROAS-Rampe, als Zwischenstand ohne Entscheidung:**
+
+| | Umsatz/Tag | Kosten/Tag | ROAS |
+|---|---|---|---|
+| 7 Tage vor der Rampe (bis 22.08., tROAS 400 %) | 12,64 € | 2,75 € | 459 % |
+| 4 Tage nach der Rampe (23.–26.08., tROAS 450 %) | 11,43 € | 0,86 € | 1.333 % |
+
+Gleicher Umsatz bei einem Drittel der Kosten — dem Anschein nach hat
+die Rampe genützt. **Vier Tage und zwei Käufe sind aber keine
+Entscheidungsgrundlage.** Der Termin ~06.09. bleibt stehen.
+
+### 10.3 Merchant Center — die Schultüten-Warnungen stehen noch
+
+Konto 5293575741, Datenstand 26.08.2026, 00:07 Uhr. Sechs Meldungen:
+
+| Meldung | Typ | Produkte | Klickpotenzial laut Google |
+|---|---|---|---|
+| Fehlende Daten für lokales Inventar | Fehler | 684 (96,9 %) | Hoch, +59 Klicks |
+| Anzeigen-Overlay auf Bild | Fehler | 4 (< 1 %) | Niedrig, < 5 Klicks |
+| **Fehlende Altersgruppe** | Warnung | **68 (9,6 %)** | Nicht unterstützt |
+| **Fehlende Farbe** | Warnung | **15 (2,1 %)** | Nicht unterstützt |
+| **Fehlendes Geschlecht** | Warnung | **7 (< 1 %)** | Nicht unterstützt |
+| Fehlende Größe | Warnung | 3 (< 1 %) | Nicht unterstützt |
+
+**Die Antwort auf die Wiedervorlage vom ~12.08. lautet: nein, die
+Warnungen sind nicht weg.** Die Produktliste hinter „Fehlende
+Altersgruppe" wurde geöffnet — es sind **genau die
+Schultüten-Anhänger** („Personalisierter Anhänger für Schultüte …
+Einschulung 2025 Schulranzen Tornister Mit/Ohne Perlen"), also
+dieselbe Familie wie in der Nachtsitzung vom 09./10.08.
+
+**Naheliegende Erklärung, nicht belegt:** In der Nachtsitzung wurden
+28 Produkte mit Farbe/Altersgruppe/Geschlecht befüllt und bei 13
+weiteren nur die fehlende **Produktkategorie** nachgetragen, damit die
+Metafelder überhaupt existieren. Die **Werte** in diesen 13 dürften nie
+gesetzt worden sein. Das erklärt allerdings nicht die vollen 68 — es
+sind mehr Produkte betroffen, als damals angefasst wurden. Die Doku
+vom 09.08. nennt keine Einzelprodukte, deshalb ist eine genaue
+Zuordnung nicht möglich.
+
+**Zwei Einordnungen gegen die Dringlichkeit:**
+
+1. Altersgruppe, Farbe, Geschlecht und Größe sind **Warnungen, keine
+   Fehler**. Google beziffert das Klickpotenzial ausdrücklich mit
+   „Nicht unterstützt" — die Produkte werden ausgeliefert, sie sind
+   nur schlechter filterbar. Für die Einschulung 2026 ist die Saison
+   ohnehin vorbei.
+2. Der einzige Posten mit bezifferter Wirkung — „Fehlende Daten für
+   lokales Inventar", 684 Produkte, +59 Klicks — ist **gegenstandslos
+   und bleibt es dauerhaft.** Das ist Googles Aufforderung,
+   Ladenbestände zu melden. **Vom Betreiber am 26.08.2026 bestätigt:
+   Taeradesign hat kein Ladengeschäft, es ist reiner Onlineverkauf.**
+   Der rote Fehler steht damit als Dauerposten in der Diagnose und ist
+   kein Handlungsbedarf — wer ihn künftig sieht, muss ihn nicht erneut
+   prüfen.
+
+**Der Punkt wandert damit von „überfällig" auf „bei Gelegenheit, vor
+Juni 2027"** — als Feed-Hygiene für die nächste Einschulungssaison,
+nicht als Umsatzmaßnahme.
+
+### 10.4 Budget von einer Suchkampagne auf die PMax umschichten?
+
+**Nein — der Gedanke geht ins Leere.** Drei Gründe:
+
+1. **Tagesbudgets sind Obergrenzen, keine Zuteilungen.** C und G geben
+   0,00 € aus. Wer ihr Budget streicht, macht bei Filzprodukte keinen
+   Cent frei, weil dort nie einer gebunden war.
+2. **Es gibt kein hartes Kontobudget.** Die „19,50 €/Tag" in der
+   Gesamtzeile ist die *Summe der Kampagnenbudgets*, kein Deckel, der
+   irgendwo bremst.
+3. **Die Zielkampagne ist selbst nicht budgetbegrenzt.** Filzprodukte
+   ruft 8,6 % seines Budgets ab. Ein höheres Budget würde dort
+   schlicht nicht abgerufen.
+
+**Die wirksame Stellschraube ist nicht das Budget, sondern das
+tROAS-Ziel** — es entscheidet, wie viel Google überhaupt ausliefert.
+Und die gehört nach der bestehenden Regel erst am **~06.09.**
+angefasst, mit zwei Wochen Datenbasis. Bis dahin nichts ändern.
+
+Was aus dieser Rechnung **wirklich folgt:** Die 19,50 € Kontobudget
+sind seit dem 23.08. eine Zahl ohne Wirkung. Die reale Ausgabe liegt
+bei 1,63 €/Tag. Wer mehr Umsatz will, muss am tROAS drehen oder an
+Zielgruppen und Assets arbeiten — nicht am Budget.
 

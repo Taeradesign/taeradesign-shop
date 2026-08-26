@@ -158,8 +158,8 @@ und `docs/google-ads.md` Abschnitt 9.
 | Wann | Was |
 |---|---|
 | **laufend, monatlich** | **Auto-Apply-Status prüfen** — Empfehlungen → „Einstellungen für die automatische Anwendung". **Muss auf 0 von 7 und 0 von 14 stehen.** Am 10.08.2026 hat Google über diese Funktion nachts um 4:52 Uhr die Gebotsstrategie von C und G auf Ziel-CPA umgestellt und das Displaynetzwerk zugeschaltet; am 23.08. zurückgenommen und abgeschaltet. **Achtung: Die Seite speichert nicht automatisch** — nach dem Abwählen erscheint beim Verlassen ein Speichern-Dialog |
-| **offen seit ~12.08.2026** | Merchant-Center-Status prüfen: sind die Schultüten-Warnungen nach dem Feed-Sync weg? |
-| **erste Tage nach dem 23.08.** | Suchbegriffe von **C** prüfen — läuft die Brand-Kampagne wirklich nur auf Markensuchen? |
+| **bei Gelegenheit, vor Juni 2027** | ~~Merchant-Center-Status prüfen: sind die Schultüten-Warnungen weg?~~ **Geprüft am 26.08.2026: nein.** 68 Produkte „Fehlende Altersgruppe", 15 „Fehlende Farbe", 7 „Fehlendes Geschlecht", 3 „Fehlende Größe" — sichtbar die Schultüten-Anhänger-Familie. Alles **Warnungen, keine Fehler** (Google beziffert kein Klickpotenzial), und die Saison 2026 ist vorbei. Deshalb **herabgestuft auf Feed-Hygiene für 2027**. Einzelheiten `docs/google-ads.md` Abschnitt 10.3 |
+| ~~**erste Tage nach dem 23.08.**~~ | ~~Suchbegriffe von **C** prüfen~~ — **erledigt am 26.08.2026: ja, ausschließlich Markensuchen.** Der einzige ausgelöste Begriff ist „taeradesign", kein Ausschluss nötig. Wichtiger Nebenbefund: C liefert kaum aus (2 Impressionen in vier Tagen, zwei Keywords von Google wegen geringen Suchvolumens stillgelegt). Einzelheiten `docs/google-ads.md` Abschnitt 10.1 |
 | **~06.09.2026** | **D Wichtelwelt-tROAS-Check:** auf 400 % senken, falls nach zwei aktiven Wochen < 10 Käufe |
 | **~06.09.2026** | **Filzprodukte nach der Rampe:** Hält der ROAS die 450 %? Dann dritter Schritt auf 500 %. Bricht das Volumen ein, zurück auf 400 % |
 | **offen, nach der Rampe** | **Asset-Optimierung bei Filzprodukte entscheiden** — dort sind alle fünf Optimierungen an, anders als bei C/D/G. Besonders „Erweiterung der finalen URL" schickt Nutzer auf andere Seiten als die hinterlegte. Läuft aber seit 2023 so; Details und Abwägung in `docs/google-ads.md` Abschnitt 9.6 |
@@ -186,8 +186,15 @@ und `docs/google-ads.md` Abschnitt 9.
 - ✅ **Auto-Apply kontoweit abgeschaltet** (war 21 von 21 Typen an)
 - ✅ **Displaynetzwerk** aus C und G entfernt
 - ⚠ **Kontobudget steht jetzt bei 19,50 €/Tag** statt 10,00 € — bei voller
-  Ausschöpfung ~585 €/Monat. Die Stelle zum Nachjustieren, falls D und G in
-  zwei Wochen nichts liefern
+  Ausschöpfung ~585 €/Monat. ~~Die Stelle zum Nachjustieren, falls D und G in
+  zwei Wochen nichts liefern~~ **Überholt durch die Messung vom 26.08.2026:
+  Das Budget ist derzeit eine Zahl ohne Wirkung.** In den vier Tagen
+  23.–26.08. hat das Konto **6,50 € ausgegeben, also 1,63 €/Tag — 8,3 % des
+  Budgets.** Keine einzige Kampagne trägt den Status „Durch Budget begrenzt";
+  Filzprodukte ruft 8,6 % ab, Wichtelwelt 15,4 %, C und G 0 %. Budget zu
+  verschieben oder zu kürzen ändert deshalb nichts — die wirksame
+  Stellschraube ist das **tROAS-Ziel**, und das gehört erst am ~06.09.
+  angefasst. Rechnung in `docs/google-ads.md` Abschnitt 10.2 und 10.4
 - ✅ **Neues Theme-Backup** `backup/2026-08-23-v930/` (Be Yours **9.3.0**,
   Live-ID 204552372549, 394 Dateien). Damit ist der Rückspiel-Fallstrick des
   alten Backups erledigt: Im neuen Stand trägt der Announcement-Block
