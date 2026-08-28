@@ -896,3 +896,82 @@ sind seit dem 23.08. eine Zahl ohne Wirkung. Die reale Ausgabe liegt
 bei 1,63 €/Tag. Wer mehr Umsatz will, muss am tROAS drehen oder an
 Zielgruppen und Assets arbeiten — nicht am Budget.
 
+
+### 10.5 Nachmessung am 28.08.2026 — die Zahlen vom 26.08. waren unreif
+
+Abgelesen am 28.08.2026 aus der Kampagnentabelle des Kontos
+932-417-3105, Zeitraum **23.–28.08.2026** (Aktivierung bis heute).
+Der 28.08. ist noch nicht abgeschlossen, seine Werte reifen weiter
+nach.
+
+| Kampagne | Budget/Tag | Status | Impr. | Umsatz | Kosten | Käufe | ROAS |
+|---|---|---|---|---|---|---|---|
+| **Filzprodukte** (PMax) | 10,00 € | Aktiv | 2.803 | 45,73 € | 14,61 € | 2 | 313 % |
+| **D Wichtelwelt** (PMax) | 5,00 € | Gebotsstrategie lernt | 1.241 | 0,00 € | 12,77 € | 0 | 0 % |
+| **G Zeugnismappen** (Suche) | 3,00 € | Gebotsstrategie lernt | 6 | 0,00 € | 0,00 € | 0 | — |
+| **C Brand** (Suche) | 1,50 € | Gebotsstrategie lernt | 3 | 0,00 € | 0,00 € | 0 | — |
+| **Konto gesamt** | 19,50 € | | 4.053 | 45,73 € | 27,38 € | 2 | 167 % |
+
+Die übrigen sieben Kampagnen sind pausiert, 0 Impressionen. ROAS
+jeweils selbst gerechnet (Umsatz ÷ Kosten), nicht aus Googles Anzeige
+übernommen.
+
+*Hinweis zur Spaltenwahl:* Die Übersichtskacheln zeigten für denselben
+Zeitraum einen Conv.-Wert von 67,14 € — das ist der Wert
+**einschließlich prognostizierter** Conversions. Oben steht die harte
+Zahl aus der Umsatzspalte, 45,73 €.
+
+#### Korrektur zu Abschnitt 10.2 und 10.4
+
+**Die Messung vom 26.08.2026 (00:07 Uhr) traf zwei noch nicht
+ausgereifte Tage.** Derselbe Zeitraum 23.–26.08. zeigt heute **20,13 €**
+Kosten statt der dort notierten **6,50 €** — gut das Dreifache.
+Entsprechend bei Filzprodukte: dort „11,43 € Umsatz / 0,86 € Kosten =
+1.333 %", über 23.–28. dagegen 45,73 € / 14,61 € = **313 %**.
+
+Was daraus folgt:
+
+- **Hinfällig ist die Zahl** „1,63 €/Tag, 8,3 % Budgetabruf". Richtig
+  sind für 23.–28.08. **4,56 €/Tag, also 23 % Abruf** bei 19,50 €
+  Kontobudget.
+- **Gültig bleibt die Aussage** in 10.4: Keine Kampagne trägt den
+  Status „Durch Budget begrenzt", die wirksame Stellschraube ist das
+  tROAS-Ziel, nicht das Budget. Der Befund war richtig, die Zahl
+  darunter zu klein.
+- **Lehre für künftige Kontrollen:** Nicht kurz nach Mitternacht
+  messen und die letzten beiden Tage nicht als belastbar behandeln.
+  Google weist selbst darauf hin, dass die Berichterstattung nicht in
+  Echtzeit erfolgt.
+
+#### Was für den ~06.09. daraus folgt
+
+1. **Der Blick gehört auf D Wichtelwelt, nicht auf Filzprodukte.** D
+   verbraucht mit 12,77 € fast die Hälfte der Kontokosten und liefert
+   **null Umsatz bei null Käufen** aus 1.241 Impressionen. Die
+   bestehende Regel (auf 400 % senken, falls nach zwei aktiven Wochen
+   < 10 Käufe) greift damit voraussichtlich. **Nicht vorziehen:** Die
+   Gebotsstrategie ist nach sechs Tagen noch in der Lernphase, und
+   Wichtelzubehör ist Ende August saisonal am toten Punkt.
+2. **Filzprodukte liegt mit 313 % unter dem Ziel von 450 %.** Sechs
+   Tage und zwei Käufe sind keine Entscheidungsgrundlage; der Termin
+   bleibt stehen. Der dritte Rampenschritt auf 500 % ist nach dieser
+   Zahl aber nicht angezeigt.
+
+#### Offener Punkt: G Zeugnismappen läuft nicht — die Saison verstreicht
+
+**6 Impressionen in sechs Tagen, 0,00 € Kosten.** Die Kampagne wurde
+für das Fenster „19.08. bis Mitte September" gebaut; die Hälfte davon
+ist um, ohne dass sie nennenswert ausgeliefert hätte.
+
+Damit läuft die Wiedervorlage „~Mitte September pausieren
+(Saisonende)" ins Leere — pausiert würde etwas, das nie lief. **Die
+Frage ist jetzt zu stellen, nicht Mitte September:** Ist der
+CPC-Deckel von 0,40 € zu niedrig, sind die 7 Keywords zu eng, oder
+gibt es für „Zeugnismappe" schlicht zu wenig Suchvolumen? Das ist vor
+dem nächsten Zeugnistermin (Halbjahr ~Ende Januar) zu klären, sonst
+wiederholt sich der Leerlauf.
+
+Bei **C Brand** ist der gleiche Befund (3 Impressionen) dagegen
+erklärt und unbedenklich — siehe 10.1: reine Markensuche, geringes
+Volumen, zwei Keywords von Google wegen geringen Suchvolumens
+stillgelegt.
