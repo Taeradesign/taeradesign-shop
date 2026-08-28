@@ -975,3 +975,53 @@ Bei **C Brand** ist der gleiche Befund (3 Impressionen) dagegen
 erklärt und unbedenklich — siehe 10.1: reine Markensuche, geringes
 Volumen, zwei Keywords von Google wegen geringen Suchvolumens
 stillgelegt.
+
+---
+
+## 11. Prüfrhythmus statt Ferntermine (entschieden 28.08.2026)
+
+**Betreiber am 28.08.2026:** „eher jede Woche oder sogar alle 5 Tage,
+macht mehr Sinn."
+
+Anlass war G Zeugnismappen (10.5): Eine Kampagne mit 6 Impressionen in
+sechs Tagen wäre bis zur nächsten Wiedervorlage „~Mitte September
+pausieren" unbemerkt durch ihre halbe Saison gelaufen. Einzelne, weit
+entfernte Termine bemerken nur, was am Termin noch da ist — nicht, was
+zwischendurch gar nicht erst passiert.
+
+### Die Regel
+
+**Alle 5 bis 7 Tage ein kurzer Kontrollblick.** Nicht als Ersatz für
+die datierten Entscheidungstermine (tROAS-Schritte, Saisonwechsel),
+sondern darunter: Die Termine entscheiden, der Rhythmus bemerkt.
+
+Je Durchgang, für die aktiven Kampagnen:
+
+1. **Liefert sie überhaupt aus?** Impressionen und Kosten. Eine
+   Kampagne mit einstelligen Impressionen ist kein Leerlauf, den man
+   aussitzt — sie ist ein Befund. Ursachen: CPC-Deckel zu niedrig,
+   Keywords zu eng, Suchvolumen nicht vorhanden
+2. **Was kostet sie, was bringt sie?** Kosten, Umsatz, Käufe; ROAS
+   selbst rechnen (Umsatz ÷ Kosten)
+3. **Steht ein Statuswechsel an?** „Gebotsstrategie lernt" → aktiv,
+   „Durch Budget begrenzt", Ablehnungen, Richtlinienhinweise
+4. **Auffälligkeiten notieren, nicht sofort drehen.** Geändert wird an
+   den datierten Terminen, außer es liegt ein Fehler vor (Kampagne
+   liefert nicht aus, Anzeige abgelehnt, Budget läuft ins Leere)
+
+### Zwei Fallstricke, die dabei zu beachten sind
+
+- **Die letzten zwei Tage sind nicht belastbar.** Bei einem
+  5-Tage-Rhythmus bleiben also rund drei bewertbare Tage je Durchgang.
+  Wer den jüngsten Tag mitrechnet, misst zu niedrig — das war der
+  Fehler vom 26.08. (siehe 10.5). Nicht kurz nach Mitternacht messen
+- **Kurze Fenster verführen zu Übersteuerung.** Der Rhythmus dient dem
+  *Bemerken*, nicht dem Nachjustieren. Eine Gebotsstrategie, an der
+  alle fünf Tage gedreht wird, kommt aus der Lernphase nie heraus
+
+### Was damit entfällt
+
+Die bisherigen Einzeltermine bleiben als **Entscheidungstermine**
+bestehen (~06.09. D und Filzprodukte, ~20.09. Markenausschluss,
+September Kommunion). Weg fällt die Vorstellung, dass zwischen ihnen
+nichts zu sehen ist.
