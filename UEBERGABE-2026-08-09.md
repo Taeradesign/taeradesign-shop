@@ -29,13 +29,13 @@ nach dem Betriebsurlaub verschoben — Aktivierung ab 19.08.2026.**
 
 | Schritt | Stand |
 |---|---|
-| **A** Ziel-ROAS-Umstellung | ✅ PMax „Filzprodukte" (ID 20676090469, **aktiv**, 10 €/Tag): von Ziel-CPA 29,57 € auf **Ziel-ROAS 400 %**. Rampe: nach zwei stabilen Wochen (~22.08. prüfen) → 450 %, dann → 500 %. Lief über den Betriebsurlaub bewusst weiter (Betreiber-Linie) |
+| **A** Ziel-ROAS-Umstellung | ✅ PMax „Filzprodukte" (ID 20676090469, **aktiv**, 10 €/Tag): von Ziel-CPA 29,57 € auf **Ziel-ROAS 400 %**, lief über den Betriebsurlaub bewusst weiter (Betreiber-Linie). **Zweiter Rampenschritt am 23.08.2026 gesetzt: 450 %** (Grundlage: letzte 7 Tage 459 %, 88,48 € Umsatz / 19,28 € Kosten). **Stand 28.08. über 23.–28.08.: 313 %** (45,73 € Umsatz / 14,61 € Kosten, 2 Käufe, 2.803 Impressionen) — unter dem Ziel. **Wiedervorlage ~06.09.:** Der dritte Schritt auf 500 % ist nach dieser Zahl **nicht angezeigt**; zu entscheiden ist, ob 450 % gehalten oder auf 400 % zurückgenommen wird. Sechs Tage und zwei Käufe sind für sich noch keine Entscheidungsgrundlage. **Achtung:** Googles Anzeige „Aktuelle Leistung" im Gebotsdialog ist auf den 08.08. datiert und misst die alte Ziel-CPA-Phase — ROAS selbst rechnen (Umsatz ÷ Kosten) |
 | **B** Markenausschluss | ⏳ Marke „Taeradesign" war nicht in Googles Markenbibliothek; **Anfrage gesendet**, Prüfung 4–6 Wochen. **Wiedervorlage ~20.09.:** Markenliste fertigstellen und in der PMax als Markenausschluss setzen |
-| **C** Brand-Suchkampagne | ✅ **„Brand Taeradesign" (ID 24118761062) PAUSIERT** — 1,50 €/Tag, Klicks maximieren mit CPC-Deckel 0,50 €, nur Google-Suche, DE/Deutsch, 5 Brand-Keywords, 1 RSA. **Vor Aktivierung: Asset-Optimierung in den Einstellungen kontrollieren** (Befund siehe Arbeitsregeln) |
-| **D** Wichtelwelt-PMax | ✅ **„Wichtelwelt" (ID 24118847240) PAUSIERT** — 5 €/Tag, Ziel-ROAS 450 %, Eintragsgruppen-Filter Produkttyp „wichtelzubehör" (183 Produkte), finale URL `/collections/wichtelturen-und-zubehor`, 6 Titel + 2 lange Titel + 3 Textzeilen, 20 Merchant-Center-Produktbilder + 5 Konto-Logos, **Asset-Optimierung nachweislich deaktiviert**. **Vor Aktivierung: Sichtfreigabe der 20 Bilder durch Betreiber.** Ziel-ROAS auf 400 senken, falls < 10 Käufe nach zwei aktiven Wochen |
+| **C** Brand-Suchkampagne | ✅ **„Brand Taeradesign" (ID 24118761062) AKTIV seit 23.08.2026** — 1,50 €/Tag, Klicks maximieren mit CPC-Deckel 0,50 €, nur Google-Suche, DE/Deutsch, 5 Brand-Keywords, 1 RSA; Asset-Optimierung vor der Aktivierung kontrolliert, Displaynetzwerk entfernt. **Stand 28.08.: 3 Impressionen, 0,00 € Kosten, Gebotsstrategie lernt** — liefert kaum aus, zwei Keywords hat Google wegen geringen Suchvolumens stillgelegt. Suchbegriffe am 26.08. geprüft: ausschließlich Markensuchen, kein Ausschluss nötig |
+| **D** Wichtelwelt-PMax | ✅ **„Wichtelwelt" (ID 24118847240) AKTIV seit 23.08.2026** — 5 €/Tag, Ziel-ROAS 450 %, Eintragsgruppen-Filter Produkttyp „wichtelzubehör" (183 Produkte), finale URL `/collections/wichtelturen-und-zubehor`, 6 Titel + 2 lange Titel + 3 Textzeilen, 20 Merchant-Center-Produktbilder + 5 Konto-Logos, **Asset-Optimierung nachweislich deaktiviert**; Sichtfreigabe der 20 Bilder vor der Aktivierung erfolgt. **Stand 28.08.: 1.241 Impressionen, 12,77 € Kosten, 0 Käufe, 0,00 € Umsatz, Gebotsstrategie lernt** — verbraucht damit fast die Hälfte der Kontokosten ohne Ertrag. **Wiedervorlage ~06.09.:** Ziel-ROAS auf 400 senken, falls < 10 Käufe nach zwei aktiven Wochen — greift nach diesem Stand voraussichtlich |
 | **E** Feed-Pflege | ✅ **erledigt in der Nachtsitzung 09./10.08.** — siehe eigener Abschnitt unten |
 | **F** Kommunion | 📅 **Anlage im September, live ~1. Oktober** (Betreiber: Gotteslob-Weihnachtsgeschäft beginnt im Oktober; deckt sich mit Q4-Daten, Gotteslobhülle-Landingpage +252 %). Struktur: Suchkampagne (WEGEN Richtlinie „Religiöse Überzeugungen in personalisierten Anzeigen" **NICHT** als PMax!) + Standard-Shopping-Test, Texte in §8 Stufe 2, Text-Lesung vor Anlage |
-| **G** Zeugnismappen | ✅ **„Zeugnismappen" (ID 24113382444) PAUSIERT** — Suchkampagne, 3 €/Tag, Klicks maximieren mit CPC-Deckel 0,40 €, nur Google-Suche, DE/Deutsch, 7 Keywords + 9 Ausschlüsse, RSA auf `/collections/schule` (15 Produkte), AI Max aus. **Restfenster nach dem Urlaub: ~19.08. bis Mitte September.** Wiederverwendbar zu jedem Zeugnistermin (Halbjahr ~Ende Januar, Schuljahresende Juni/Juli) |
+| **G** Zeugnismappen | ✅ **„Zeugnismappen" (ID 24113382444) AKTIV seit 23.08.2026** — Suchkampagne, 3 €/Tag, Klicks maximieren mit CPC-Deckel 0,40 €, nur Google-Suche, DE/Deutsch, 7 Keywords + 9 Ausschlüsse, RSA auf `/collections/schule` (15 Produkte), AI Max aus, Displaynetzwerk entfernt. **⚠ Stand 28.08.: 6 Impressionen, 0,00 € Kosten in sechs Tagen — liefert faktisch nicht aus.** Ursache offen: CPC-Deckel zu niedrig, Keywords zu eng, oder kein Suchvolumen. Das Restfenster (~19.08. bis Mitte September) ist zur Hälfte um. Wiederverwendbar zu jedem Zeugnistermin (Halbjahr ~Ende Januar, Schuljahresende Juni/Juli) — **aber erst, wenn die Ursache geklärt ist** |
 
 ---
 
@@ -165,7 +165,8 @@ und `docs/google-ads.md` Abschnitt 9.
 | **offen, nach der Rampe** | **Asset-Optimierung bei Filzprodukte entscheiden** — dort sind alle fünf Optimierungen an, anders als bei C/D/G. Besonders „Erweiterung der finalen URL" schickt Nutzer auf andere Seiten als die hinterlegte. Läuft aber seit 2023 so; Details und Abwägung in `docs/google-ads.md` Abschnitt 9.6 |
 | ~20.09.2026 | Marke „Taeradesign": Googles Markenprüfung, dann Markenausschluss in der PMax (B) |
 | September | F Kommunion anlegen, live ~1. Oktober |
-| ~Mitte Sept. | Zeugnismappen (G) pausieren (Saisonende), reaktivieren ~Ende Januar |
+| **seit 28.08.2026, ohne Termin** | **G Zeugnismappen liefert faktisch nicht aus** — 6 Impressionen und 0,00 € Kosten in sechs Tagen, das Saisonfenster (~19.08. bis Mitte September) ist zur Hälfte um. Zu klären: CPC-Deckel 0,40 € zu niedrig, 7 Keywords zu eng, oder schlicht kein Suchvolumen? Details `docs/google-ads.md` Abschnitt 10.5 |
+| ~~~Mitte Sept.~~ | ~~Zeugnismappen (G) pausieren (Saisonende), reaktivieren ~Ende Januar~~ — **läuft ins Leere, gestrichen am 30.08.2026:** Man pausiert nichts, was nie gelaufen ist. Was für Ende Januar bleibt, ist die Reaktivierung — aber erst, wenn die Ursache der Nichtauslieferung geklärt ist |
 
 **Erledigt am 23.08.2026** — Kampagnen live
 
@@ -187,14 +188,20 @@ und `docs/google-ads.md` Abschnitt 9.
 - ✅ **Displaynetzwerk** aus C und G entfernt
 - ⚠ **Kontobudget steht jetzt bei 19,50 €/Tag** statt 10,00 € — bei voller
   Ausschöpfung ~585 €/Monat. ~~Die Stelle zum Nachjustieren, falls D und G in
-  zwei Wochen nichts liefern~~ **Überholt durch die Messung vom 26.08.2026:
-  Das Budget ist derzeit eine Zahl ohne Wirkung.** In den vier Tagen
-  23.–26.08. hat das Konto **6,50 € ausgegeben, also 1,63 €/Tag — 8,3 % des
-  Budgets.** Keine einzige Kampagne trägt den Status „Durch Budget begrenzt";
-  Filzprodukte ruft 8,6 % ab, Wichtelwelt 15,4 %, C und G 0 %. Budget zu
-  verschieben oder zu kürzen ändert deshalb nichts — die wirksame
-  Stellschraube ist das **tROAS-Ziel**, und das gehört erst am ~06.09.
-  angefasst. Rechnung in `docs/google-ads.md` Abschnitt 10.2 und 10.4
+  zwei Wochen nichts liefern~~ **Überholt: Das Budget ist derzeit eine Zahl
+  ohne Wirkung.** Maßgeblich ist die **Nachmessung vom 28.08.2026** über
+  23.–28.08.: **27,38 € Kosten, also 4,56 €/Tag — 23 % des Budgets.** Keine
+  einzige Kampagne trägt den Status „Durch Budget begrenzt"; Filzprodukte
+  ruft rund 24 % ab, Wichtelwelt rund 43 %, C und G 0 % (Abruf selbst
+  gerechnet: Kosten ÷ Kampagnenbudget × Tage). Budget zu verschieben oder zu
+  kürzen ändert deshalb nichts — die wirksame Stellschraube ist das
+  **tROAS-Ziel**, und das gehört erst am ~06.09. angefasst. Rechnung in
+  `docs/google-ads.md` Abschnitt 10.5.
+  **Hinfällig sind die früher hier genannten 1,63 €/Tag und 8,3 % Abruf**
+  (ebenso 8,6 % für Filzprodukte und 15,4 % für Wichtelwelt): Die Messung
+  vom 26.08.2026 traf zwei noch nicht ausgereifte Berichtstage und sah für
+  23.–26.08. 6,50 € statt der tatsächlichen 20,13 €. **Lehre: die letzten
+  zwei Tage nie als belastbar behandeln.**
 - ✅ **Neues Theme-Backup** `backup/2026-08-23-v930/` (Be Yours **9.3.0**,
   Live-ID 204552372549, 394 Dateien). Damit ist der Rückspiel-Fallstrick des
   alten Backups erledigt: Im neuen Stand trägt der Announcement-Block
