@@ -971,6 +971,13 @@ gibt es für „Zeugnismappe" schlicht zu wenig Suchvolumen? Das ist vor
 dem nächsten Zeugnistermin (Halbjahr ~Ende Januar) zu klären, sonst
 wiederholt sich der Leerlauf.
 
+> **Nachtrag 02.09.2026:** In den drei Tagen 29.–31.08. kamen 68
+> weitere Impressionen dazu — die Kampagne kam also zuletzt doch in
+> die Auktion, gewann aber nichts (0,15 € Kosten, kein Klick). Der
+> CPC-Deckel wurde auf 0,80 € angehoben, die Kampagne anschließend
+> auf Wunsch des Betreibers **pausiert** (Saisonende). Die Frage nach
+> dem Suchvolumen bleibt für Januar offen. Siehe Abschnitt 12.3.
+
 Bei **C Brand** ist der gleiche Befund (3 Impressionen) dagegen
 erklärt und unbedenklich — siehe 10.1: reine Markensuche, geringes
 Volumen, zwei Keywords von Google wegen geringen Suchvolumens
@@ -1025,3 +1032,138 @@ Die bisherigen Einzeltermine bleiben als **Entscheidungstermine**
 bestehen (~06.09. D und Filzprodukte, ~20.09. Markenausschluss,
 September Kommunion). Weg fällt die Vorstellung, dass zwischen ihnen
 nichts zu sehen ist.
+
+---
+
+## 12. Kontrollblick am 02.09.2026 — der erste nach der neuen Regel
+
+Fünf Tage nach der Nachmessung vom 28.08. (Abschnitt 10.5), damit
+turnusgemäß fällig. Abgelesen aus der Kampagnentabelle des Kontos
+932-417-3105.
+
+### 12.1 Die Zahlen
+
+**Belastbares Fenster 23.–31.08.2026** — der 01. und 02.09. bewusst
+ausgeschlossen, siehe Fallstrick in Abschnitt 11. ROAS durchweg selbst
+gerechnet (Umsatz ÷ Kosten), nicht aus Googles Anzeige übernommen.
+
+| Kampagne | Budget/Tag | Status | Impr. | Umsatz | Kosten | Käufe | ROAS |
+|---|---|---|---:|---:|---:|---:|---:|
+| **Filzprodukte** (PMax) | 10,00 € | Aktiv | 4.149 | 77,72 € | 21,15 € | 3 | **367 %** |
+| **D Wichtelwelt** (PMax) | 5,00 € | **Aktiv (eingeschränkt)** | 3.045 | 0,00 € | 25,68 € | 0 | 0 % |
+| **G Zeugnismappen** (Suche) | 3,00 € | Aktiv | 75 | 0,00 € | 0,15 € | 0 | — |
+| **C Brand** (Suche) | 1,50 € | Aktiv | 6 | 0,00 € | 0,00 € | 0 | — |
+| **Konto gesamt** | 19,50 € | | 7.275 | 77,72 € | 46,98 € | 3 | 165 % |
+
+Kontoabruf **5,22 €/Tag = 27 %** von 19,50 €. Keine Kampagne trägt
+„Durch Budget begrenzt" — der Befund aus 10.4 gilt unverändert.
+
+**Nur die drei neuen Tage 29.–31.08.**, also das, was seit der letzten
+Messung dazugekommen ist:
+
+| Kampagne | Impr. | Umsatz | Kosten | Käufe | ROAS |
+|---|---:|---:|---:|---:|---:|
+| Filzprodukte | 999 | 31,99 € | 5,17 € | 1 | **619 %** |
+| D Wichtelwelt | 1.279 | 0,00 € | 8,47 € | 0 | 0 % |
+| G Zeugnismappen | 68 | 0,00 € | 0,15 € | 0 | — |
+| C Brand | 3 | 0,00 € | 0,00 € | 0 | — |
+
+**Die Nachreifung ist zum zweiten Mal belegt.** Derselbe Zeitraum
+23.–28.08. zeigte am 02.09. **33,19 €** Kosten; am 28.08. abgelesen
+waren es **27,38 €**. Gut ein Fünftel mehr, nachträglich. Die Regel
+„letzte zwei Tage nicht bewerten" ist damit keine Vorsichtsmaßnahme
+mehr, sondern gemessen.
+
+### 12.2 Der Befund: D Wichtelwelt optimierte auf das falsche Zielvorhaben
+
+Der Status war von „Gebotsstrategie lernt" auf **„Aktiv
+(eingeschränkt)"** gewechselt, mit der Warnung *„Für das gewünschte
+Zielvorhaben fehlt eine primäre Conversion-Aktion"*. Die
+Kampagnendiagnose nannte die betroffenen Kategorien: **Sonstige** und
+**Seitenaufruf**, beide Quelle Website.
+
+Der Vergleich mit der funktionierenden Schwesterkampagne war
+eindeutig:
+
+| | Conversion-Zielvorhaben | Gebote | Ergebnis |
+|---|---|---|---|
+| **Filzprodukte** | **Kampagnenspezifisch: Käufe** | Ziel-ROAS 450 % | 3 Käufe |
+| **D Wichtelwelt** | **Kontostandard:** Käufe, In den Einkaufswagen, Bezahlvorgang starten, Anruf-Leads, Kontakte | Ziel-ROAS 450 % | 0 Käufe |
+
+D jagte mit einem 450-%-Umsatzziel ein Bündel, das zur Hälfte aus
+Signalen ohne Umsatzwert besteht — Anruf-Leads und Kontakte tragen in
+einem Filzshop keinen Warenkorbwert. Das erklärt 25,68 € für 3.045
+Impressionen und null Käufe besser als Saisonalität.
+
+**Damit war die Wiedervorlage „~06.09. tROAS auf 400 % senken"
+gegenstandslos.** Sie hätte an einer Zahl gedreht, deren Bezugsgröße
+nicht stimmt — die Kampagne wäre billiger falsch gelaufen.
+
+### 12.3 Was am 02.09.2026 geändert wurde
+
+Drei Eingriffe, alle nach Einzelfreigabe des Betreibers, alle nach dem
+Speichern durch Neuladen der Seite geprüft.
+
+**1. D Wichtelwelt: Conversion-Zielvorhaben auf „Kampagnenspezifisch:
+Käufe"** — nur dieses eine Häkchen, identisch zu Filzprodukte. Der
+Kopftext der Einstellungen liest seither „optimiert im Hinblick auf
+eine Steigerung bei Käufe". Ziel-ROAS 450 % und Budget 5,00 €/Tag
+unverändert.
+
+> **Falle im Dialog, für künftige Änderungen festgehalten:** Googles
+> Zielvorhaben-Auswahl hat **zwei** Speichern-Knöpfe. Der innere
+> (im Auswahlfenster) übernimmt nur die Häkchenliste, der äußere
+> (im Abschnitt „Conversion-Zielvorhaben") schreibt sie in die
+> Kampagne. Der erste Versuch am 02.09. drückte nur den inneren — nach
+> dem Neuladen stand wieder „Kontostandard" da, **ohne jede
+> Fehlermeldung**. Der Dialog quittiert lautlos falsch. Nach jeder
+> Änderung neu laden und nachsehen.
+
+**2. G Zeugnismappen: CPC-Deckel von 0,40 € auf 0,80 €** angehoben.
+Gebotsstrategie „Klicks maximieren", Budget 3,00 €/Tag und AI Max
+(aus) unverändert. Begründung: 68 Impressionen in drei Tagen bei
+0,15 € Kosten und keinem einzigen Klick heißt, dass die Kampagne in
+die Auktion kommt, aber nichts gewinnt.
+
+**3. G Zeugnismappen anschließend pausiert** (Betreiber, 02.09.2026):
+„Zeugnismappen sind für diese Saison erstmal vorbei, erst wieder im
+Januar interessant." **Pausiert, nicht entfernt** — Keywords, Anzeigen
+und Historie bleiben liegen.
+
+Damit ist der unter 2. gesetzte Deckel **nie erprobt worden**; zwischen
+Anhebung und Pausierung lag keine Auktion. Er bleibt trotzdem auf
+0,80 € stehen, statt auf 0,40 € zurückgesetzt zu werden: Der Befund
+„0,40 € war zu niedrig" ist die einzige Erkenntnis, die diese Saison
+hervorgebracht hat, und sie gehört in die nächste hinein. **Wer im
+Januar reaktiviert, muss wissen, dass 0,80 € eine begründete Annahme
+ist und keine Messung.**
+
+### 12.4 Was daraus für die Termine folgt
+
+- **~06.09. D Wichtelwelt entfällt.** Mit der Zielvorhaben-Umstellung
+  beginnt die Lernphase neu; die zwei Bewertungswochen laufen ab dem
+  02.09. **Neuer Termin ~16.09.2026.** Nicht vorziehen
+- **~06.09. Filzprodukte bleibt.** 367 % über das ganze Fenster, 619 %
+  über die letzten drei Tage bei *einem* Kauf — die Richtung stimmt,
+  die Basis trägt keine Entscheidung. Am Termin mit dann rund zwei
+  Wochen Daten entscheiden
+- **G Zeugnismappen:** Vor einer Reaktivierung Ende Januar ist die
+  offene Frage aus 10.5 zu klären — gibt es für „Zeugnismappe"
+  überhaupt Suchvolumen? Sonst wiederholt sich der Leerlauf mit einem
+  anderen Gebot
+- **C Brand** bleibt unangetastet. 6 Impressionen sind bei reiner
+  Markensuche erwartbar und erklärt (10.1)
+
+### 12.5 Nebenbefund ohne Handlungsbedarf
+
+Die Kampagnentabelle zeigte bei **Wichtelwelt** auch nach der
+Umstellung und mehrfachem Neuladen weiterhin „Aktiv (eingeschränkt) —
+Für das gewünschte Zielvorhaben fehlt eine primäre Conversion-Aktion".
+Die Einstellung selbst ist nachweislich geändert; Googles
+Diagnosestatus wird verzögert nachgezogen. **Steht die Warnung Mitte
+September noch, ist das ein eigener Befund** — dann steckt mehr
+dahinter als das Zielvorhaben.
+
+**Gotteslob-Max-Performance** trägt „Pausiert — alle Asset-Gruppen sind
+durch Richtlinien eingeschränkt". Sie ist pausiert und kostet nichts,
+wäre aber vor einer Reaktivierung zu klären.

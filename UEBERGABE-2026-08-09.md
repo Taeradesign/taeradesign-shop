@@ -152,21 +152,31 @@ Warnung und blieben unangetastet.
 
 ## Wiedervorlagen
 
-**Stand 23.08.2026 abends** — C, D und G sind live. Siehe Erledigt-Block unten
-und `docs/google-ads.md` Abschnitt 9.
+**Stand 02.09.2026** — nach dem Kontrollblick (`docs/google-ads.md`
+Abschnitt 12). Aktiv sind **Filzprodukte**, **C Brand** und **D
+Wichtelwelt**; **G Zeugnismappen ist seit dem 02.09. pausiert**
+(Saisonende). Der Livegang von C, D und G steht im Erledigt-Block unten
+und in Abschnitt 9.
+
+**Laufend, alle 5–7 Tage: Ads-Kontrollblick** (entschieden 28.08.2026,
+`docs/google-ads.md` Abschnitt 11). Zuletzt am **02.09.2026**, damit
+wieder fällig ab **~07.09.** Der Rhythmus dient dem Bemerken; geändert
+wird an den datierten Terminen.
 
 | Wann | Was |
 |---|---|
 | **laufend, monatlich** | **Auto-Apply-Status prüfen** — Empfehlungen → „Einstellungen für die automatische Anwendung". **Muss auf 0 von 7 und 0 von 14 stehen.** Am 10.08.2026 hat Google über diese Funktion nachts um 4:52 Uhr die Gebotsstrategie von C und G auf Ziel-CPA umgestellt und das Displaynetzwerk zugeschaltet; am 23.08. zurückgenommen und abgeschaltet. **Achtung: Die Seite speichert nicht automatisch** — nach dem Abwählen erscheint beim Verlassen ein Speichern-Dialog |
 | **bei Gelegenheit, vor Juni 2027** | ~~Merchant-Center-Status prüfen: sind die Schultüten-Warnungen weg?~~ **Geprüft am 26.08.2026: nein.** 68 Produkte „Fehlende Altersgruppe", 15 „Fehlende Farbe", 7 „Fehlendes Geschlecht", 3 „Fehlende Größe" — sichtbar die Schultüten-Anhänger-Familie. Alles **Warnungen, keine Fehler** (Google beziffert kein Klickpotenzial), und die Saison 2026 ist vorbei. Deshalb **herabgestuft auf Feed-Hygiene für 2027**. Einzelheiten `docs/google-ads.md` Abschnitt 10.3 |
 | ~~**erste Tage nach dem 23.08.**~~ | ~~Suchbegriffe von **C** prüfen~~ — **erledigt am 26.08.2026: ja, ausschließlich Markensuchen.** Der einzige ausgelöste Begriff ist „taeradesign", kein Ausschluss nötig. Wichtiger Nebenbefund: C liefert kaum aus (2 Impressionen in vier Tagen, zwei Keywords von Google wegen geringen Suchvolumens stillgelegt). Einzelheiten `docs/google-ads.md` Abschnitt 10.1 |
-| **~06.09.2026** | **D Wichtelwelt-tROAS-Check:** auf 400 % senken, falls nach zwei aktiven Wochen < 10 Käufe |
-| **~06.09.2026** | **Filzprodukte nach der Rampe:** Hält der ROAS die 450 %? Dann dritter Schritt auf 500 %. Bricht das Volumen ein, zurück auf 400 % |
+| ~~**~06.09.2026**~~ | ~~**D Wichtelwelt-tROAS-Check:** auf 400 % senken, falls nach zwei aktiven Wochen < 10 Käufe~~ — **gestrichen am 02.09.2026, falsche Stellschraube.** D optimierte auf das Kontostandard-Zielvorhaben (Käufe, In den Einkaufswagen, Bezahlvorgang starten, Anruf-Leads, Kontakte) statt allein auf Käufe; ein 450-%-Umsatzziel auf Signalen ohne Warenkorbwert erklärt die 0 Käufe bei 25,68 €. **Am 02.09. auf „Kampagnenspezifisch: Käufe" umgestellt**, Ziel-ROAS und Budget unverändert. Ersetzt durch den Termin ~16.09. |
+| **~16.09.2026** | **D Wichtelwelt beurteilen** — zwei Wochen nach der Zielvorhaben-Umstellung vom 02.09. Die Lernphase beginnt damit neu, **nicht vorziehen**. Details `docs/google-ads.md` Abschnitt 12.2 |
+| **~06.09.2026** | **Filzprodukte nach der Rampe:** Hält der ROAS die 450 %? Dann dritter Schritt auf 500 %. Bricht das Volumen ein, zurück auf 400 %. **Stand 02.09.: 367 % über 23.–31.08., 619 % über die letzten drei belastbaren Tage — bei *einem* Kauf.** Richtung stimmt, Basis trägt noch keine Entscheidung |
 | **offen, nach der Rampe** | **Asset-Optimierung bei Filzprodukte entscheiden** — dort sind alle fünf Optimierungen an, anders als bei C/D/G. Besonders „Erweiterung der finalen URL" schickt Nutzer auf andere Seiten als die hinterlegte. Läuft aber seit 2023 so; Details und Abwägung in `docs/google-ads.md` Abschnitt 9.6 |
 | ~20.09.2026 | Marke „Taeradesign": Googles Markenprüfung, dann Markenausschluss in der PMax (B) |
 | September | F Kommunion anlegen, live ~1. Oktober |
-| **seit 28.08.2026, ohne Termin** | **G Zeugnismappen liefert faktisch nicht aus** — 6 Impressionen und 0,00 € Kosten in sechs Tagen, das Saisonfenster (~19.08. bis Mitte September) ist zur Hälfte um. Zu klären: CPC-Deckel 0,40 € zu niedrig, 7 Keywords zu eng, oder schlicht kein Suchvolumen? Details `docs/google-ads.md` Abschnitt 10.5 |
+| ~~**seit 28.08.2026, ohne Termin**~~ | ~~**G Zeugnismappen liefert faktisch nicht aus**~~ — **abgeschlossen am 02.09.2026 durch Pausieren, siehe nächste Zeile.** Verlauf: 6 Impressionen in den ersten sechs Tagen, dann 68 in den drei Tagen 29.–31.08. — sie kam also zuletzt doch in die Auktion, gewann aber nichts (0,15 € Kosten, kein Klick) |
 | ~~~Mitte Sept.~~ | ~~Zeugnismappen (G) pausieren (Saisonende), reaktivieren ~Ende Januar~~ — **läuft ins Leere, gestrichen am 30.08.2026:** Man pausiert nichts, was nie gelaufen ist. Was für Ende Januar bleibt, ist die Reaktivierung — aber erst, wenn die Ursache der Nichtauslieferung geklärt ist |
+| **Dezember 2026 / Januar 2027** | **G Zeugnismappen reaktivieren — aber erst nach einer Vorprüfung.** Am 02.09.2026 **pausiert** (Betreiber: „für diese Saison erstmal vorbei, erst wieder im Januar interessant"), **nicht entfernt** — Keywords, Anzeigen und Historie liegen bereit. Zwei Dinge vorher klären: **(a)** Gibt es für „Zeugnismappe" überhaupt Suchvolumen? Sonst wiederholt sich der Leerlauf mit einem anderen Gebot. **(b)** Der CPC-Deckel steht auf **0,80 €** (am 02.09. von 0,40 € angehoben) und wurde **nie erprobt** — zwischen Anhebung und Pausierung lag keine Auktion. Begründete Annahme, keine Messung. Details `docs/google-ads.md` Abschnitt 12.3 |
 
 **Erledigt am 23.08.2026** — Kampagnen live
 
