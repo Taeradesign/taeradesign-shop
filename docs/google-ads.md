@@ -1167,3 +1167,178 @@ dahinter als das Zielvorhaben.
 **Gotteslob-Max-Performance** trägt „Pausiert — alle Asset-Gruppen sind
 durch Richtlinien eingeschränkt". Sie ist pausiert und kostet nichts,
 wäre aber vor einer Reaktivierung zu klären.
+
+## 13. Kontrollblick am 12.09.2026 — zehn Tage statt fünf bis sieben
+
+Der Takt aus Abschnitt 11 sieht 5 bis 7 Tage vor. Der letzte
+Kontrollblick war am 02.09. (Abschnitt 12), dieser ist am **12.09.**,
+also **zehn Tage** später — überfällig. Grund war kein Versäumnis am
+Konto, sondern der Ausfall der geplanten Aufgaben zwischen dem 03. und
+dem 11.09.: Weder Morgenblick noch Marktbeobachtung sind in diesen
+Tagen gestartet, damit fiel auch die Fälligkeitsmeldung aus. **Das ist
+der erste belegte Fall, in dem der Takt nicht am Takt scheitert,
+sondern an dem, was ihn meldet.**
+
+Abgelesen aus der Kampagnentabelle des Kontos 932-417-3105, angemeldet
+als `tk@taeradesign.de`. Nur gelesen, keine Änderung.
+
+### 13.1 Die Zahlen
+
+**Belastbares Fenster 01.–10.09.2026** — der 11. und 12.09.
+ausgeschlossen (Fallstrick Abschnitt 11, zweifach belegt in 12.1).
+ROAS durchweg selbst gerechnet (Umsatz ÷ Kosten).
+
+| Kampagne | Budget/Tag | Status | Impr. | Umsatz | Kosten | Käufe | ROAS |
+|---|---|---|---:|---:|---:|---:|---:|
+| **Filzprodukte** (PMax) | 10,00 € | Aktiv | 2.308 | 145,00 € | 20,59 € | 2 | **704 %** |
+| **D Wichtelwelt** (PMax) | 5,00 € | **Aktiv** | 556 | 0,00 € | 1,94 € | 0 | 0 % |
+| **C Brand** (Suche) | 1,50 € | Aktiv | 11 | 0,00 € | 0,52 € | 0 | — |
+| **G Zeugnismappen** (Suche) | 3,00 € | Pausiert | 55 | 0,00 € | 0,80 € | 0 | — |
+| **Gesamt** | 16,50 € | | 2.930 | 145,00 € | 23,85 € | 2 | 608 % |
+
+Kontoabruf **2,39 €/Tag = 14 %** der Budgetsumme von 16,50 €. Keine
+Kampagne trägt „Durch Budget begrenzt". Der Abruf ist damit noch
+einmal gefallen (27 % am 02.09., 23 % am 28.08.) — der Befund aus 10.4
+verschärft sich weiter.
+
+**Nur 03.–10.09.**, also ausschließlich nach den Eingriffen vom 02.09.:
+
+| Kampagne | Impr. | Umsatz | Kosten | Käufe | ROAS |
+|---|---:|---:|---:|---:|---:|
+| Filzprodukte *(abgeleitet)* | 1.748 | 89,00 € | 17,14 € | 1 | **519 %** |
+| D Wichtelwelt | 282 | 0,00 € | 0,90 € | 0 | 0 % |
+| C Brand | 8 | 0,00 € | 0,50 € | 0 | — |
+| G Zeugnismappen | 0 | 0,00 € | 0,00 € | 0 | — |
+| **Gesamt** | 2.038 | 89,00 € | 18,54 € | 1 | 480 % |
+
+> **Zur Filzprodukte-Zeile:** Sie ist **gerechnet, nicht abgelesen** —
+> Gesamtsumme minus die drei anderen Kampagnen. Die abgelesenen Werte
+> sind die Gesamtzeile und die drei kleinen Kampagnen.
+
+### 13.2 Befund 1: D Wichtelwelt liefert nach der Umstellung fast nicht mehr aus
+
+| Zeitraum | Impr./Tag | Kosten/Tag | Budgetabruf |
+|---|---:|---:|---:|
+| 23.–31.08. (vor der Umstellung) | 338 | 2,85 € | 57 % |
+| 03.–10.09. (nach der Umstellung) | **35** | **0,11 €** | **2 %** |
+
+Die Umstellung des Conversion-Zielvorhabens auf „Kampagnenspezifisch:
+Käufe" am 02.09. hat das Problem „Geld ohne Käufe" beseitigt — aber
+**nicht, indem sie Käufe erzeugt hat, sondern indem die Kampagne
+aufgehört hat auszuliefern.** Seit Aktivierung am 23.08. steht sie bei
+rund 27,60 € Kosten und **null Käufen**.
+
+**Positiv und erledigt:** Die Warnung „Aktiv (eingeschränkt) — Für das
+gewünschte Zielvorhaben fehlt eine primäre Conversion-Aktion" ist
+verschwunden; der Status lautet schlicht „Aktiv". Der unter 12.5
+formulierte Vorbehalt („steht die Warnung Mitte September noch, steckt
+mehr dahinter") ist damit **negativ beantwortet** — es steckte nichts
+weiter dahinter, Googles Diagnose war nur träge.
+
+**Der Termin ~16.09. bleibt und wird nicht vorgezogen.** Die zwei
+Bewertungswochen laufen ab dem 02.09.
+
+### 13.3 Befund 2: Der Volumenrückgang trifft auch die unveränderte Kampagne
+
+| Kampagne | Impr./Tag 23.–31.08. | Impr./Tag 03.–10.09. | Veränderung |
+|---|---:|---:|---:|
+| Filzprodukte (**nicht angefasst**) | 461 | 219 | −52 % |
+| D Wichtelwelt (umgestellt) | 338 | 35 | −90 % |
+
+**Das ist der wichtigere Befund von beiden, weil er die Deutung von
+13.2 begrenzt.** Filzprodukte wurde am 02.09. nicht verändert und hat
+trotzdem die Hälfte des Volumens verloren. Es wirkt also etwas, das
+nicht an den Einstellungen liegt — naheliegend Saison oder
+Auktionsdruck, **belegt ist es nicht**. Wer den Wichtelwelt-Einbruch
+vollständig der Umstellung zuschreibt, rechnet diesen Anteil doppelt.
+
+Der zusätzliche Einbruch bei D (−90 % gegenüber −52 %) bleibt
+erklärungsbedürftig und gehört an den Termin ~16.09.
+
+### 13.4 Befund 3: Korrektur an Abschnitt 12.3 — 0,40 € hat sehr wohl gewonnen
+
+In 12.3 steht zu G Zeugnismappen, die Kampagne komme in die Auktion,
+gewinne aber nichts. Die Septemberzahlen widersprechen dem: Im Fenster
+01.–10.09. trägt sie **0,80 € Kosten bei einem durchschnittlichen
+Klickpreis von 0,40 €**, also **zwei gewonnene Klicks** — und im
+Fenster 03.–10.09. null, weil sie da bereits pausiert war. Die Klicks
+fielen demnach am 01./02.09. an, **noch zum alten Deckel von 0,40 €**.
+
+Was stehen bleibt: Der am 02.09. gesetzte Deckel von **0,80 € ist
+weiterhin unerprobt** — zwischen Anhebung und Pausierung lag keine
+Auktion. Was zu berichtigen ist: Der Satz „0,40 € gewinnt nichts" ist
+falsch. Er hat zweimal gewonnen. **Für die Reaktivierung im Januar
+heißt das, dass die Begründung für 0,80 € schwächer ist als in 12.3
+angenommen** — sie stützt sich jetzt auf zwei Klicks in zwei Tagen
+gegen null Klicks in sechs.
+
+### 13.5 Kleinbefunde
+
+- **C Brand liefert erstmals Klicks.** 11 Impressionen, 0,52 € Kosten
+  bei Ø 0,10 € — also rund fünf Klicks, gegenüber null im
+  Augustfenster. Kein Kauf. Kein Handlungsbedarf, aber die Kampagne
+  ist nicht mehr tot
+- **Auto-Apply geprüft: 0 von 7 und 0 von 14.** Sollzustand, keine
+  Abweichung. Damit ist die monatliche Prüfung aus Abschnitt 9
+  **vorgezogen erledigt**; nächster Termin ~12.10.2026 statt ~23.09.
+- **Googles eigene Empfehlung lautet, die ROAS-Ziele zu senken**
+  („ROAS-Ziele anpassen", +2,6 %; prognostiziert +36 € Conversion-Wert
+  pro Woche bei +8,99 € Mehrkosten). **Nicht übernommen** — die Rote
+  Linie „Einzelfreigabe" gilt auch für Googles Vorschläge. Notiert,
+  weil sie in dieselbe Richtung zeigt wie die Überlegung in 13.6
+- **Neuer Hinweisbanner von Google:** Ab dem 17.08.2026 werde die
+  Leistung budgetbegrenzter Kampagnen mit Gebotszielen „beständiger",
+  auch nach Budgetanpassungen; Ziele würden nicht automatisch
+  aktualisiert. **Für dieses Konto ohne Belang** — bei 14 % Abruf ist
+  keine Kampagne budgetbegrenzt
+
+### 13.6 Die Entscheidung zu Filzprodukte (Termin war ~06.09.)
+
+Der überfällige Termin aus 12.4 ist damit abgearbeitet. Die Lage:
+
+- ROAS **704 %** über 01.–10.09., **519 %** über 03.–10.09. — beides
+  deutlich über dem Ziel von 450 %
+- **zwei Käufe in zehn Tagen**, Ø-Bestellwert 72,50 €
+- Volumen gegenüber August **halbiert**
+
+Nach der hinterlegten Regel („hält er 450 %, dann dritter Schritt auf
+500 %") wäre eine Erhöhung fällig. **Sie wird nicht vorgenommen.**
+
+**Entschieden am 12.09.2026 (Betreiber): Ziel-ROAS bleibt bei 450 %,
+keine Änderung.** Begründung:
+
+1. Der Volumenrückgang tritt **auch bei unveränderten Kampagnen** auf
+   (13.3). Die Ursache liegt damit nicht erkennbar am Ziel. An einer
+   Stellschraube zu drehen, deren Wirkung sich vom Störsignal nicht
+   trennen lässt, verdirbt die nächste Messung
+2. **Zwei Käufe tragen keine Entscheidung** — weder nach oben noch
+   nach unten. Ein einzelner Auftrag bestimmt den ROAS
+3. Der Takt dient dem Bemerken, nicht dem Nachjustieren (Abschnitt 11)
+
+**Die Gegenthese ist festzuhalten, weil sie nicht widerlegt ist:** Ein
+ROAS weit über Ziel bei fallendem Volumen ist das übliche Bild eines
+*zu hoch* gesetzten Ziels — Google liefert dann nur noch die sichersten
+Auktionen aus. Googles Simulation (13.5) zeigt in dieselbe Richtung,
+und bei 14 % Budgetabruf ist Drosseln nicht das Problem dieses Kontos.
+**Wäre der Volumenrückgang bei Filzprodukte allein aufgetreten, wäre
+eine Senkung auf 400 % die richtige Antwort gewesen.** Er ist es
+nicht — deshalb erst messen.
+
+### 13.7 Was daraus für die Termine folgt
+
+- **~16.09.2026 — D Wichtelwelt beurteilen.** Unverändert. Dann
+  zusätzlich zu klären: Warum liefert sie bei 2 % Budgetabruf
+  praktisch nicht mehr aus, über den marktweiten Rückgang hinaus?
+- **~16.09.2026 — Filzprodukte mitbeurteilen.** Zusammengelegt mit dem
+  Wichtelwelt-Termin, statt eines eigenen Termins. Dann liegen rund
+  zwei Wochen Daten vor. Entscheidungsfrage: Hat sich das Volumen
+  erholt (dann war es Saison) oder nicht (dann ist die Senkung auf
+  400 % angezeigt)?
+- **~12.10.2026 — Auto-Apply.** Vorgezogen erledigt am 12.09., nächster
+  Turnus einen Monat später
+- **~20.09.2026 — Markenprüfung „Taeradesign"**, danach Markenausschluss
+  in der PMax. Unverändert
+- **September, ohne Tag — F Kommunion anlegen**, live ~01.10. **Dieser
+  Punkt hat bis heute kein Datum und ist der einzige mit einem harten
+  Außentermin.** Suchkampagne, nicht PMax; Text-Lesung vor der Anlage
+- **Nächster Kontrollblick: ~17.–19.09.2026** (5 bis 7 Tage)
