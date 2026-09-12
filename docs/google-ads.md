@@ -1342,3 +1342,224 @@ nicht — deshalb erst messen.
   Punkt hat bis heute kein Datum und ist der einzige mit einem harten
   Außentermin.** Suchkampagne, nicht PMax; Text-Lesung vor der Anlage
 - **Nächster Kontrollblick: ~17.–19.09.2026** (5 bis 7 Tage)
+
+## 14. Saisonvorbereitung am 12.09.2026 — Gotteslob reaktiviert, erstmals mit Deckungsbeitragsrechnung
+
+Anlass: Der Betreiber wollte die Saison für Wichtelprodukte und
+Gotteslobhüllen vorbereiten. Aus der Bestandsaufnahme wurde mehr — zum
+ersten Mal liegt eine **Handelsspanne** vor, und damit lässt sich sagen,
+was die Kampagnen tatsächlich verdient haben statt nur, was sie
+umgesetzt haben.
+
+### 14.1 Die Zahl, die bisher fehlte: 65 % Spanne
+
+**Betreiberangabe vom 12.09.2026: die Handelsspanne liegt bei etwa
+65 %.** Daraus folgt unmittelbar:
+
+> **Break-even-ROAS = 1 ÷ 0,65 = 154 %.**
+> Darunter ist jeder Werbe-Euro ein Verlust, darüber verdient er.
+
+Diese Zahl hat im ganzen Konto gefehlt — die Spalte „Bruttogewinn" ist
+leer, es ist keine Marge hinterlegt. Alle bisherigen ROAS-Ziele
+(400 %, 450 %, 321 %) waren damit **gesetzt, ohne dass jemand sagen
+konnte, wo die Nulllinie liegt.** Dass sie deutlich über 154 % lagen,
+war Glück, keine Rechnung.
+
+### 14.2 Die Vorjahressaison, nachgerechnet
+
+**Q4 2025 (01.10.–31.12.2025)**, Deckungsbeitrag = 0,65 × Umsatz:
+
+| Kampagne | Impr. | Umsatz | Kosten | Käufe | ROAS | DB | **Ergebnis** |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Gotteslob-Max-Performance | 78.506 | 893,58 € | 489,61 € | 26 | 182 % | 580,83 € | **+91,22 €** |
+| Filzprodukte | 203.869 | 1.095,36 € | 1.081,68 € | 43 | 101 % | 711,98 € | **−369,70 €** |
+| Wichtel | 18.736 | 30,93 € | 142,56 € | 2 | 22 % | 20,10 € | **−122,46 €** |
+| **Gesamt** | **301.111** | **2.019,87 €** | **1.713,85 €** | **71** | 118 % | 1.312,92 € | **−400,93 €** |
+
+**Die Weihnachtssaison 2025 hat rund 401 € Verlust gemacht.** Nur
+Gotteslob war positiv. Bisher stand im Protokoll nur „ROAS 118 %", und
+das klang nach Gewinn — es war keiner.
+
+**Zur Einordnung das Gesamtjahr 2025 (01.01.–31.12.2025):**
+
+| Kampagne | Umsatz | Kosten | Käufe | ROAS | **Ergebnis** |
+|---|---:|---:|---:|---:|---:|
+| Gotteslob-Max-Performance | 7.384,78 € | 3.300,54 € | 203 | 224 % | **+1.499,57 €** |
+| Filzprodukte | 5.455,15 € | 3.040,74 € | 164 | 179 % | **+505,11 €** |
+| Wichtel | 87,82 € | 232,92 € | 6 | 38 % | **−175,84 €** |
+| Shopping – Alle Produkte | 36,50 € | 3,86 € | 1 | 946 % | +19,86 € |
+| **Gesamt** | **12.964,25 €** | **6.579,48 €** | **374** | 197 % | **+1.847,28 €** |
+
+**Das Jahr war gut, das vierte Quartal nicht.** Und die tragende Säule
+des Jahres war **Gotteslob mit rund 1.500 € Ergebnis** — mehr als
+Filzprodukte und alles andere zusammen. Genau diese Kampagne stand seit
+Anfang 2026 still.
+
+**Wichtel ist über beide Betrachtungen hinweg ein Verlustgeschäft:**
+2025 gesamt −176 €, davon −122 € im Q4; dazu 2026 bisher rund −28 €
+über die Nachfolgerin „Wichtelwelt" (0 Käufe bei ~27,60 € Kosten).
+**Rund 200 € Verlust über zwei Saisons, kein einziger profitabler
+Monat.** Der Betreiber wollte die Wichtelseite ausbauen; das wurde am
+12.09. bewusst **nicht** getan (siehe 14.5).
+
+### 14.3 Auto-Apply hat 2025 schon einmal zugegriffen
+
+Im Änderungsverlauf steht:
+
+> **23.11.2025, 04:47:34 — „Recommendations Auto-Apply"**, Tool
+> „Automatisch angewendete Empfehlungen", Kampagne
+> Gotteslob-Max-Performance:
+> *„Der Wert von gebotsstrategietyp in Kampagne hat sich von
+> ‚Conversions maximieren' in ‚Conversion-Wert maximieren' geändert"*
+
+**Der Vorfall vom 10.08.2026 (Abschnitt 9) war nicht der erste.** Neun
+Monate zuvor hat derselbe Mechanismus nachts um 4:47 Uhr die
+Gebotsstrategie der damals profitabelsten Kampagne umgestellt — mitten
+in der Hochsaison. Die Abschaltung von Auto-Apply am 23.08.2026 war
+damit noch besser begründet als angenommen: **Es handelt sich um ein
+Muster, nicht um einen Ausrutscher.**
+
+**Folge für die Bewertung:** Die 182 % ROAS aus Q4 2025 wurden **nicht**
+unter einem Ziel-ROAS von 321 % erzielt. Die Kampagne lief bis zum
+23.11.2025 auf „Conversions maximieren", danach auf „Conversion-Wert
+maximieren" — beides ohne ROAS-Ziel. Das heutige Ziel von **321,155 %**
+ist ein Artefakt dieser Geschichte (der krumme Wert spricht für sich)
+und wurde **nie erprobt**; die Kampagne wurde pausiert, bevor sie
+darunter lief.
+
+### 14.4 Die Richtlinienbeschränkung — geprüft und für tragbar befunden
+
+Die Kampagnenliste trug „Alle Asset-Gruppen sind durch Richtlinien
+eingeschränkt". In der Asset-Gruppe „Gotteslobhüllen" steht der Grund
+wörtlich:
+
+> **Aktiv (eingeschränkt)** — 1 Richtlinienverstoß:
+> *Religiöse Überzeugungen in personalisierten Anzeigen*
+
+Also dieselbe Richtlinie, wegen der die Kommunion-Kampagne (F)
+ausdrücklich **nicht** als PMax geplant ist. Entscheidend ist das Wort
+**„Aktiv"**: Es beschränkt die personalisierte Ausrichtung, es sperrt
+die Auslieferung nicht.
+
+**Belege dafür, dass die Beschränkung tragbar ist:**
+
+- Die Kampagne hat Q4 2025 **78.506 Impressionen** und 26 Käufe
+  geliefert, im Gesamtjahr 375.418 Impressionen und 203 Käufe
+- Die hinterlegte Zielgruppen-Persona ist auf den **31.01.2025**
+  datiert, die Konfiguration also seit Anfang 2025 unverändert
+- Der Änderungsverlauf 2026 enthält **keinen einzigen
+  Gotteslob-Eintrag** — seit der Pausierung wurde nichts angefasst
+
+**Als Schluss gekennzeichnet, nicht als Beleg:** Dass der Verstoß schon
+während der Saison 2025 anlag, ist daraus erschlossen, nicht direkt
+nachgewiesen. Ein Richtlinienereignis mit Datum habe ich nicht
+gefunden.
+
+### 14.5 Was am 12.09.2026 geändert wurde
+
+Fünf Eingriffe an **Gotteslob-Max-Performance** (ID 22187193352), alle
+nach Freigabe des Betreibers, alle einzeln gesetzt und **nach dem
+Speichern durch Neuladen der Seite geprüft**.
+
+| # | Einstellung | Von | Auf |
+|---|---|---|---|
+| 1 | Ziel-ROAS | 321,155 % | **180 %** |
+| 2 | Asset-Optimierung „Textanpassung" | aktiviert | **deaktiviert** |
+| 3 | Asset-Optimierung „Erweiterung der finalen URL" | aktiviert | **deaktiviert** |
+| 4 | Geräte | inkl. TV-Bildschirme | **Computer, Mobiltelefone, Tablets** |
+| 5 | Kampagnenstatus | Pausiert | **Aktiviert** |
+
+Unverändert: Budget 8,00 €/Tag, Conversion-Zielvorhaben
+„Kampagnenspezifisch: Käufe" (war bereits richtig gesetzt — **nicht**
+das Problem, an dem D Wichtelwelt krankte), Standort Deutschland,
+Sprache Deutsch, Merchant Center 5293575741 mit allen Produkten aus
+allen Feeds. Die drei übrigen Asset-Optimierungen (Bildoptimierung,
+Landingpage-Bilder, Video-Optimierung) bleiben aktiviert — sie
+erzeugen keinen Text.
+
+**Begründung für 180 % statt 321 %:** Der belegte Ist-Wert liegt bei
+182 % (Q4) bzw. 224 % (Gesamtjahr). Ein Ziel oberhalb des je
+Erreichten drosselt die Auslieferung — das ist exakt das Muster, das
+D Wichtelwelt seit dem 02.09. auf 2 % Budgetabruf gedrückt hat
+(Abschnitt 13.2). 180 % liegt 26 Punkte über Break-even und lässt
+Volumen zu. **Die Rampe geht danach nach oben**, wie bei Filzprodukte
+(400 → 450, heute 519–704 %); der Fehler wäre, zu hoch zu starten.
+
+**Begründung für 2 und 3:** Beide verstoßen gegen die Rote Linie
+„Einzelfreigabe je Text". Bei einem Produkt, das ohnehin an einer
+Richtlinie zu religiösen Überzeugungen hängt, ist von Google selbst
+erzeugter Anzeigentext ein doppeltes Risiko. **Nebenbefund:** Das
+Abschalten der Textanpassung hat die Erweiterung der finalen URL
+**automatisch mit deaktiviert** — Google weist im Dialog darauf hin,
+dass letztere erstere voraussetzt. Ein Klick, zwei Einstellungen.
+
+**Zum Startzeitpunkt:** Vorgeschlagen war der 20.–25.09., damit die
+Lernphase vor der Nachfrage liegt. **Der Betreiber hat sich am
+12.09.2026 für den sofortigen Start entschieden** („starte die
+Gotteslobhüllenkampagne sofort"). Das ist vertretbar und
+möglicherweise besser: Die Lernphase liegt damit vollständig vor dem
+Oktober-Anstieg.
+
+**Zur Wichtelseite wurde bewusst nichts getan** (Betreiber,
+12.09.2026, nach Vorlage der Verlustzahlen aus 14.2): kein neues
+Budget, keine neue Kampagne, die pausierte „Wichtel" bleibt pausiert.
+D Wichtelwelt wird am **~16.09.** wie geplant beurteilt.
+
+**Kontrolle nach dem Speichern:** Alle fünf Änderungen wurden nach
+vollständigem Neuladen der Seite gegengeprüft und standen. Die Falle
+mit den zwei Speichern-Knöpfen (Abschnitt 12.3) trat auch hier auf —
+der Abschnitt „Asset-Optimierung" hat einen inneren *Save* im Dialog
+„Optimierungseinstellungen verwalten" **und** einen äußeren
+*Speichern* in der Einstellungszeile. **Beide sind nötig.**
+
+### 14.6 Was jetzt zu erwarten ist
+
+Die Kampagne trägt seit der Aktivierung den Status **„Aktiv
+(eingeschränkt)"** — erwartungsgemäß, siehe 14.4. Die Summe der
+Kampagnenbudgets steigt damit von 16,50 € auf **24,50 €/Tag**; bei
+zuletzt 14 % Abruf ist das keine reale Ausgabenerhöhung in dieser
+Höhe, aber die Ausgaben werden steigen.
+
+**Zwei Dinge, die schiefgehen können und beim nächsten Kontrollblick
+zu prüfen sind:**
+
+1. **Die Kampagne liefert trotz 180 % nicht aus.** Dann ist die
+   Richtlinienbeschränkung doch wirksamer als angenommen, und die
+   Schlussfolgerung aus 14.4 war falsch
+2. **Sie liefert aus, bleibt aber unter 154 %.** Dann kostet sie Geld,
+   und das Ziel muss hoch statt runter — der umgekehrte Fall zu dem,
+   was heute angenommen wurde
+
+### 14.7 Termine
+
+- **~17.–19.09.2026 — nächster Kontrollblick** (Takt 5–7 Tage). Dann
+  zusätzlich: Liefert Gotteslob überhaupt aus? Die ersten Tage sind
+  Lernphase, Zahlen also nur auf Auslieferung prüfen, nicht auf ROAS
+- **~16.09.2026 — D Wichtelwelt beurteilen** und **Filzprodukte
+  mitbeurteilen** (zusammengelegt, siehe 13.7)
+- **~26.09.2026 — Gotteslob erstmals bewerten.** Zwei Wochen nach der
+  Aktivierung, dann ist die Lernphase durch. Entscheidungsfrage:
+  ROAS über oder unter 154 %? Bei deutlich darüber der erste
+  Rampenschritt Richtung 220 %
+- **~20.09.2026** — Markenprüfung „Taeradesign", danach
+  Markenausschluss in der PMax. **Betrifft jetzt auch Gotteslob** —
+  dort sind ebenfalls keine Markenlisten ausgeschlossen
+- **September, ohne Tag — F Kommunion anlegen**, live ~01.10. Weiterhin
+  ohne Datum und weiterhin der einzige Punkt mit hartem Außentermin
+- **~12.10.2026** — Auto-Apply-Status (vorgezogen erledigt am 12.09.)
+
+### 14.8 Offen und nicht erledigt
+
+- **Die Marge ist nur für „etwa 65 %" pauschal bekannt.** Ob sie bei
+  Gotteslobhüllen, Filzprodukten und Wichtelzubehör gleich ist, wurde
+  nicht gefragt. Bei unterschiedlichen Spannen braucht jede Kampagne
+  ihren eigenen Break-even. **Das ist die nächste Zahl, die fehlt**
+- **Die Asset-Optimierung bei Filzprodukte steht weiterhin auf allen
+  fünf.** Was heute bei Gotteslob getan wurde, ist dort seit Wochen
+  eine Wiedervorlage ohne Auslöser (13.7). Nach dem Gotteslob-Start
+  ist der Vergleich möglich: Läuft Gotteslob ohne Textanpassung
+  sauber, entfällt das Hauptargument fürs Anlassen
+- **„Gotteslobhülle-Shopping-Kampagne" (Suchnetzwerk, pausiert,
+  2 €/Tag)** wurde nicht angefasst. Sie hat 2025 bei 75 Impressionen
+  1,34 € gekostet und nichts verkauft. Vor einer Reaktivierung wäre zu
+  klären, was sie neben der PMax überhaupt beitragen soll
