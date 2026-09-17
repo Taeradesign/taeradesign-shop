@@ -1563,3 +1563,183 @@ zu prüfen sind:**
   2 €/Tag)** wurde nicht angefasst. Sie hat 2025 bei 75 Impressionen
   1,34 € gekostet und nichts verkauft. Vor einer Reaktivierung wäre zu
   klären, was sie neben der PMax überhaupt beitragen soll
+
+## 15. Kontrollblick am 17.09.2026 — zwei Kampagnen auf demselben Sortiment
+
+Fünf Tage nach dem letzten Kontrollblick (Abschnitt 13), also im Takt.
+Konto 932-417-3105, angemeldet als `tk@taeradesign.de`. Zuerst nur
+gelesen; die Änderungen in 15.5 erst nach Freigabe des Betreibers.
+
+### 15.1 Die Zahlen
+
+**Fenster 03.–15.09.2026**, abgelesen. Der 16. und 17.09. sind
+ausgeschlossen (Fallstrick Abschnitt 11). ROAS selbst gerechnet,
+Break-even 154 % (Abschnitt 14.1).
+
+| Kampagne | Impr. | Umsatz | Kosten | Käufe | ROAS | gegen 154 % |
+|---|---:|---:|---:|---:|---:|---|
+| Gotteslob (aktiv erst ab 12.09.) | 5.390 | 98,46 € | 33,38 € | 2 | 295 % | darüber |
+| Filzprodukte | 2.857 | 89,00 € | 21,38 € | 1 | 416 % | darüber, unter Ziel 450 % |
+| D Wichtelwelt | 468 | 0,00 € | 0,93 € | 0 | 0 % | — |
+| C Brand | 14 | 0,00 € | 0,93 € | 0 | — | — |
+| **Konto** | 8.729 | 187,46 € | 56,61 € | 3 | 331 % | darüber |
+
+**Gotteslob je Tag** (abgelesen, 16./17. unreif):
+
+| | 12.09. | 13.09. | 14.09. | 15.09. | 16.09. | 17.09. |
+|---|---:|---:|---:|---:|---:|---:|
+| Impr. | 668 | 1.838 | 1.737 | 1.147 | 2.238 | 1.050 |
+| Kosten | 3,80 € | 14,03 € | 7,53 € | 8,02 € | 8,16 € | 5,28 € |
+
+**Filzprodukte, Volumen je Tag:** August 461 → 03.–10.09. 219 →
+11.–15.09. **~222** *(gerechnet: Summe 03.–15. minus die abgeleitete
+Zeile 03.–10. aus 13.1)*. Kein Kauf nach dem 06.09.
+
+**D Wichtelwelt 11.–17.09.:** 231 Impressionen, 0,03 € Kosten.
+
+### 15.2 Befund 1: Gotteslob liefert aus — und schöpft das Budget voll aus
+
+Die Sorge aus 14.6 („liefert trotz 180 % nicht aus") ist erledigt. Die
+Kampagne trägt seit dem Start den Status **„Durch das Budget
+eingeschränkt"**. Der Satz „das Budget ist keine wirksame Stellschraube"
+(Morgenblick, „Zahlen, die nicht mehr stimmen") gilt damit für Gotteslob
+nicht mehr.
+
+### 15.3 Befund 2: Gotteslob war eine zweite Filzplatten-Kampagne
+
+Produkttypen in Gotteslob, 11.–17.09.2026:
+
+| Produkttyp | Impr. | Kosten | Anteil | Käufe | Umsatz |
+|---|---:|---:|---:|---:|---:|
+| Kunst- & Bastelmaterialien (Filzplatten) | 3.173 | 25,09 € | **53 %** | 0 | 0,00 € |
+| `cpb_product` | 984 | 9,80 € | 21 % | 1 | 82,98 € |
+| Wichtelzubehör | 1.491 | 4,89 € | 10 % | 1 | 15,48 € |
+| Kein Produkttyp | 2.431 | 2,35 € | 5 % | 0 | 0,00 € |
+| übrige | | ~4,9 € | 11 % | 0 | 0,00 € |
+| **Gesamt** | 10.085 | 47,08 € | | 2 | 98,46 € |
+
+- **Die Gotteslobhülle selbst bekam 8,42 € von 46,82 € — 18 %.** Ein Kauf,
+  82,98 €
+- **Der zweite Kauf (15,48 €) war Wichtelzubehör** (Türkranz). Die 295 %
+  aus 15.1 beschreiben also nicht die Gotteslobhülle
+- Die Ursache stand in den Produktgruppen: **Gotteslob und Filzprodukte
+  bewarben beide „Alle Produkte", ungeteilt** — 692 Artikel, zwei
+  PMax-Kampagnen, Ziel 180 % gegen 450 %. In jeder Auktion um dieselben
+  Artikel stand Taeradesign gegen sich selbst. Nur Wichtelwelt und die
+  pausierte „Wichtel" waren auf `wichtelzubehör` eingeschränkt
+- **Die Feststellung in 14.5 „Merchant Center mit allen Produkten aus
+  allen Feeds" war richtig abgelesen, aber nicht als Problem erkannt.**
+  Das ist der Fehler vom 12.09.
+
+**Nicht belegt, als Vermutung festgehalten:** Filzprodukte umfasst auch
+`wichtelzubehör` und konkurriert damit ebenso mit D Wichtelwelt. Das
+könnte einen Teil des Einbruchs um 90 % erklären (13.2). Nicht geändert,
+siehe 15.5.
+
+### 15.4 Befund 3: Das Personalisierungs-Plugin im Feed
+
+Das Plugin („cpb", vermutlich Custom Product Builder) hinterlässt zwei
+Spuren im Merchant-Center-Feed:
+
+1. **`cpb_product` — die Parents.** 10 Artikel, alle „aus Filz, frei
+   personalisierbares Unikat": Gotteslobhülle, Urkundenmappe, Zeugnismappe,
+   Schlüsselanhänger, Rosenkranztasche, Heimtierausweishülle, Pillenetui,
+   Equidenpasshülle, Brillenetui, Türanhänger. **Die Produkttypen
+   „gotteslobhülle", „heimtierausweishülle", „urkundenmappe",
+   „rosenkranzkette" existieren noch, enthalten aber 0 Produkte** — das
+   Plugin hat den Produkttyp offenbar überschrieben. **Folge: Ein Filter
+   auf Produkttyp „gotteslobhülle" ergibt eine leere Kampagne**
+2. **`cpb_ordered` — Kopien aus Kundenbestellungen.** 8 Artikel mit
+   Titelzusatz „– Personalisiertes Produkt", teils abweichendem Preis
+   (Gotteslobhülle 36,99 € statt 28,99 €), drei davon „Nicht berechtigt"
+   (einfarbiges Bild). Sie liefen **in Filzprodukte und Gotteslob**; in
+   Wichtelwelt, Wichtel und „Shopping – Alle Produkte" nicht berechtigt.
+   Kosten 11.–17.09.: 0,83 € (ein Klick)
+
+> **Regel, Betreiber 17.09.2026: Produkte mit Produkttyp `cpb_ordered`
+> werden nicht beworben — nur das Parent-Produkt.** Gilt für jede
+> Produktgruppe jeder PMax- und Shopping-Kampagne, auch künftige.
+
+**Im Feed gibt es genau eine Gotteslobhülle als Parent**
+(`shopify_de_8665393430853_47098396213573`, 28,99 €). Die Kampagne mit
+rund 1.500 € Ergebnis 2025 (14.2) hängt an einem einzigen Artikel.
+
+### 15.5 Was am 17.09.2026 geändert wurde
+
+Zwei Eingriffe, beide nur an den Produktgruppen (Eintragsgruppen), beide
+nach Freigabe, **nach Neuladen gegengeprüft**.
+
+**1. Gotteslob-Max-Performance**, Asset-Gruppe „Gotteslobhüllen":
+
+| Produktgruppe | Vorher | Nachher |
+|---|---|---|
+| Alle Produkte | aktiv, ungeteilt | unterteilt nach Artikel-ID |
+| → `shopify_de_8665393430853_47098396213573` (Gotteslobhülle) | — | **aktiv** |
+| → Alles andere | — | **ausgeschlossen** |
+
+Die Bestellkopie der Gotteslobhülle ist damit ebenfalls draußen.
+
+**2. Filzprodukte**, Asset-Gruppe „Filzprodukte":
+
+| Produktgruppe | Vorher | Nachher |
+|---|---|---|
+| Alle Produkte | aktiv, ungeteilt | unterteilt nach Produkttyp |
+| → `cpb_ordered` | — | **ausgeschlossen** |
+| → `cpb_product` | — | unterteilt nach Artikel-ID |
+| → → Gotteslobhülle `…8665393430853…` | — | **ausgeschlossen** |
+| → → Alles andere in `cpb_product` | — | aktiv |
+| → Alles andere in „Alle Produkte" | — | aktiv |
+
+**Falle, die jeder Unterteilung droht:** Beim Unterteilen setzt Google
+die gewählten Werte auf *aktiv* und **„Alles andere" auf
+*ausgeschlossen***. Für Gotteslob war das gewollt. Bei Filzprodukte
+musste es zweimal umgedreht werden — dort standen jeweils für etwa eine
+Minute alle übrigen Produkte auf ausgeschlossen. Wirkung vernachlässigbar,
+aber der Änderungsverlauf trägt deshalb mehr Einträge als zwei.
+**Nach jeder Unterteilung die Ausschluss-Symbole aller Zeilen prüfen.**
+
+**Bewusst nicht geändert:**
+
+- **Filzprodukte-Ziel bleibt 450 %.** Nach 13.7 wäre bei ausbleibender
+  Erholung die Senkung auf 400 % angezeigt. Solange zwei Kampagnen auf
+  dieselben Artikel boten, war die Wirkung nicht messbar; mit der heutigen
+  Trennung wäre jede zusätzliche Änderung doppelt vermengt
+- **`wichtelzubehör` bleibt in Filzprodukte.** Das ändert, was die
+  Kampagne ist — eigene Entscheidung
+- **Budget Gotteslob bleibt 8 €/Tag.** Mit nur einem Artikel ist offen,
+  ob die Einschränkung durch das Budget bleibt
+
+### 15.6 Was jetzt zu erwarten ist
+
+1. **Gotteslob mit einem Artikel kann deutlich weniger ausliefern.** Das
+   ist dann die ehrliche Zahl dessen, was die Gotteslobhülle allein trägt
+2. **Filzprodukte sollte Volumen zurückgewinnen**, falls die
+   Selbstkonkurrenz ein Teil des Rückgangs seit dem 12.09. war. Der
+   Rückgang **davor** (13.3) erklärt sich dadurch nicht
+3. **Die Artikel-ID ist brüchig.** Legt das Plugin die Gotteslobhülle neu
+   an, ist Gotteslob still leer. Robuster wäre ein eigenes Label im Feed
+   (15.7)
+
+### 15.7 Termine und offene Punkte
+
+- **~22.–24.09.2026 — nächster Kontrollblick.** Zusätzlich: Liefert
+  Gotteslob mit einem Artikel aus? Hat Filzprodukte wieder Volumen?
+- **~01.10.2026 (statt ~26.09.) — Gotteslob erstmals bewerten.**
+  Seit dem 17.09. ist es faktisch eine neue Kampagne; eine Woche mit einem
+  Kauf trägt keine Entscheidung. **Entschieden am 17.09.2026 (Betreiber)**
+- **~20.09.2026 — Markenprüfung „Taeradesign"**, danach Markenausschluss
+  bei Filzprodukte und Gotteslob. Unverändert
+- **September, ohne Tag — F Kommunion anlegen**, live ~01.10.
+  Unverändert ohne Datum
+- **D Wichtelwelt (Termin ~16.09., heute abgearbeitet):** kostet
+  praktisch nichts mehr (0,03 € in sieben Tagen), liefert aber auch nicht
+  aus. Ursache nicht geklärt; Kandidaten sind die fehlende Kaufhistorie
+  für „kampagnenspezifisch Käufe" und die Konkurrenz durch Filzprodukte
+  (15.3). **Entschieden am 17.09.2026 (Betreiber): so lassen, Anfang
+  November vor der Wichtelsaison neu entscheiden**
+- **Shop, ohne Termin — Feed aufräumen:** (a) eigenes Label für die
+  Gotteslobhülle (z. B. `custom_label_0 = gotteslob`) statt Artikel-ID;
+  (b) klären, ob `cpb_ordered`-Kopien überhaupt in den Feed gehören;
+  (c) ob das Plugin die Produkttypen überschreibt und ob sich das
+  abstellen lässt
+- **~12.10.2026 — Auto-Apply.** Unverändert
