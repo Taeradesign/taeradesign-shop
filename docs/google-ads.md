@@ -1743,3 +1743,107 @@ aber der Änderungsverlauf trägt deshalb mehr Einträge als zwei.
   (c) ob das Plugin die Produkttypen überschreibt und ob sich das
   abstellen lässt
 - **~12.10.2026 — Auto-Apply.** Unverändert
+
+## 16. Kontrollblick am 22.09.2026 — Filzprodukte erholt, Gotteslob gibt mehr als die Hälfte außerhalb des Produkts aus
+
+Fünf Tage nach dem letzten Kontrollblick (Abschnitt 15), also im Takt.
+Konto 932-417-3105, angemeldet als `tk@taeradesign.de`, per Claude in
+Chrome. **Nur gelesen, nichts geändert.**
+
+### 16.1 Die Zahlen
+
+**Fenster 18.–20.09.2026**, abgelesen — die drei ganzen Tage nach der
+Trennung der Produktgruppen am 17.09. (15.5). Der 21. und 22.09. sind
+ausgeschlossen (Fallstrick Abschnitt 11). ROAS selbst gerechnet,
+Break-even 154 % (14.1).
+
+| Kampagne | Status | Impr. | Umsatz | Kosten | Käufe | ROAS | gegen 154 % |
+|---|---|---:|---:|---:|---:|---:|---|
+| Gotteslob | Aktiv (eingeschränkt), **Durch das Budget eingeschränkt** | 1.804 | 0,00 € | 23,76 € | 0 | 0 % | darunter |
+| Filzprodukte | Aktiv | 1.653 | 2,50 € | 8,66 € | 1 | 29 % | darunter |
+| D Wichtelwelt | Aktiv | 218 | 0,00 € | 0,28 € | 0 | — | — |
+| C Brand | Aktiv (eingeschränkt) | 4 | 0,00 € | 0,01 € | 0 | — | — |
+| **Konto** | | 3.679 | 2,50 € | 32,71 € | 1 | 8 % | darunter |
+
+**Je Tag:**
+
+| | 18.09. | 19.09. | 20.09. |
+|---|---:|---:|---:|
+| Gotteslob Impr. | 356 | 753 | 695 |
+| Gotteslob Kosten | 4,77 € | 12,61 € | 6,38 € |
+| Filzprodukte Impr. | 670 | 477 | 506 |
+| Filzprodukte Kosten | 2,67 € | 5,50 € | 0,49 € |
+
+Drei Tage mit einem Kauf über 2,50 € tragen keine ROAS-Aussage. Die
+Tabelle beschreibt Auslieferung, nicht Wirtschaftlichkeit.
+
+### 16.2 Befund 1: Filzprodukte hat sein Volumen zurück
+
+**Rund 550 Impressionen am Tag**, gegen ~222 am 11.–15.09. (15.1) und 461
+im August. Die Vermutung aus 15.6 — ein Teil des Rückgangs war
+Selbstkonkurrenz mit Gotteslob um dieselben Artikel — ist damit gestützt,
+nicht bewiesen: Drei Tage, und zeitgleich beginnt die Herbstnachfrage.
+**Der Rückgang vor dem 12.09. (13.3) ist davon nicht erklärt.**
+
+### 16.3 Befund 2: Gotteslob liefert mit einem Artikel — aber das Geld geht überwiegend woandershin
+
+Die Kampagne liefert weiter voll aus: 7,92 €/Tag bei 8 € Budget, Status
+unverändert „Durch das Budget eingeschränkt". Die Sorge aus 15.6 („kann
+deutlich weniger ausliefern") ist nicht eingetreten.
+
+**Aber:** Der Produktbericht (Produkte, 18.–20.09.) weist der
+Gotteslobhülle `…8665393430853…` nur zu:
+
+| | Impr. | Klicks | CTR | Kosten | Käufe |
+|---|---:|---:|---:|---:|---:|
+| Gotteslobhülle (Produktbericht) | 1.405 | 26 | 1,85 % | 9,47 € | 0 |
+| Gotteslob (Kampagne gesamt) | 1.804 | — | — | 23,76 € | 0 |
+| **Differenz** | ~400 | | | **~14,29 € (60 %)** | |
+
+Da seit 15.5 nur dieser eine Artikel in der Kampagne aktiv ist und die
+Gotteslobhülle in Filzprodukte ausgeschlossen ist, sind die 9,47 € der
+Kampagne zuzuordnen. **Rund 60 % der Ausgaben stehen bei keinem Produkt.**
+Vor der Trennung lag der Anteil ohne Produkttyp bei 5 % (15.3, „Kein
+Produkttyp" 2,35 € von 47,08 €).
+
+**Vermutung, nicht belegt:** Mit nur einem Produkt verschiebt die PMax
+das Budget in Werbeflächen ohne Produktbezug (Display, YouTube,
+Textanzeigen aus den Assets). **Zweite mögliche Ursache:** Der
+Produktbericht trägt den Hinweis, dass Google ab 15.06.2026 alle
+Netzwerkdaten für PMax einrechnet, „sobald Ihr Konto aktualisiert worden
+ist" — die Differenz kann also auch eine Berichtslücke sein.
+**Klären über den Kanalbericht der Kampagne**, vor der Bewertung am
+~01.10.
+
+### 16.4 Kleinbefunde
+
+- **Regel `cpb_ordered` (15.4): kein Fund.** Filter Produkttyp =
+  `cpb_ordered`, sortiert nach Impressionen: alle 0, alle „Nicht
+  berechtigt in allen Kampagnen"
+- **Markenliste: keine angelegt.** Tools → Gemeinsam genutzte Bibliothek
+  → Markenlisten ist leer. Ob „Taeradesign" inzwischen in Googles
+  Markenbibliothek steht (Anfrage 08.08., Abschnitt 8 Schritt B), ist
+  **nicht geprüft** — das Suchfeld liegt im Dialog „Markenliste
+  erstellen", die Eingabe dort blieb in dieser Sitzung gesperrt. Dialog
+  ohne Speichern geschlossen. **Offen für den Betreiber**
+- **„Aktive Entwürfe: 1"** in der Kampagnenliste ist „Kampagne-
+  Urkundenmappe" (PMax, in Bearbeitung, 05/2025) — bekannt, Abschnitt 1
+  und 8
+- **Status unverändert:** Gotteslob „Alle Asset-Gruppen sind durch
+  Richtlinien eingeschränkt" (bekannt, 14.4); C „Eingeschränkte
+  Gebotseinstellungen"
+- D Wichtelwelt: 218 Impressionen, 0,28 € — wie seit dem 02.09., bleibt
+  bis November (15.7)
+
+### 16.5 Was daraus folgt
+
+- **Nichts geändert.** Der Takt dient dem Bemerken (Abschnitt 11)
+- **~01.10.2026 — Gotteslob bewerten, unverändert.** Maßstab: bis dahin
+  rund 110 € Kosten; für 154 % braucht es rund 170 € Umsatz, **etwa sechs
+  Gotteslobhüllen zu 28,99 €** *(gerechnet: 14 Tage × 7,92 € ≈ 111 €;
+  × 1,54 ≈ 171 €; ÷ 28,99 € ≈ 5,9)*. Dazu die Frage aus 16.3
+- **Nächster Kontrollblick ~27.–29.09.2026**
+- **Markenprüfung:** Betreiber prüft im Dialog „Markenliste erstellen";
+  wird „Taeradesign" gefunden, Markenausschluss bei Filzprodukte und
+  Gotteslob (Termin war ~20.09.)
+- **F Kommunion** weiter ohne Tag, live ~01.10. — in neun Tagen
