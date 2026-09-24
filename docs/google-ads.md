@@ -1847,3 +1847,85 @@ ist" — die Differenz kann also auch eine Berichtslücke sein.
   wird „Taeradesign" gefunden, Markenausschluss bei Filzprodukte und
   Gotteslob (Termin war ~20.09.)
 - **F Kommunion** weiter ohne Tag, live ~01.10. — in neun Tagen
+
+## 17. F Kommunion — Entwurf und Freigabe am 22.09.2026
+
+### 17.1 Warum jetzt: die Kommunion-Saison beginnt im Herbst
+
+**Betreiber, 22.09.2026:** Gotteslobhüllen werden **jetzt schon für die
+Kommunion im April 2027** gekauft — teils als Weihnachtsgeschenk, teils
+weil **der Kommunionunterricht jetzt beginnt**. Die Saison startet im
+Herbst, nicht im Januar. Deshalb ist es wichtig, die Gotteslobhülle ab
+jetzt zu bewerben.
+
+Das erklärt das Q4-Plus der Gotteslobhülle (+252 %, `ist-zustand.md` §7)
+und berichtigt die Annahme in Abschnitt 8, Stufe 2 („Anlage im Dezember,
+live 1. Januar"). **Die Anzeigengruppe B „Kommunion-Geschenk
+personalisiert" bleibt beim Januar** — Geschenke für den Festtag werden
+später gekauft als die Hülle für den Unterricht (Annahme, nicht
+gemessen).
+
+### 17.2 Der Zielkonflikt mit Gotteslob
+
+Seit dem 17.09. bewirbt die Gotteslob-PMax nur noch die Gotteslobhülle
+(15.5). Eine Suchkampagne mit genau passenden Keywords auf dieselbe
+Hülle übernimmt die identischen Suchanfragen von der PMax — gerade in der
+Woche, in der Gotteslob erstmals bewertet wird (~01.10.).
+
+**Entschieden (Betreiber, 22.09.2026): F wird pausiert angelegt.** Über
+die Aktivierung wird am ~01.10. zusammen mit der Gotteslob-Bewertung
+entschieden. Spricht die Frage aus 16.3 gegen die PMax (Geld überwiegend
+ohne Produktbezug), ist F die Alternative — ablösend, nicht daneben.
+
+### 17.3 Die freigegebenen Werte
+
+**Kampagne:** Suchkampagne „Kommunion", nur Google-Suchnetzwerk
+(Partner und Display ab), Deutschland, Deutsch, politische Werbung
+„Nein". **AI Max, Textanpassung und URL-Erweiterung aus** — und nach der
+Anlage in den Kampagneneinstellungen gegenprüfen (bei C und G stand es
+in der Zusammenfassung trotzdem als aktiviert, Abschnitt 8).
+
+**Gebot:** Klicks maximieren, **CPC-Deckel 0,50 €**. **Budget 3 €/Tag.**
+*Rechnung:* 28,99 € × Conversion-Rate 3,3–4,9 % (Q4 2025 bzw. Q1 2026,
+`ist-zustand.md` §7) ÷ 1,54 ergibt einen Break-even-CPC von 0,62–0,92 €;
+die PMax zahlte für die Hülle 18.–20.09. im Schnitt 0,36 €.
+
+**Anzeigengruppe A Gotteslobhülle.** Zielseite:
+`taeradesign.com/products/gotteslobhulle-aus-filz-frei-personalisierbares-unikat`
+(Produktseite mit Konfigurator).
+
+**Keywords (genau passend):** [gotteslobhülle] · [gotteslob hülle] ·
+[gotteslobhülle mit namen] · [gotteslobhülle personalisiert] ·
+[gotteslobhülle filz] · [gotteslobhülle bestickt] ·
+[gotteslobhülle kommunion]. Bewusst nicht: „gotteslob" allein (sucht das
+Buch), „gotteslob einband" (eher Leder).
+
+**Ausschlüsse (Kampagnenebene, 13):** schnittmuster, selber nähen,
+selber machen, anleitung, kostenlos, gebraucht, amazon, ebay, etsy —
+**neu:** leder, häkeln, stricken, nähen.
+
+**Titel (11):** Gotteslobhülle mit Namen · Gotteslobhülle
+personalisiert · Gotteslobhülle aus Filz · Im Konfigurator gestalten ·
+Mit Live-Vorschau gestalten · Bestickt statt bedruckt · Handarbeit aus
+Deutschland · 3 mm Filz, Markenstickgarn · Farbe, Motiv und Text
+wählbar · Ein echtes Unikat · Zur Kommunion und Firmung
+
+**Gestrichen (Betreiber):** „Versand in 24 Stunden" und „Geschenkidee zu
+Weihnachten".
+
+**Textzeilen (4):**
+
+1. Aus 3 mm Filz, bestickt statt bedruckt – gestalte sie im
+   Konfigurator mit Live-Vorschau.
+2. Filzfarbe, Motiv, Garnfarben und Text frei wählbar – Handarbeit aus
+   Deutschland.
+3. Mit deutschem Markenstickgarn bestickt statt mit Folie bedruckt –
+   jedes Stück ein Unikat.
+4. Name vorne, hinten und auf dem Buchrücken – Schritt für Schritt
+   selbst gestaltet.
+
+Kein Preis im Text — ändert er sich, stimmt die Anzeige nicht mehr.
+Alle Aussagen am 22.09.2026 gegen die Produktseite geprüft (3 mm Filz,
+deutsches Markenstickgarn, bestickt statt Folie, Handarbeit Made in
+Germany, Text Vorder-/Rückseite/Buchrücken laut Konfigurator,
+`ist-zustand.md` §2).
