@@ -1929,3 +1929,177 @@ Alle Aussagen am 22.09.2026 gegen die Produktseite geprüft (3 mm Filz,
 deutsches Markenstickgarn, bestickt statt Folie, Handarbeit Made in
 Germany, Text Vorder-/Rückseite/Buchrücken laut Konfigurator,
 `ist-zustand.md` §2).
+
+### 17.4 Die Anlage am 24.09.2026 — abgebrochen, weil Google den Zugriff drosselt
+
+**Versuch, F Kommunion nach den Werten aus 17.3 anzulegen.** Konto
+932-417-3105, angemeldet als `tk@taeradesign.de`, per Claude in Chrome.
+**Die Kampagne ist nicht veröffentlicht** — sie steht weiterhin als
+Entwurf und kostet nichts.
+
+**Fortgesetzt wurde der vorhandene Entwurf**, nicht neu angelegt: In der
+Kampagnenliste stand seit dem 22.09. „Entwurf: Kommunion, In Bearbeitung,
+Suchnetzwerk" mit dem Link „Fertigstellen" (Kampagne 281499253029852,
+Entwurf 10215224935). Deshalb zählte die Liste am 24.09. **zwei** aktive
+Entwürfe statt einem — der zweite ist die bekannte Urkundenmappe
+(Abschnitt 1 und 8, 16.4).
+
+#### Was im Entwurf bereits richtig stand
+
+Gegen 17.3 geprüft, unverändert übernommen:
+
+- Suchkampagne, **Google-Suchnetzwerk-Partner aus, Displaynetzwerk aus**
+- Deutschland, Deutsch, politische Werbung „Nein", keine
+  Zielgruppensegmente
+- **AI Max aus**; Asset-Optimierung „Textanpassung und Erweiterung der
+  finalen URL deaktiviert"; Anzeigengruppen-AI-Max „Für die
+  Anzeigengruppe deaktiviert"
+- Gebot **Klicks maximieren, CPC-Deckel 0,50 €**
+- Alle **sieben Keywords genau passend**, wortgleich mit 17.3
+
+#### Was am 24.09. eingetragen wurde
+
+- Finale URL auf die Produktseite der Gotteslobhülle
+- **Alle elf Anzeigentitel**, wortgleich mit 17.3
+- **Alle vier Textzeilen**, wortgleich (88/90, 80/90, 89/90, 81/90
+  Zeichen)
+- Die KI-Anzeigenerstellung wurde **übersprungen** — die Rote Linie
+  „Einzelfreigabe je Text" gilt auch hier
+
+Die Anzeigeneffektivität stand danach auf **„Gut"**. Die Schrittmarken
+„Keywords und Anzeigen" und „Kampagneneinstellungen" waren grün, die
+Eingaben also gespeichert.
+
+#### Der Abbruch
+
+Ab dem Budget-Schritt kam bei **jedem** Speichervorgang der Dialog
+„Identität bestätigen" (erst „Mit Passkey bestätigen", dann
+„Bestätigen", dann „Erneut versuchen"). Jede Bestätigung ließ genau
+eine Aktion durch, danach stand unten links dauerhaft **„Änderungen
+konnten nicht gespeichert werden"**; Klicks auf andere Schritte bewirkten
+nichts mehr.
+
+**Die Ursache steht in der Kampagnenübersicht:** die Kontowarnung
+**„Konto vor nicht autorisierten Aktivitäten schützen"**. Google hat die
+automatisierte Bedienung als verdächtig eingestuft und Schreibvorgänge
+gedrosselt. **Dagegen wurde nicht angearbeitet** — ein Sicherheitsgate
+wird nicht umgangen. Die Einrichtung wurde abgebrochen.
+
+#### Was offen ist
+
+1. **Budget benutzerdefiniert 3,00 €/Tag.** Zuletzt stand der Wert im
+   Feld, der Überprüfen-Schritt hatte ihn aber zwischendurch schon
+   einmal als „Budget: Wert ist erforderlich" gemeldet — **vor dem
+   Veröffentlichen prüfen.** Googles Vorschlag lautet 2,21 € und ist
+   nicht die Freigabe
+2. **Zielvorhaben umstellen** — siehe unten
+3. Veröffentlichen und **sofort pausieren** (17.2)
+4. Anzeigengruppe von „Anzeigengruppe 1" auf **„A Gotteslobhülle"**
+5. Die dreizehn Kampagnenausschlüsse aus 17.3
+6. Danach in den **Kampagneneinstellungen** gegenprüfen, dass AI Max,
+   Textanpassung und URL-Erweiterung wirklich aus sind — bei C und G
+   stand in der Zusammenfassung etwas anderes als in den Einstellungen
+   (Abschnitt 8)
+
+#### Nebenbefund: die Kampagne trug den Kontostandard als Zielvorhaben
+
+In der Überprüfen-Ansicht stand als Zielvorhaben **„In den
+Einkaufswagen, Bezahlvorgang starten, Kontakte, Sonstige,
+Seitenaufrufe, Anruf-Leads, Käufe"** — der Kontostandard. Das ist genau
+die Konstellation, die bei D Wichtelwelt der Kernbefund war (12.2:
+optimierte auf den Kontostandard samt Anruf-Leads, Ergebnis null Käufe).
+
+Bei F Kommunion ist der Schaden zunächst kleiner, weil „Klicks
+maximieren" überhaupt nicht auf Conversions optimiert. Aber die
+Berichtszahlen mischen Seitenaufrufe unter die Käufe, und bei einer
+späteren Umstellung auf eine Conversion-Strategie greift derselbe
+Fehler.
+
+**Entschieden (Betreiber, 24.09.2026): auf „kampagnenspezifisch, nur
+Käufe" umstellen**, wie bei D am 02.09. (12.3). **Nicht ausgeführt** —
+der Abbruch kam davor.
+
+#### Offen für den Betreiber
+
+- **Die Kontowarnung „Konto vor nicht autorisierten Aktivitäten
+  schützen" ansehen.** Ob danach wieder normal gearbeitet werden kann
+  oder ob das Konto für automatisierte Zugriffe dauerhaft dichter
+  sitzt, ist nicht geprüft
+- **Fünf Sitelinks auf Kontoebene** hängen bereits in der Anzeige. Sie
+  standen nicht in der Freigabe, sind aber Kontostandard und laufen in
+  allen Kampagnen mit. Unverändert gelassen — bewusst zu entscheiden,
+  ob sie für Kommunion bleiben
+
+### 17.5 Zwischenstand der Zahlen am 24.09.2026 — kein Kontrollblick
+
+**Kein Kontrollblick im Sinne von Abschnitt 11** — der nächste ist
+~27.–29.09. fällig (16.5). Beim Anlageversuch mitgelesen, weil zwei
+neue Tage vorlagen. Nur gelesen, nichts geändert.
+
+#### Fenster 18.–22.09.2026
+
+Fünf Tage; der 23. und 24.09. sind ausgeschlossen (Fallstrick
+Abschnitt 11). ROAS selbst gerechnet, Break-even 154 % (14.1).
+
+| Kampagne | Impr. | Umsatz | Kosten | Käufe |
+|---|---:|---:|---:|---:|
+| Gotteslob | 3.772 | **0,00 €** | 37,89 € | 0 |
+| Filzprodukte | 2.308 | 2,50 € | 10,91 € | 1 |
+| Wichtelwelt | 366 | 0,00 € | 0,54 € | 0 |
+| Brand Taeradesign | 12 | 0,00 € | 0,52 € | 0 |
+| **Konto** | 6.458 | 2,50 € | 49,86 € | 1 |
+
+Die zwei neuen Tage (21.+22.09.), **als Differenz zu 16.1 gerechnet,
+nicht einzeln abgelesen:** Konto 2.779 Impressionen, 17,15 € Kosten,
+**0 € Umsatz**; davon Gotteslob 1.968 Impressionen und 14,13 €, also
+rund 7,07 €/Tag.
+
+#### Seit der Reaktivierung, 12.–22.09.2026
+
+| Kampagne | Impr. | Umsatz | Kosten | Käufe | ROAS | gegen 154 % |
+|---|---:|---:|---:|---:|---:|---|
+| Gotteslob | 12.751 | 98,46 € | 86,32 € | 2 | 114 % | darunter |
+| Filzprodukte | 3.765 | 2,50 € | 17,10 € | 1 | 15 % | darunter |
+| Wichtelwelt | 585 | 0,00 € | 0,54 € | 0 | — | — |
+| **Konto** | 17.126 | 100,96 € | 105,16 € | 3 | **96 %** | darunter |
+
+#### Der Befund, der auf den Termin ~01.10. zeigt
+
+**Der gesamte Gotteslob-Umsatz fiel vor dem 18.09.** Aus beiden
+Tabellen: 98,46 € über 12.–22.09., davon 0,00 € über 18.–22.09. Alles
+kam also aus den Tagen, in denen die Kampagne noch Filzplatten und
+Wichtelzubehör mitbewarb (15.3). **Seit der Trennung der Produktgruppen
+am 17.09.: fünf Tage, 3.772 Impressionen, 37,89 € Kosten, kein
+einziger Kauf.**
+
+Gegen den Maßstab aus 16.5 — bis zum 01.10. rund 110 € Kosten, für
+154 % rund 170 € Umsatz, also etwa sechs Gotteslobhüllen: **nach fünf
+von rund vierzehn Tagen steht es bei 0 von 6**, bei rund einem Drittel
+des Budgets. Damit die Bewertung am 01.10. über die Linie kommt, müssten
+alle sechs Hüllen in den verbleibenden neun Tagen kommen.
+
+**Bewertung (Claude, 24.09.2026):** unwahrscheinlich. Die Frage am
+01.10. dürfte nicht mehr „Rampenschritt oder Ziel hoch" lauten, sondern
+ob die PMax für ein einzelnes Produkt der richtige Kanal ist — und damit
+rückt die in 17.2 vorgesehene Ablösung durch F Kommunion näher.
+
+#### Kleinbefunde
+
+- **„Durch das Budget eingeschränkt" steht bei Gotteslob nicht mehr
+  in der Statusspalte**, nur noch „Aktiv (eingeschränkt) — Alle
+  Asset-Gruppen sind durch Richtlinien eingeschränkt" (bekannt, 14.4).
+  Bei 7,07 € von 8 € Budget plausibel. *Vorbehalt: Die Statusspalte
+  kürzt, sicher ist das nicht.*
+- **Wichtelwelt läuft mit 5,00 €/Tag Budget** und ruft davon 2 % ab
+  (0,54 € in fünf Tagen). Die Kontosumme 24,50 €/Tag ist damit zu
+  einem Fünftel eine Zahl ohne Wirkung. Ändert nichts am Termin
+  November (15.7), gehört aber dazu
+- **Die Frage aus 16.3 ist so nicht zu beantworten.** Das Segment
+  „Netzwerk (mit Suchnetzwerk-Partnern)" weist die PMax-Kampagnen
+  vollständig als **„Netzwerkübergreifend"** aus (Gotteslob 3.772
+  Impr., 37,89 € in einer Zeile) — keine Aufschlüsselung nach Suche,
+  Display oder YouTube. Der Produktbericht kam leer zurück und verweist
+  im Hinweistext ausgerechnet auf denselben Netzwerkfilter. **Wohin die
+  rund 60 % ohne Produktbezug gehen, bleibt offen**; über die
+  Standardansichten kommt man nicht heran, das bräuchte den
+  Berichtseditor
