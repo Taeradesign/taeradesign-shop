@@ -2004,11 +2004,13 @@ Claude nicht aus**, auch nicht auf Zuruf.
 
 #### Was offen ist
 
-1. **Budget benutzerdefiniert 3,00 €/Tag.** Zuletzt stand der Wert im
-   Feld, der Überprüfen-Schritt hatte ihn aber zwischendurch schon
-   einmal als „Budget: Wert ist erforderlich" gemeldet — **vor dem
-   Veröffentlichen prüfen.** Googles Vorschlag lautet 2,21 € und ist
-   nicht die Freigabe
+*(Fortgeschrieben in 17.6 — dort steht der Stand am Ende des Tages.
+Punkt 1 ist inzwischen erledigt, dafür ist die Anzeige wieder offen.)*
+
+1. ~~**Budget benutzerdefiniert 3,00 €/Tag.**~~ **Gesetzt im dritten
+   Anlauf** am selben Tag; der Budget-Schritt war danach grün und die
+   Seite meldete „Alle Änderungen gespeichert". Googles Vorschlag
+   (2,08–2,21 €, schwankt) ist nicht die Freigabe
 2. **Zielvorhaben umstellen** — siehe unten
 3. Veröffentlichen und **sofort pausieren** (17.2)
 4. Anzeigengruppe von „Anzeigengruppe 1" auf **„A Gotteslobhülle"**
@@ -2121,3 +2123,72 @@ rückt die in 17.2 vorgesehene Ablösung durch F Kommunion näher.
   rund 60 % ohne Produktbezug gehen, bleibt offen**; über die
   Standardansichten kommt man nicht heran, das bräuchte den
   Berichtseditor
+
+### 17.6 Stand bei der Unterbrechung am 24.09.2026 — Übergabe
+
+**Die Kampagne ist unveröffentlicht und kostet nichts.** Sie liegt als
+Entwurf „Kommunion" (Kampagne 281499253029852, Entwurf 10215224935) und
+ist über die Kampagnenliste → „Aktive Entwürfe" → „Fertigstellen"
+erreichbar.
+
+#### Was steht und bleibt stehen
+
+Über drei Anläufe hinweg unverändert erhalten:
+
+- Suchkampagne, Suchnetzwerk-Partner und Displaynetzwerk **aus**
+- Deutschland, Deutsch, politische Werbung „Nein", keine
+  Zielgruppensegmente
+- **AI Max aus**, Textanpassung und Erweiterung der finalen URL
+  deaktiviert, Anzeigengruppen-AI-Max deaktiviert
+- **Klicks maximieren, CPC-Deckel 0,50 €**
+- **Die sieben Keywords genau passend** — vollständig, wortgleich
+- **Budget benutzerdefiniert 3,00 €/Tag** (gesetzt am 24.09. im dritten
+  Anlauf, danach stand „Alle Änderungen gespeichert" und der
+  Budget-Schritt war grün)
+
+#### Was nicht hält: die Anzeige
+
+**Dreimal eingetragen, dreimal verloren.** Die elf Anzeigentitel, die
+vier Textzeilen und die finale URL überstehen den Wechsel zwischen den
+Assistenzschritten nicht, wenn sie über die Browser-Automatisierung
+eingegeben werden. Beim dritten Versuch baute sich die Feldliste während
+der Eingabe neu auf, der nächste Klick griff ins Leere, und die Ansicht
+sprang aus dem Assistenten auf die Kontoübersicht.
+
+**Der Überprüfen-Schritt meldet deshalb „Anzeige erstellen".** Beim
+nächsten Öffnen ist als Erstes zu prüfen, ob von der letzten Eingabe
+(URL und die ersten zwei Titel) etwas übrig ist — **Stand unbekannt.**
+
+**Empfehlung: Die Anzeigentexte von Hand eingeben.** Fünfzehn Felder,
+wenige Minuten, ohne Verlustrisiko. Die Werte stehen wortgleich in 17.3;
+alle Titel liegen unter 30, alle Textzeilen unter 90 Zeichen.
+
+#### Die Reihenfolge für den nächsten Anlauf
+
+1. **Anzeige von Hand** anlegen (URL, elf Titel, vier Textzeilen aus
+   17.3), danach gegenprüfen, dass der Überprüfen-Schritt keine Probleme
+   mehr meldet
+2. **Budget prüfen** — soll 3,00 €/Tag benutzerdefiniert sein, nicht
+   Googles Vorschlag (2,08–2,21 €, schwankt)
+3. **Veröffentlichen, dann sofort pausieren** (17.2). Erfordert eine
+   Identitätsbestätigung durch den Betreiber
+4. **Zielvorhaben** auf „kampagnenspezifisch, nur Käufe" — **geht erst
+   nach dem Veröffentlichen**, in den Kampagneneinstellungen. Im
+   Assistenten ist der erste Schritt nach der Anlage gesperrt
+5. Anzeigengruppe „Anzeigengruppe 1" → **„A Gotteslobhülle"**
+6. Die **dreizehn Kampagnenausschlüsse** aus 17.3
+7. **Gegenprüfung** in den Kampagneneinstellungen: AI Max,
+   Textanpassung, URL-Erweiterung wirklich aus (Abschnitt 8)
+
+Die Schritte 3 bis 7 hängen nicht am Anzeigenformular und sind
+unkritisch.
+
+#### Was dabei gelernt wurde
+
+- **Identitätsbestätigungen** kommen bei geldwirksamen Änderungen und
+  gehören zum Betreiber (17.4)
+- **Der erste Assistenzschritt ist nach der Anlage gesperrt** — Ziel und
+  Zielvorhaben lassen sich dort nicht mehr ändern
+- **Das Anzeigenformular verträgt die Automatisierung nicht.** Keywords,
+  Netzwerke, Gebote und Budget dagegen schon. Für künftige Anlagen: die
+  Anzeigentexte von Hand, den Rest wie gewohnt
