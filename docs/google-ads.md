@@ -1930,7 +1930,7 @@ deutsches Markenstickgarn, bestickt statt Folie, Handarbeit Made in
 Germany, Text Vorder-/Rückseite/Buchrücken laut Konfigurator,
 `ist-zustand.md` §2).
 
-### 17.4 Die Anlage am 24.09.2026 — abgebrochen, weil Google den Zugriff drosselt
+### 17.4 Die Anlage am 24.09.2026 — unterbrochen durch die 2-Faktor-Pflicht des Kontos
 
 **Versuch, F Kommunion nach den Werten aus 17.3 anzulegen.** Konto
 932-417-3105, angemeldet als `tk@taeradesign.de`, per Claude in Chrome.
@@ -1970,20 +1970,37 @@ Die Anzeigeneffektivität stand danach auf **„Gut"**. Die Schrittmarken
 „Keywords und Anzeigen" und „Kampagneneinstellungen" waren grün, die
 Eingaben also gespeichert.
 
-#### Der Abbruch
+#### Die Unterbrechung
 
 Ab dem Budget-Schritt kam bei **jedem** Speichervorgang der Dialog
 „Identität bestätigen" (erst „Mit Passkey bestätigen", dann
 „Bestätigen", dann „Erneut versuchen"). Jede Bestätigung ließ genau
 eine Aktion durch, danach stand unten links dauerhaft **„Änderungen
 konnten nicht gespeichert werden"**; Klicks auf andere Schritte bewirkten
-nichts mehr.
+nichts mehr. Die Einrichtung wurde deshalb unterbrochen.
 
-**Die Ursache steht in der Kampagnenübersicht:** die Kontowarnung
-**„Konto vor nicht autorisierten Aktivitäten schützen"**. Google hat die
-automatisierte Bedienung als verdächtig eingestuft und Schreibvorgänge
-gedrosselt. **Dagegen wurde nicht angearbeitet** — ein Sicherheitsgate
-wird nicht umgangen. Die Einrichtung wurde abgebrochen.
+**Berichtigt am 24.09.2026, noch am selben Tag.** Die erste Fassung
+dieses Abschnitts nannte als Ursache die Kontowarnung „Konto vor nicht
+autorisierten Aktivitäten schützen" und schloss daraus, Google habe die
+automatisierte Bedienung als verdächtig eingestuft. **Das war falsch.**
+Der Aufruf der Warnung führt nach Verwaltung → Zugriff und Sicherheit →
+**Sicherheitsvorschläge** und zeigt eine Checkliste, drei von vier
+Punkten erfüllt; offen ist allein der Vorschlag „Zulässige
+E-Mail-Domains überprüfen". Keine Drosselung, keine Sperre — die
+Meldung stand vermutlich schon vorher.
+
+**Die tatsächliche Ursache steht in derselben Liste:** Für das Konto
+ist die **2-Faktor-Authentifizierung eingerichtet und für Nutzer
+erzwungen**. Google verlangt deshalb bei geldwirksamen Änderungen eine
+erneute Bestätigung. Das deckt sich mit dem Verlauf: Anzeigentitel und
+Textzeilen gingen ohne Nachfrage durch, die Dialoge begannen erst beim
+Budget.
+
+**Daraus folgt:** Es ist nichts gesperrt. Die Einrichtung lässt sich
+fortsetzen, es braucht nur bei den geldwirksamen Schritten je eine
+Bestätigung durch den Betreiber — Budget, Veröffentlichen,
+voraussichtlich auch die Ausschlüsse. **Identitätsbestätigungen führt
+Claude nicht aus**, auch nicht auf Zuruf.
 
 #### Was offen ist
 
@@ -2021,10 +2038,11 @@ der Abbruch kam davor.
 
 #### Offen für den Betreiber
 
-- **Die Kontowarnung „Konto vor nicht autorisierten Aktivitäten
-  schützen" ansehen.** Ob danach wieder normal gearbeitet werden kann
-  oder ob das Konto für automatisierte Zugriffe dauerhaft dichter
-  sitzt, ist nicht geprüft
+- ~~Die Kontowarnung „Konto vor nicht autorisierten Aktivitäten
+  schützen" ansehen.~~ **Erledigt am 24.09.2026** — es ist eine
+  Sicherheits-Checkliste, keine Sperre (siehe oben). Offen bleibt
+  daraus allein Googles Vorschlag **„Zulässige E-Mail-Domains
+  überprüfen"**, ohne Dringlichkeit
 - **Fünf Sitelinks auf Kontoebene** hängen bereits in der Anzeige. Sie
   standen nicht in der Freigabe, sind aber Kontostandard und laufen in
   allen Kampagnen mit. Unverändert gelassen — bewusst zu entscheiden,
