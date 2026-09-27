@@ -2462,3 +2462,42 @@ eintragen und prüfen, dass „Überprüfen" keinen Fehler mehr meldet ·
 (2) Budget: steht am 27.09. auf 3,00 €/Tag, nur noch im Überprüfen-
 Schritt gegenlesen · (3) Veröffentlichen mit Identitätsbestätigung,
 sofort pausieren · (4)–(7) wie gehabt.
+
+### 18.7 F Kommunion veröffentlicht und pausiert (27.09.2026)
+
+**Betreiber, 27.09.2026:** finale URL eingetragen, veröffentlicht
+(Identitätsbestätigung durch ihn), pausiert. Kampagnen-ID
+**24299415265**. Danach von Claude gegengeprüft, **nur gelesen**:
+
+| Prüfpunkt | Stand |
+|---|---|
+| Status | Pausiert, „Gebotsstrategie lernt" |
+| Werbenetzwerke | nur Google Suchnetzwerk |
+| Budget / Gebot | 3,00 €/Tag / Klicks maximieren |
+| AI Max | aus |
+| Asset-Optimierung | „Textanpassung und Erweiterung der finalen URL deaktiviert" |
+| Automatisch erstellte Assets | deaktiviert |
+| Weitgehend passende Keywords | deaktiviert |
+| Dynamische Suchanzeigen | nicht eingerichtet (Website-Feld leer; aufgeklappt und mit „Abbrechen" geschlossen) |
+| Standort / Sprache / politische Werbung | Deutschland / Deutsch / nicht enthalten |
+| Anzeige | Responsive Suchanzeige, 11 Titel, 4 Textzeilen, finale URL = Produktseite der Gotteslobhülle (18.6) |
+| Anzeigenstatus | „Nicht aktiv — Kampagne ausstehend, Kampagne pausiert", Effektivität „Ausstehend" |
+| **Start- und Enddatum** | **Start 1. Oktober 2026**, kein Enddatum |
+| Markenlisten | 0 beschränkt, 0 ausgeschlossen |
+
+**Die Falle aus Abschnitt 8 trat nicht auf:** Die Einstellungen zeigen
+AI Max aus, wie freigegeben.
+
+**Startdatum 01.10.:** passt zum Termin. Wird F vorher aktiviert,
+liefert sie trotzdem erst ab dem 01.10. aus — daher „Kampagne
+ausstehend".
+
+**Aus 17.6 noch offen**, jeweils mit Einzelfreigabe:
+
+4. **Zielvorhaben** steht auf dem Kontostandard („Anruf-Leads,
+   Bezahlvorgang starten und 3 weitere") → kampagnenspezifisch, nur
+   Käufe (entschieden 24.09., 17.4)
+5. **Anzeigengruppe** „Anzeigengruppe 1" → „A Gotteslobhülle"
+6. **Die dreizehn Kampagnenausschlüsse** aus 17.3
+
+Schritt 7, die Gegenprüfung, ist mit der Tabelle oben erledigt.
