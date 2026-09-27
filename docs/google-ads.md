@@ -2417,3 +2417,48 @@ Tagen — nach null in acht.** *(88 € × 1,54 ≈ 136 €; ÷ 28,99 € ≈ 4,
 - **Markenliste:** Jetzt möglich, Anlage beim Betreiber (18.4)
 - **Nächster Kontrollblick ~02.–04.10.2026.** Enthält die Bewertung am
   ~01.10. ohnehin einen vollständigen Kontrollblick, zählt der
+
+### 18.6 Nachtrag 27.09.2026: der Kommunion-Entwurf, geöffnet — es fehlt nur die finale URL
+
+Auf Wunsch des Betreibers geöffnet, über Kampagnenliste → „Aktive
+Entwürfe" → „Fertigstellen". **Nur gelesen, nichts eingetragen.** Der
+Assistent öffnete beim Schritt „Gebote"; von dort ging es einmal zu
+„Keywords und Anzeigen".
+
+**17.6 ist damit berichtigt: Die Anzeigentexte sind nicht verloren.**
+
+| Feld | Stand 27.09. |
+|---|---|
+| Anzeigentitel | **11 von 11**, wortgleich mit 17.3 |
+| Textzeilen | **4 von 4**, wortgleich (88, 80, 89, 81 Zeichen) |
+| Keywords | 7, genau passend, wortgleich |
+| Gebot | Klicks maximieren, CPC-Deckel 0,50 € |
+| Budget | 3,00 €/Tag |
+| **Finale URL der Anzeige** | **leer — „Eine finale URL ist erforderlich"** |
+| Angezeigter Pfad 1/2 | leer (optional) |
+
+Anzeigeneffektivität „Unvollständig", alle fünf Punkte der Checkliste
+erfüllt — es hängt allein an der URL. Schrittleiste: „Überprüfen"
+trägt „Fehler" (vermutlich dieselbe URL), „Gebote" eine „Warnung" ohne
+Text; daneben steht Googles Vorschlag „Conversions maximieren mit
+Ziel-CPA, +6,8 %" — **nicht übernommen**.
+
+**Die fehlende URL** — am 27.09. geprüft, lädt ohne Weiterleitung und
+ist zugleich die kanonische Adresse:
+`https://www.taeradesign.com/products/gotteslobhulle-aus-filz-frei-personalisierbares-unikat`
+
+**Nebenbefund 17.4 bestätigt:** Unter „Anrufe" steht „Weil Sie als
+Zielvorhaben der Kampagne Telefonanrufe ausgewählt haben, sollten Sie
+ein Anruf-Asset in Ihre Anzeigen einfügen." Das Zielvorhaben ist also
+weiter der Kontostandard samt Anrufen. **Kein Anruf-Asset einfügen** —
+stattdessen nach dem Veröffentlichen auf „kampagnenspezifisch, nur
+Käufe" umstellen (17.6, Schritt 4).
+
+Googles KI-Chat „Ask Advisor" (Beta) öffnete sich im Assistenten von
+selbst; nicht benutzt.
+
+**Die Reihenfolge aus 17.6 verkürzt sich:** (1) nur noch die finale URL
+eintragen und prüfen, dass „Überprüfen" keinen Fehler mehr meldet ·
+(2) Budget: steht am 27.09. auf 3,00 €/Tag, nur noch im Überprüfen-
+Schritt gegenlesen · (3) Veröffentlichen mit Identitätsbestätigung,
+sofort pausieren · (4)–(7) wie gehabt.
