@@ -2553,7 +2553,51 @@ in den Anzeigenrang ein *(Google-Hilfe, nicht in dieser Sitzung
 nachgelesen)*. **Vor einer Aktivierung am ~01.10. entscheiden**, ob
 zwei, drei Titel mit den genauen Keywords nachgeschärft werden — etwa
 „Gotteslobhülle bestickt" oder „Gotteslobhülle zur Kommunion"
-*(Vorschläge, nicht freigegeben)*.
+*(Vorschläge, nicht freigegeben)*. **→ Am selben Tag erledigt, 18.9.**
 
 **F Kommunion ist damit vollständig eingerichtet** und wartet pausiert
 auf die Entscheidung am ~01.10. (17.2).
+
+### 18.9 F Kommunion: vier Titel ergänzt, Anzeigeneffektivität „Sehr gut" (27.09.2026)
+
+**Auftrag Betreiber, 27.09.2026:** „schreib mir Vorschläge für die
+Titel, trage diese gerne ein" — eine Vorab-Freigabe für Titel, die er
+noch nicht gesehen hatte. Deshalb bewusst eng gehalten: **Jeder neue
+Titel kombiniert das Keyword nur mit einer Aussage, die am 22.09. schon
+freigegeben war** (17.3). Die Kampagne ist pausiert; bis zur Aktivierung
+kann jeder Titel wieder gestrichen werden.
+
+| Neuer Titel | Zeichen | deckt Keyword | stützt sich auf (17.3) |
+|---|---:|---|---|
+| Gotteslobhülle bestickt | 23 | [gotteslobhülle bestickt] | „Bestickt statt bedruckt" |
+| Gotteslobhülle zur Kommunion | 28 | [gotteslobhülle kommunion] | „Zur Kommunion und Firmung" |
+| Gotteslobhülle mit Motiv | 24 | [gotteslobhülle] | „Farbe, Motiv und Text wählbar" |
+| Gotteslobhülle gestalten | 24 | [gotteslobhülle] | „Im Konfigurator gestalten" |
+
+**Bewusst nicht:** die Schreibweise „Gotteslob Hülle" — danach wird
+gesucht (Keyword [gotteslob hülle]), in der Anzeige wäre es ein
+Rechtschreibfehler.
+
+**Wie eingetragen:** im Anzeigen-Editor (Anzeigen → Stift), nicht im
+Kampagnen-Assistenten. Jedes Feld einzeln per Fokus und Tastatur
+gefüllt und sofort ausgelesen — das Formular hängte nach dem 14. Titel
+selbst ein fünfzehntes Feld an. Vor dem Speichern alle Felder geprüft:
+15 Titel, 4 Textzeilen unverändert, finale URL unverändert, keine
+Fehlermeldung. **Der Editor vertrug die Automatisierung diesmal** —
+anders als der Assistent am 24.09. (17.6).
+
+**Ergebnis:** Die Anzeigeneffektivität sprang im Editor von
+„Unvollständig" auf **„Sehr gut"**, alle fünf Punkte der Checkliste
+erfüllt (weitere Titel, Keywords in Titeln, Titel und Textzeilen
+individuell, Sitelinks). In der Anzeigenliste steht sie nach dem
+Speichern auf „Ausstehend" — Google bewertet neu. **Am ~01.10.
+nachsehen.**
+
+**Nach Neuladen gegengeprüft:** Anzeigenliste „+ 12 weitere" (15 Titel),
+„+ 2 weitere" (4 Textzeilen); in den Asset-Details alle vier neuen Titel
+wortgleich. Die Anzeigen-ID blieb 826112909229.
+
+**Nebenbei:** Google zeigte beim Speichern keinen Anmelde- oder
+Bestätigungsdialog. Im Seitencode stehen zwar Vorlagen „Die Verbindung
+wurde getrennt … noch einmal anmelden" und „Turn off ad blockers", beide
+waren aber nicht sichtbar.
