@@ -2192,3 +2192,228 @@ unkritisch.
 - **Das Anzeigenformular verträgt die Automatisierung nicht.** Keywords,
   Netzwerke, Gebote und Budget dagegen schon. Für künftige Anlagen: die
   Anzeigentexte von Hand, den Rest wie gewohnt
+
+## 18. Kontrollblick am 27.09.2026 — die 60 % waren Suchtextanzeigen, Gotteslob seit der Trennung ohne Kauf
+
+Fünf Tage nach dem letzten Kontrollblick (Abschnitt 16), also im Takt.
+Konto 932-417-3105, angemeldet als `tk@taeradesign.de`, per Claude in
+Chrome. **Nur gelesen, nichts geändert** — auch der Markenlisten-Dialog
+(18.4) wurde ohne Speichern geschlossen.
+
+### 18.1 Die Zahlen
+
+**Fenster 21.–25.09.2026**, abgelesen. Der 26. und 27.09. sind
+ausgeschlossen (Fallstrick Abschnitt 11). ROAS selbst gerechnet,
+Break-even 154 % (14.1).
+
+| Kampagne | Status | Impr. | Umsatz | Kosten | Käufe | ROAS | gegen 154 % |
+|---|---|---:|---:|---:|---:|---:|---|
+| Gotteslob | Aktiv (eingeschränkt) — Richtlinien | 2.666 | 0,00 € | 27,29 € | 0 | 0 % | darunter |
+| Filzprodukte | Aktiv | 1.558 | 66,37 € | 5,93 € | 2 | 1.119 % | darüber |
+| D Wichtelwelt | Aktiv | 288 | 0,00 € | 0,26 € | 0 | — | — |
+| C Brand | Aktiv (eingeschränkt) — Eingeschränkte Gebotseinstellungen | 13 | 0,00 € | 0,82 € | 0 | — | — |
+| **Konto** | | 4.525 | 66,37 € | 34,30 € | 2 | 193 % | darüber |
+
+**Die 193 % stehen auf einem einzigen Tag:** Beide Käufe fielen am
+23.09., beide bei Filzprodukte. An den vier anderen Tagen war der Umsatz
+null.
+
+**Seit der Trennung der Produktgruppen, 18.–25.09.2026** (acht Tage):
+
+| Kampagne | Impr. | Umsatz | Kosten | Käufe | ROAS | gegen 154 % |
+|---|---:|---:|---:|---:|---:|---|
+| Gotteslob | 4.470 | 0,00 € | 51,05 € | 0 | 0 % | darunter |
+| Filzprodukte | 3.211 | 68,87 € | 14,59 € | 3 | 472 % | darüber |
+| D Wichtelwelt | 506 | 0,00 € | 0,54 € | 0 | — | — |
+| C Brand | 17 | 0,00 € | 0,83 € | 0 | — | — |
+| **Konto** | 8.204 | 68,87 € | 67,01 € | 3 | 103 % | darunter |
+
+Die Werte für 18.–20.09. sind gegenüber 16.1 **unverändert** — keine
+Nachbuchung.
+
+**Seit der Reaktivierung, 12.–25.09.2026:** Gotteslob 13.449 Impr.,
+98,46 € Umsatz, 99,49 € Kosten, 2 Käufe, **ROAS 99 % — darunter**.
+*(Gerechnet: Fenster 28.08.–24.09. abgelesen plus 25.09.; vor dem 12.09.
+war die Kampagne pausiert.)*
+
+**Je Tag:**
+
+| | 18.09. | 19.09. | 20.09. | 21.09. | 22.09. | 23.09. | 24.09. | 25.09. |
+|---|---:|---:|---:|---:|---:|---:|---:|---:|
+| Gotteslob Impr. | 356 | 753 | 695 | 528 | 1.440 | 248 | 262 | 188 |
+| Gotteslob Kosten | 4,77 € | 12,61 € | 6,38 € | 3,44 € | 10,69 € | 4,50 € | 7,94 € | 0,72 € |
+| Filzprodukte Impr. | 670 | 477 | 506 | 333 | 322 | 271 | 382 | 250 |
+| Filzprodukte Kosten | 2,67 € | 5,50 € | 0,49 € | 1,50 € | 0,75 € | 1,65 € | 0,42 € | 1,61 € |
+| Filzprodukte Käufe | 1 | 0 | 0 | 0 | 0 | 2 | 0 | 0 |
+
+*Vorbehalt 25.09.:* Zwei Tage alt und damit gerade noch im Fenster —
+die 0,72 € bei Gotteslob können noch wachsen.
+
+### 18.2 Befund 1: Die 60 % ohne Produkt waren Textanzeigen in der Google-Suche
+
+**Die Frage aus 16.3 ist beantwortet.** Der Bericht **Statistiken und
+Berichte → Kanalleistung** schlüsselt jede PMax nach Kanal auf. *Damit
+ist 17.5 berichtigt:* Über die Standardansichten kommt man doch heran,
+der Berichtseditor ist nicht nötig.
+
+Gotteslob nach Kanal:
+
+| Kanal | Impr. 18.–20.09. | Kosten 18.–20.09. | Impr. 21.–25.09. | Kosten 21.–25.09. |
+|---|---:|---:|---:|---:|
+| Google Suche | 754 | 20,41 € | 927 | 26,16 € |
+| Suchnetzwerk-Partner | 110 | 2,21 € | 235 | 0,32 € |
+| Google Displaynetzwerk | 840 | 0,60 € | 1.182 | 0,35 € |
+| YouTube | 100 | 0,55 € | 322 | 0,46 € |
+| Discover, Gmail, Maps | 0 | 0,00 € | 0 | 0,00 € |
+| **Gesamt** | 1.804 | 23,77 € | 2.666 | 27,29 € |
+
+*(23,77 € statt 23,76 € in der Kampagnentabelle: Rundung.)*
+
+Gegen den Produktbericht, am 27.09. neu abgelesen:
+
+| | 18.–20.09. | 21.–25.09. | 18.–25.09. |
+|---|---:|---:|---:|
+| Gotteslobhülle (Produktbericht) | 9,47 € | 22,41 € | 31,88 € |
+| Gotteslob (Kampagne gesamt) | 23,76 € | 27,29 € | 51,05 € |
+| **ohne Produkt** | **14,29 € (60 %)** | **4,88 € (18 %)** | **19,17 € (38 %)** |
+| CPC der Hülle | 0,36 € | 0,72 € | 0,56 € |
+
+**Was daraus folgt:**
+
+- **Beide Vermutungen aus 16.3 sind widerlegt.** Display und YouTube
+  kosteten am 18.–20.09. zusammen 1,15 € — kein Ort für 14 €. Und eine
+  Berichtslücke ist es nicht: Der Produktbericht zeigt für 18.–20.09.
+  fünf Tage später dieselben 9,47 €
+- **Das Geld steckt in der Google-Suche**: 86 % der Kosten am
+  18.–20.09., 96 % am 21.–25.09. Was dort nicht bei der Hülle ankommt,
+  sind die **Textanzeigen aus der Asset-Gruppe** — *Folgerung, nicht
+  abgelesen:* Der Kanalbericht trennt innerhalb der Suche nicht zwischen
+  Produkt- und Textanzeige
+- **Der Anteil ohne Produkt fiel binnen einer Woche von 60 % auf 18 %**,
+  ohne jede Änderung im Konto (18.4). Die PMax hat sich selbst umgestellt.
+  Stabil ist der Wert also nicht — aus einem Fenster keinen Schluss
+  ziehen
+- **Gotteslob ist damit faktisch eine Suchkampagne im PMax-Gewand.** Das
+  trifft den Zielkonflikt aus 17.2 direkt: F Kommunion würde in denselben
+  Auktionen bieten, aber mit genau passenden Keywords, Ausschlüssen und
+  einem CPC-Deckel von 0,50 €. Die PMax zahlte am 21.–25.09. für einen
+  Klick auf die Hülle 0,72 € — über dem unteren Break-even-CPC von 0,62 €
+  aus 17.3
+
+**Suchkategorien 18.–20.09.** (Statistiken → Suchbegriffe; alle
+Kampagnen, nur Klicks und Impressionen, keine Kosten; welche Kampagne
+welchen Klick bekam, ist dort nicht aufgeschlüsselt):
+
+- **passend:** gotteslobhülle (5 Klicks), gotteslobhülle filz (2),
+  gotteslob kommunion personalisiert (2), gotteslob hülle personalisiert
+  (1)
+- **unpassend:** bibelhüllen (2), bibel selbst gestalten, gebetbuch
+  katholisch, gotteslob, gotteslob einbände, gotteslobhülle leder,
+  gotteslobhülle mit reißverschluss, gotteslob hülle reißverschluss (je
+  1)
+
+**Rund die Hälfte der zugeordneten Klicks** ging also an Suchen nach dem
+Buch, nach Bibelhüllen oder nach Leder- und Reißverschlusshüllen. Auf
+keinen dieser Begriffe käme F Kommunion mit seinen genau passenden
+Keywords (17.3). *Vorbehalt: 19 Klicks, drei Tage, ohne Kosten.*
+
+### 18.3 Befund 2: Gotteslob seit der Trennung ohne Kauf — und seit dem 23.09. mit einem Drittel der Impressionen
+
+**Acht Tage, 4.470 Impressionen, 83 Klicks, 51,05 € — kein Kauf.** Davon
+57 Klicks auf die Gotteslobhülle selbst. Bei der Shop-Conversion-Rate aus
+17.3 (3,3–4,9 %) wären rund **zwei bis drei Käufe** zu erwarten gewesen
+*(57 × 3,3 % ≈ 1,9; 57 × 4,9 % ≈ 2,8)*. Null ist bei so kleinen Zahlen
+kein Beweis — rein zufällig kommt es in etwa 6–15 % der Fälle vor —
+aber es ist ein Warnzeichen. *Ob die Shop-Rate auf Anzeigenklicks
+übertragbar ist, ist offen.*
+
+**Seit dem 23.09. liefert die Kampagne deutlich weniger aus:**
+
+| | 18.–22.09. | 23.–24.09. |
+|---|---:|---:|
+| Impressionen je Tag | 754 | 255 |
+| Kosten je Tag | 7,58 € | 6,22 € |
+
+Die Impressionen fielen auf ein Drittel, die Kosten nur um ein Fünftel —
+weniger, aber teurere Auslieferung. Der Durchschnitts-CPC der Kampagne
+stieg von 0,55 € (18.–20.09.) auf 0,68 € (21.–25.09.). **Der Status
+trägt „Durch das Budget eingeschränkt" nicht mehr** — diesmal aus dem
+vollen Statustext abgelesen, nicht aus der gekürzten Spalte; der
+Vorbehalt aus 17.5 ist damit erledigt.
+
+**Ursache offen.** Im Konto wurde nichts geändert (18.4). *Vermutung,
+nicht belegt:* Ein Ziel-ROAS von 180 % ohne einen einzigen
+Conversion-Wert in acht Tagen lässt die Gebotsstrategie wählerischer
+bieten. Verwandt mit D Wichtelwelt nach dem 02.09. (13.2), dort brachen
+allerdings auch die Kosten ein (2,85 € → 0,11 € am Tag). Mehr als ein
+Anlass zum Hinsehen am 01.10. ist das nicht.
+
+**Gegen den Maßstab für den 01.10. (16.5):** Geplant waren rund 110 €
+Kosten; beim jetzigen Tempo werden es eher **rund 88 €** *(Annahme:
+51,05 € + 6 Tage × 6,22 €)*. Für 154 % braucht es dann rund 136 €
+Umsatz, also **etwa fünf Gotteslobhüllen in den verbleibenden sechs
+Tagen — nach null in acht.** *(88 € × 1,54 ≈ 136 €; ÷ 28,99 € ≈ 4,7)*
+
+### 18.4 Kleinbefunde
+
+- **Filzprodukte hat sein Volumen wieder verloren:** ~312 Impressionen am
+  Tag am 21.–25.09., nach ~551 am 18.–20.09. Die Erholung aus 16.2 hat
+  nicht gehalten, die Vermutung „Selbstkonkurrenz mit Gotteslob" ist
+  damit wieder schwächer. Budgetabruf 12 % (5,93 € von 50 €). Alle drei
+  Käufe seit dem 18.09. kamen über Produkttyp „kunst- &
+  bastelmaterialien", keiner über die Gotteslobhülle. Zwei davon stehen
+  im Produktbericht bei Filzplatten (37 × 25 cm, 2,50 €; 37 × 50 cm,
+  24,50 €); der dritte über 41,87 € stand nicht unter den abgelesenen
+  Zeilen (nur die ersten 13 nach Impressionen)
+- **Regel `cpb_ordered` (15.4): kein Fund.** Produkttypen 18.–25.09.:
+  9 Artikel `cpb_ordered`, 0 Impressionen, 0,00 €
+- **Markenliste: weiterhin keine angelegt — aber die Marke ist jetzt
+  wählbar.** Im Dialog „Neue Markenliste auf Kontoebene" ließ sich das
+  Markenfeld diesmal bedienen. „Taeradesign" liefert **zwei Einträge**:
+  `https://www.taeradesign.com` und `https://www.taeradesign.com/`.
+  Dialog mit „Abbrechen" geschlossen, **keine Liste angelegt**. Offen
+  für den Betreiber: welchen Eintrag (oder beide), Liste anlegen und als
+  Markenausschluss bei Filzprodukte und Gotteslob setzen (Abschnitt 8,
+  Schritt B; 16.5)
+- **Änderungsverlauf 18.–27.09.: genau ein Eintrag** — 24.09.2026,
+  15:18:20, `tk@taeradesign.de`, Webclient (manuell), „Budget wurde
+  erstellt" (das Budget des Kommunion-Entwurfs, 17.4). **Keine
+  automatische Änderung.** Ersetzt nicht die monatliche
+  Auto-Apply-Prüfung (~12.10.)
+- **F Kommunion:** In der Kampagnenliste unverändert „Entwurf:
+  Kommunion", In Bearbeitung, 3,00 €/Tag. **Nicht geöffnet** — der Stand
+  der Anzeige bleibt unbekannt (17.6)
+- **Kanalstatus bei Gotteslob:** Discover und YouTube tragen „Aktiv
+  (eingeschränkt) — Der Kanal enthält eine Asset-Gruppe, die durch
+  Richtlinien eingeschränkt ist". Das ist die bekannte Beschränkung
+  (14.4), je Kanal ausgewiesen
+- **Googles Hinweis im Produktbericht:** Suchanfragen der Kategorie
+  „Kränze & Girlanden" +9 %, eigene Impressionen −94 % gegenüber der
+  Vorwoche. Welche Artikel die Kategorie umfasst, ist nicht geprüft —
+  gehört zum November-Termin von D Wichtelwelt, falls es das
+  Weihnachtssortiment betrifft
+- **D Wichtelwelt:** 288 Impressionen, 0,26 € — wie seit dem 02.09.,
+  bleibt bis November (15.7). **C Brand:** 13 Impressionen, 6 Klicks,
+  0,82 €, wie gewohnt
+- **Arbeitshinweis:** Der Bericht „Suchbegriffe" trägt einen
+  gespeicherten Filter auf „Brand Taeradesign, Zeugnismappen" und zeigt
+  deshalb keine PMax. Für PMax taugen „Kanalleistung" (Kosten je Kanal)
+  und „Statistiken zu Suchbegriffen" (Kategorien, ohne Kosten). Filter
+  unverändert gelassen
+
+### 18.5 Was daraus folgt
+
+- **Nichts geändert.** Der Takt dient dem Bemerken (Abschnitt 11)
+- **~01.10.2026 — Gotteslob bewerten und über F Kommunion entscheiden
+  (17.2), unverändert.** Die Kanalfrage aus 16.3 ist geklärt: Die PMax
+  gibt ihr Geld in der Suche aus. **Einschätzung (Claude, 27.09.2026):**
+  Die Wahl am 01.10. dürfte zwischen „PMax pausieren, F Kommunion
+  aktivieren" und „PMax mit höherem Ziel weiterlaufen lassen" liegen —
+  ein Rampenschritt ist bei 0 Käufen nicht in Sicht
+- **F Kommunion muss bis zum 01.10. veröffentlicht und pausiert sein**,
+  sonst gibt es am Termin nichts zu aktivieren. Nächster Schritt beim
+  Betreiber: die Anzeigentexte von Hand (17.6), danach Veröffentlichen
+  mit Identitätsbestätigung
+- **Markenliste:** Jetzt möglich, Anlage beim Betreiber (18.4)
+- **Nächster Kontrollblick ~02.–04.10.2026.** Enthält die Bewertung am
+  ~01.10. ohnehin einen vollständigen Kontrollblick, zählt der
