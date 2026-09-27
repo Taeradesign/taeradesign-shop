@@ -2501,3 +2501,59 @@ ausstehend".
 6. **Die dreizehn Kampagnenausschlüsse** aus 17.3
 
 Schritt 7, die Gegenprüfung, ist mit der Tabelle oben erledigt.
+
+### 18.8 F Kommunion: die drei offenen Einstellungen gesetzt (27.09.2026)
+
+**Freigabe Betreiber, 27.09.2026:** „alle drei bekommen von mir ein
+‚ja'". Von Claude ausgeführt, **jede Änderung nach dem Neuladen
+gegengeprüft**. Eine Identitätsbestätigung wurde nicht verlangt.
+
+| Schritt | vorher | nachher | nach Neuladen |
+|---|---|---|---|
+| 4. Conversion-Zielvorhaben | Kontostandard (Anruf-Leads, Bezahlvorgang starten und 3 weitere) | **Kampagnenspezifisch: Käufe** | ✅ bestätigt; Kopftext „optimiert im Hinblick auf eine Steigerung bei Käufe" |
+| 5. Anzeigengruppe | „Anzeigengruppe 1" | **„A Gotteslobhülle"** | ✅ bestätigt (Anzeigen- und Keyword-Tabelle) |
+| 6. Kampagnenausschlüsse | keine | **13**, Ebene Kampagne, weitgehend passend | ✅ bestätigt, 13 von 13 |
+
+**Zu Schritt 4:** Die Falle aus 12.3 ist beachtet. Zuerst im Auswahlfenster
+nur „Käufe" angehakt und den **inneren** Speichern-Knopf gedrückt, dann den
+**äußeren** im Abschnitt „Conversion-Zielvorhaben". Zur Wahl standen
+außerdem In den Einkaufswagen, Bezahlvorgang starten, Anruf-Leads,
+Kontakte und Route berechnen — alle leer gelassen.
+
+**Zu Schritt 6:** Ausschlüsse eingetragen: schnittmuster, selber nähen,
+selber machen, anleitung, kostenlos, gebraucht, amazon, ebay, etsy,
+leder, häkeln, stricken, nähen — wortgleich mit 17.3. Das Häkchen „In
+einer neuen oder bestehenden Liste speichern" blieb leer; die
+Ausschlüsse hängen direkt an der Kampagne.
+
+**Nebenbei geprüft:** Gebot Klicks maximieren mit **CPC-Deckel 0,50 €**
+— hat die Veröffentlichung überstanden (aufgeklappt, mit „Abbrechen"
+geschlossen).
+
+**Nicht übernommen:** Googles Vorschläge „Conversions maximieren mit
+Ziel-CPA" (in den Gebotseinstellungen, auf der Anzeigengruppenseite und
+im Assistenten) und „Neue Keywords hinzufügen — Alle übernehmen" auf der
+Keyword-Seite. Rote Linie „Einzelfreigabe" (Abschnitt 9).
+
+#### Neuer Befund: Anzeigeneffektivität „Schlecht"
+
+Im Assistenten stand sie am 24.09. auf „Gut" (17.4), direkt nach dem
+Veröffentlichen auf „Ausstehend", **jetzt auf „Schlecht"**. Googles
+Tipps im Tooltip:
+
+- mehr Keywords in die Anzeigentitel aufnehmen
+- mehr Keywords in die Textzeilen aufnehmen
+- der Anzeige einen weiteren Sitelink hinzufügen
+
+**Nichts geändert** — neue Titel oder Textzeilen brauchen eine
+Text-Freigabe (Rote Linie „Einzelfreigabe je Text"), und der Knopf
+„Anzeige optimieren" schreibt Texte selbst. Die Anzeigeneffektivität ist
+nach Googles eigener Aussage eine Orientierung und fließt nicht direkt
+in den Anzeigenrang ein *(Google-Hilfe, nicht in dieser Sitzung
+nachgelesen)*. **Vor einer Aktivierung am ~01.10. entscheiden**, ob
+zwei, drei Titel mit den genauen Keywords nachgeschärft werden — etwa
+„Gotteslobhülle bestickt" oder „Gotteslobhülle zur Kommunion"
+*(Vorschläge, nicht freigegeben)*.
+
+**F Kommunion ist damit vollständig eingerichtet** und wartet pausiert
+auf die Entscheidung am ~01.10. (17.2).
