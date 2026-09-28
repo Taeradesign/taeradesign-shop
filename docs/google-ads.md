@@ -2867,3 +2867,20 @@ Je kleiner die Bestellung, desto höher die Linie.
 (17.3) liegt bei **0,68–1,00 €** *(0,033 bzw. 0,049 × 20,47 €)* — der
 Deckel von 0,50 € bleibt darunter. Die tragende Klickquote für die
 Stoppregel (19.4): **~2,4–2,7 %** *(0,50 € ÷ 20,47 € bzw. ÷ 18,84 €)*.
+
+### 19.7 Reihenfolge für Filzprodukte (Betreiber, 28.09.2026: „ok")
+
+1. **Kontrollblick ~02.–04.10.: Filzprodukte-Ziel senken** — Wert
+   entscheidet der Betreiber; nicht unter ~200 % (19.6)
+2. **Einige Tage danach: Markenliste „Taeradesign" anlegen und als
+   Markenausschluss bei Filzprodukte setzen** — Claude, mit konkreten
+   Werten vorab (Entscheidungsliste Abschnitt 8, Nr. 6). Vorher als
+   Basislinie festhalten, welchen Anteil die Kategorie „taeradesign" in
+   „Statistiken zu Suchbegriffen" bei Filzprodukte hat. Offen bis dahin:
+   welcher der zwei Einträge (mit oder ohne Schrägstrich, 18.4), oder
+   beide
+
+**Erläutert am 28.09.:** Die Markenliste betrifft **Suchanfragen** mit
+dem Markennamen, nicht die Produkte. Der Ausschluss verhindert, dass
+Filzprodukte für Suchen nach „taeradesign …" zahlt und sich
+Stammkunden-Käufe zurechnet; diese Suchen bedient C Brand.
