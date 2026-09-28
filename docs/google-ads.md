@@ -2601,3 +2601,116 @@ wortgleich. Die Anzeigen-ID blieb 826112909229.
 Bestätigungsdialog. Im Seitencode stehen zwar Vorlagen „Die Verbindung
 wurde getrennt … noch einmal anmelden" und „Turn off ad blockers", beide
 waren aber nicht sichtbar.
+
+### 18.10 Zwischenstand der Zahlen am 28.09.2026 — kein Kontrollblick, Gotteslob mit dem ersten Kauf seit der Trennung
+
+**Kein Kontrollblick im Sinne von Abschnitt 11** — der nächste ist
+~02.–04.10. fällig (18.5), oder er fällt mit der Bewertung am ~01.10.
+zusammen. Auf Wunsch des Betreibers mitgelesen, einen Tag nach 18.
+Konto 932-417-3105, `tk@taeradesign.de`, per Claude in Chrome. **Nur
+gelesen, nichts geändert.**
+
+#### Fenster 18.–27.09.2026
+
+Zehn Tage seit der Trennung der Produktgruppen (15.5). **Der 27.09. liegt
+im nicht belastbaren Bereich** (Fallstrick Abschnitt 11) — die Käufe
+sind echt, die Kosten können noch wachsen. Der 28.09. ist ausgeschlossen.
+ROAS selbst gerechnet, Break-even 154 % (14.1).
+
+| Kampagne | Impr. | Umsatz | Kosten | Käufe | ROAS | gegen 154 % |
+|---|---:|---:|---:|---:|---:|---|
+| Gotteslob | 5.064 | 36,99 € | 65,85 € | 1 | 56 % | darunter |
+| Filzprodukte | 3.813 | 117,79 € | 17,88 € | 4 | 659 % | darüber |
+| D Wichtelwelt und C Brand | 619 | 0,00 € | 1,57 € | 0 | — | — |
+| **Konto** | 9.496 | 154,78 € | 85,30 € | 5 | 181 % | darüber |
+
+*(D und C als Differenz zur Kontosumme gerechnet, nicht einzeln
+abgelesen. Gotteslob-Kosten: Summe 18.–28.09. 66,69 € minus 0,84 € am
+28.09.; die Tageswerte ergeben 65,84 € — Rundung.)*
+
+**Die zwei neuen Tage:**
+
+| | 26.09. | 27.09. |
+|---|---:|---:|
+| Gotteslob Impr. | 215 | 379 |
+| Gotteslob Kosten | 4,40 € | 10,39 € |
+| Gotteslob Käufe / Umsatz | 0 | **1 / 36,99 €** |
+| Filzprodukte Impr. | 213 | 389 |
+| Filzprodukte Kosten | 0,47 € | 2,82 € |
+| Filzprodukte Käufe / Umsatz | 0 | 1 / 48,92 € |
+
+Die Werte für 18.–25.09. sind gegenüber 18.1 **unverändert**, auch die
+0,72 € bei Gotteslob am 25.09., die dort unter Vorbehalt standen.
+
+**Seit der Reaktivierung, 12.–27.09.2026:** Gotteslob 14.043 Impr.,
+135,45 € Umsatz, 114,28 € Kosten, 3 Käufe, **ROAS 119 % — darunter**.
+*(Gerechnet: 18.1 plus 26. und 27.09.)*
+
+#### Befund: der erste Gotteslob-Kauf seit dem 17.09.
+
+**Am 27.09. ein Kauf über 36,99 €**, im Produktbericht dem Klick auf die
+Gotteslobhülle zugeordnet. Die Hülle steht dort mit einem Preis von
+28,99 €. *Die Differenz ist vermutlich Personalisierung oder ein
+weiterer Artikel im Warenkorb — nicht geprüft, dafür bräuchte es die
+Bestellung im Shop.*
+
+Produktbericht Gotteslobhülle, 18.–28.09.: 3.791 Impr., 77 Produktklicks,
+41,45 € Kosten, 1 Conversion, 36,99 € Conv.-Wert. Gegen die Kampagne
+(66,69 € im selben Fenster) bleiben **25,24 € ohne Produkt (38 %)** —
+derselbe Anteil wie 18.–25.09. (18.2).
+
+**Einordnung:** Ein Kauf aus 77 Klicks auf die Hülle sind 1,3 %. Mit der
+Shop-Rate aus 17.3 (3,3–4,9 %) wären es zweieinhalb bis knapp vier
+gewesen *(77 × 3,3 % ≈ 2,5; 77 × 4,9 % ≈ 3,8)*. Das Warnzeichen aus 18.3
+wird schwächer, verschwindet aber nicht.
+
+**Die Frage aus 18.3 — bleibt Gotteslob bei ~250 Impressionen am Tag?**
+Ja: 215 am 26.09., 379 am 27.09. *(der 27. noch vorläufig)*.
+
+**Gegen den Maßstab für den 01.10. (16.5, 18.3):** Bis einschließlich
+30.09. fallen rund **83 € Kosten** an *(Annahme: 65,85 € + 3 Tage ×
+5,59 €, dem Schnitt vom 23.–27.09.)*. Für 154 % braucht es rund 127 €
+Umsatz; 36,99 € sind da. **Es fehlen etwa drei Gotteslobhüllen in drei
+Tagen** *(90 € ÷ 28,99 € ≈ 3,1)*. **Einschätzung (Claude, 28.09.2026):**
+unwahrscheinlich. Die Wahl am 01.10. bleibt die aus 18.5 — „PMax
+pausieren, F Kommunion aktivieren" oder „höheres Ziel". Der Kauf ist
+ein Lebenszeichen, keine Wende.
+
+#### Kleinbefunde
+
+- **Filzprodukte:** Das Volumen bleibt bei rund 300 Impressionen am
+  Tag (18.4). Der Kauf vom 27.09. über 48,92 € hebt das Fenster auf
+  659 %
+- **Das Konto liegt über 18.–27.09. bei 181 % — aber nur wegen der zwei
+  Käufe vom 27.09.** Bis zum 26.09. stand es bei 68,87 € Umsatz auf
+  rund 72 € Kosten, also bei rund 96 % *(gerechnet aus 18.1 plus
+  26.09.; der Anteil von D und C am 26.09. geschätzt)*
+- **F Kommunion:** pausiert, „Nicht aktiv — Kampagne ausstehend,
+  Kampagne pausiert", Start 01.10. **Die Anzeigeneffektivität steht in
+  der Anzeigenliste jetzt auf „Gut"** — im Editor hatte sie am 27.09.
+  „Sehr gut" gezeigt (18.9). Google hat neu bewertet, ein Rückschritt
+  gegenüber „Schlecht" ist es nicht
+- **Änderungsverlauf 18.–28.09.:** sieben Einträge. Sechs abgelesen,
+  alle `tk@taeradesign.de`, Webclient (manuell), alle am 27.09.
+  zwischen 12:28 und 14:03 und alle an F Kommunion; der jüngste um
+  14:03:28 („1 responsive Suchanzeige geändert", die vier Titel aus
+  18.9). Der siebte nicht einzeln gelesen — *vermutlich* der
+  Budgeteintrag vom 24.09. (18.4). **Keine automatische Änderung, keine
+  Änderung seit dem 27.09., 14:03.** Ob inzwischen eine Markenliste
+  existiert, zeigt der Verlauf nicht sicher; ein Eintrag dazu steht
+  dort nicht
+- **Regel `cpb_ordered` (15.4): nicht geprüft** — Produkttypen diesmal
+  nicht geöffnet
+- **Googles Hinweis im Produktbericht:** Suchanfragen der Kategorie
+  **„Adventskalender" +250 %** gegenüber den letzten 28 Tagen. Gehört wie
+  der Hinweis zu „Kränze & Girlanden" (18.4) zum November-Termin von
+  D Wichtelwelt, falls das Sortiment Adventskalender führt
+- **Kontobanner „Konto vor nicht autorisierten Aktivitäten schützen"**
+  (Warnsymbol) steht oben im Konto. **Nicht geöffnet** — Sicherheits-
+  und Kontoeinstellungen sind Sache des Betreibers
+- **Arbeitshinweis:** Auf der Kampagnenseite liefert das Auslesen des
+  Seitentexts nur den eingeblendeten KI-Chat „Ask Advisor"; die Tabelle
+  kommt über den Barrierefreiheitsbaum der Tabelle selbst. Für die
+  Tageswerte die Segmentierung kurz auf „Zeit → Tag" gestellt und danach
+  **auf „Netzwerk (mit Suchnetzwerk-Partnern)" zurückgestellt**. Der
+  Zeitraum steht jetzt auf 18.–28.09. statt 18.–27.09.
