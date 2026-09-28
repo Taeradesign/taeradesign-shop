@@ -2824,3 +2824,46 @@ Eintragsgruppen und Ziel-ROAS 180 % bleiben erhalten.
   ausliefert; dazu Entscheidung Filzprodukte-Ziel (19.4)
 - Übrige Termine (Auto-Apply ~12.10., D Wichtelwelt Anfang November,
   G Zeugnismappen Januar) unverändert
+
+### 19.6 Nachtrag 28.09.2026: Versandkosten — die wahre Linie liegt bei rund 180 %
+
+**Betreiber, 28.09.2026: Versand einer Gotteslobhülle 5,50 € mit DHL.**
+*Annahme: Der Versand wird zum Selbstkostenpreis durchgereicht (wie in
+§4) und trägt keinen Deckungsbeitrag.* Googles Conversion-Wert enthält
+ihn trotzdem (19.1). Damit gilt für Googles Werte:
+
+> **Break-even-ROAS = Bestellwert ÷ (0,65 × (Bestellwert − 5,50 €))**
+
+| Bestellung | Bestellwert | DB | Break-even auf Googles Wert |
+|---|---:|---:|---:|
+| Hülle zum Grundpreis | 34,49 € | 18,84 € | **183 %** |
+| Hülle mit Aufpreis (der Kauf vom 27.09.) | 36,99 € | 20,47 € | **181 %** |
+| Filzprodukte, Ø-Bestellwert 18.–28.09. (18.10) | 29,45 € | 15,57 € | **189 %** *(184 % mit Faktor 3)* |
+| größerer Warenkorb | 50,00 € | 28,93 € | 173 % |
+
+*(Die Ø-Bestellung bei Filzprodukte nimmt dieselben 5,50 € Versand an —
+ob Filzplatten günstiger verschickt werden, ist nicht gefragt.)*
+
+**Folge: Die Linie, gegen die jeder ROAS zu lesen ist, liegt bei rund
+180 %, nicht bei 154 %.** Die 154 % sind die reine Warenspanne; auf
+Googles Bruttowert mit Versand kommen rund 25–35 Prozentpunkte hinzu.
+Je kleiner die Bestellung, desto höher die Linie.
+
+**Was das an den bisherigen Befunden ändert:**
+
+- **Gotteslob** (119 % seit Reaktivierung, 56 % seit Trennung): noch
+  deutlicher darunter — die Pause vom 28.09. bestätigt sich
+- **Konto 18.–27.09. mit 181 %** (18.10): **auf der Linie, nicht darüber**
+- **Filzprodukte** (659 %): weit darüber. **Für das Ziel heißt das:**
+  Auch ein deutlich niedrigeres Ziel als 450 % bleibt klar über der Linie
+  — ein Ziel unter ~200 % dagegen nicht mehr (19.4)
+- **Das Gotteslob-Ziel 180 %** (14.5) lag damit genau auf der Nulllinie —
+  eine Kampagne, die ihr Ziel erreicht, hätte nichts verdient
+- **Die Weihnachtssaison 2025** (118 %, 14.2) hat mehr als die dort
+  gerechneten rund 401 € verloren *(nicht neu gerechnet — der Versandanteil
+  der damaligen Bestellungen ist unbekannt)*
+
+**F Kommunion:** Der Break-even-CPC bei 3,3–4,9 % Conversion-Rate
+(17.3) liegt bei **0,68–1,00 €** *(0,033 bzw. 0,049 × 20,47 €)* — der
+Deckel von 0,50 € bleibt darunter. Die tragende Klickquote für die
+Stoppregel (19.4): **~2,4–2,7 %** *(0,50 € ÷ 20,47 € bzw. ÷ 18,84 €)*.
