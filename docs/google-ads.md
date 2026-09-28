@@ -2714,3 +2714,113 @@ ein Lebenszeichen, keine Wende.
   Tageswerte die Segmentierung kurz auf „Zeit → Tag" gestellt und danach
   **auf „Netzwerk (mit Suchnetzwerk-Partnern)" zurückgestellt**. Der
   Zeitraum steht jetzt auf 18.–28.09. statt 18.–27.09.
+
+## 19. Die Gotteslob-Entscheidung am 28.09.2026 — vorgezogen, PMax pausiert, F Kommunion live
+
+Der Termin ~01.10. (17.2) ist **vorgezogen**. Anlass war eine
+Verbesserungsauswertung am 28.09. (vier Blickwinkel, je adversarial
+gegengeprüft; Ergebnis nicht als eigene Datei abgelegt, die tragenden
+Punkte stehen hier). Ihr Hauptbefund korrigierte die Einschätzung aus
+18.5 und 18.10:
+
+> **„PMax pausieren, F aktivieren" allein hätte der Gotteslobhülle jede
+> Produktanzeige genommen.** 62 % der Gotteslob-Kosten und der einzige
+> Kauf liefen über Produktanzeigen der Hülle (18.10: 41,45 € von
+> 66,69 €); in Filzprodukte war sie seit dem 17.09. ausgeschlossen
+> (15.5), und F ist eine reine Textkampagne.
+
+### 19.1 Betreiberangaben vom 28.09.2026
+
+| Frage | Antwort | Folge |
+|---|---|---|
+| Bezieht sich die Spanne von ~65 % auf netto oder brutto? | **brutto** | Break-even 154 % gilt für Googles Bruttowerte. Das Szenario „183 %" (65 % auf netto, Ads meldet brutto) entfällt |
+| Gilt die Untergrenze 37 €/h (Entscheidungsliste Abschnitt 8, Nr. 2)? | **„Hauptsache verkaufen, dass ein Gewinn rauskommt"** | Die Linie ist der Deckungsbeitrag > 0, nicht 37 €/h (≈ 500 % an der Hülle). **Damit fehlt dem Filzprodukte-Ziel von 450 % die Begründung** — siehe 19.4 |
+| Spanne der übrigen Produktgruppen (14.8)? | **Faktor 3** | Spanne ≈ 67 %, Break-even ≈ 150 % *(1 − 1/3; Annahme: Faktor auf den Bruttopreis wie bei der ersten Frage)*. Die pauschalen 154 % sind leicht vorsichtig, eine eigene Linie je Kampagne ist nicht nötig |
+| Woher kommen 36,99 € statt 28,99 € (18.10)? | **Grundpreis, individuelle Konfiguration gegen Aufpreis, zuzüglich Versandkosten** | Googles Conversion-Wert enthält **den Versand**, der nur durchgereicht wird. Der wahre Break-even auf Googles Werte liegt deshalb **über 154 %** — wie weit, hängt an den Versandkosten, die nirgends erhoben sind (`ist-zustand.md`). *Beispiel mit angenommenen 4,90 €: 36,99 € − 4,90 € = 32,09 € Ware × 65 % = 20,86 € DB → Break-even 177 %* |
+| Der Standard-Shopping-Test (Entscheidungsliste Abschnitt 8, Nr. 5)? | Nachfrage „was meinst du?" — erläutert | **Zurückgestellt.** Mit der Hülle zurück in Filzprodukte kommen ihre Produktanzeigen von dort. Wieder aufgreifen, wenn Filzprodukte die Hülle kaum ausliefert |
+
+**Offen:** Versandkosten einer Gotteslobhülle.
+
+### 19.2 Warum nicht bis zum 01.10. gewartet wurde
+
+Der 01.10. hatte zwei Gründe (17.2): saubere Zahlen für die
+Gotteslob-Bewertung, und F sollte ablösen statt danebenlaufen. **Die
+Zahlen lagen am 28.09. schon eindeutig unter der Linie** — 56 % seit der
+Trennung, 119 % seit der Reaktivierung (18.10) —, und für 154 % bis zum
+01.10. hätte es rund drei Hüllen in drei Tagen gebraucht. Mit dem
+Betreiberziel „Gewinn" ist Gotteslob auf keiner der Linien aus 19.1
+rentabel.
+
+### 19.3 Was am 28.09.2026 geändert wurde
+
+Freigabe Betreiber im Chat: „Gotteslobhüllen in Filzprodukte wieder
+aufnehmen", „F Kommunion heute aktivieren", „ad 2. ok" (Gotteslob
+pausieren), „ad 3. ok" (Claude setzt das Datum, der Betreiber
+aktiviert — Entscheidungsliste Abschnitt 8, Nr. 6). **Je Kampagne genau
+eine Änderung** (Abschnitt 11), alles nach Neuladen gegengeprüft.
+
+| # | Kampagne | Vorher | Nachher | Gegenprüfung |
+|---|---|---|---|---|
+| 1 | **Filzprodukte**, Asset-Gruppe „Filzprodukte", Eintragsgruppen → `cpb_product` → `shopify_de_8665393430853_47…` (Gotteslobhülle) | ausgeschlossen | **aktiv** | ✅ nach Neuladen: Hülle aktiv, `cpb_ordered` weiter **ausgeschlossen**, „Alles andere in cpb_product" und „Alles andere in Alle Produkte" aktiv |
+| 2 | **Gotteslob-Max-Performance** | Aktiviert | **Pausiert** | ✅ Kampagnenliste nach Neuladen |
+| 3 | **Kommunion** (F), Start- und Enddatum | Start 1. Okt. 2026 | **Start 28. Sept. 2026**, kein Enddatum | ✅ Einstellungen nach Speichern |
+| 4 | **Kommunion** (F), Status | Pausiert | **Aktiviert — durch den Betreiber** | ✅ von Claude nach Neuladen: „Aktiv (lernt) — Gebotsstrategie lernt" |
+
+**Gegenprüfung nach der Aktivierung (28.09.2026, nur gelesen):**
+
+| Prüfpunkt | Stand |
+|---|---|
+| Kampagnenstatus Kommunion | **Aktiv (lernt)**, „Gebotsstrategie lernt" |
+| Anzeige (Responsive Suchanzeige, „A Gotteslobhülle") | **Aktiv**, Anzeigeneffektivität „Gut", 15 Titel / 4 Textzeilen, finale URL Produktseite der Hülle |
+| Keywords | **6 von 7 aktiv**: [gotteslobhülle], [gotteslob hülle], [gotteslobhülle kommunion], [gotteslobhülle mit namen], [gotteslobhülle filz], [gotteslobhülle personalisiert]. **[gotteslobhülle bestickt]: „Nicht aktiv — Geringes Suchvolumen"** — Googles Normalfall bei seltenen Begriffen, wird bei Suchvolumen von selbst aktiv. Kein Handlungsbedarf |
+| Gotteslob-Max-Performance | **Pausiert**; Unterstatus weiter „Alle Asset-Gruppen sind durch Richtlinien eingeschränkt, 99 % der Produkte sind aus dieser Kampagne …" (die gewollte Unterteilung aus 15.5) |
+| Filzprodukte | **Aktiv** |
+
+Eine Einschränkung durch die Religions-Richtlinie (14.4) zeigt die
+Anzeige von F **nicht** — anders als die Asset-Gruppe der PMax. *Ob das
+so bleibt, zeigt erst die Auslieferung; Anzeigen werden auch nach dem
+Start noch geprüft.*
+
+**Zu 1:** Über das Status-Menü der Zeile („Hinzufügen" statt
+„Ausschließen"), nicht über „Bearbeiten" am Knoten. Damit bleibt die
+Unterteilung stehen, und die Falle aus 15.5 (Google stellt beim
+Unterteilen „Alles andere" auf ausgeschlossen) tritt nicht auf.
+
+**Die Gotteslob-PMax ist nur pausiert, nicht entfernt** — Asset-Gruppe,
+Eintragsgruppen und Ziel-ROAS 180 % bleiben erhalten.
+
+### 19.4 Was jetzt zu erwarten ist — und was offen bleibt
+
+- **Die Hülle hängt jetzt an zwei Kampagnen:** Produktanzeigen über
+  Filzprodukte (Ziel-ROAS 450 %), Textanzeigen über F Kommunion
+  (Klicks maximieren, Deckel 0,50 €, 3 €/Tag). **Bei 450 % wird
+  Filzprodukte die Hülle vermutlich selten zeigen** *(Vermutung: Die
+  Kampagne ruft ohnehin nur ~12 % ihres Budgets ab, 18.4)*. Das ist der
+  Preis dafür, heute nur eine Änderung je Kampagne zu machen
+- **Filzprodukte-Ziel senken — frühestens beim Kontrollblick
+  ~02.–04.10., getrennt von der heutigen Änderung.** Mit 19.1 ist 450 %
+  nicht mehr begründet; die Linie liegt zwischen 154 % und — je nach
+  Versand — gut 170 %. Welcher Schritt (400 %? 300 %?) ist Sache des
+  Betreibers
+- **F Kommunion ab heute beobachten:** Impressionen, Suchbegriffe
+  (Statistiken → Suchbegriffe; der gespeicherte Filter aus 18.4 muss
+  dafür F einschließen), Klicks, CPC unter 0,50 €, Käufe. Die Lernphase
+  läuft — **nicht nachjustieren** (Abschnitt 11)
+- **Shopping-Test:** zurückgestellt (19.1). Auslöser zum Wiederaufgreifen:
+  Filzprodukte liefert die Hülle beim Kontrollblick kaum aus
+- **Stoppregel für F** vor der ersten Bewertung schriftlich festlegen:
+  gezählt werden Klicks auf die Hülle gegen die Klickquote, bei der sich
+  die Werbung trägt *(bei 0,50 € Deckel und rund 21 € DB je Kauf etwa
+  2,4 %, Annahme)* — nicht jeder einzelne Kauf gedeutet
+- **Markenausschluss:** jetzt nur noch bei Filzprodukte nötig
+  (Gotteslob pausiert); weiter Sache des Betreibers (18.4)
+
+### 19.5 Termine, geändert
+
+- **~01.10.2026 „Gotteslob bewerten und über F entscheiden" — erledigt
+  am 28.09.** (19.2, 19.3)
+- **Nächster Kontrollblick ~02.–04.10.2026** unverändert — dann mit
+  F Kommunion im ersten Fenster und der Frage, ob Filzprodukte die Hülle
+  ausliefert; dazu Entscheidung Filzprodukte-Ziel (19.4)
+- Übrige Termine (Auto-Apply ~12.10., D Wichtelwelt Anfang November,
+  G Zeugnismappen Januar) unverändert
