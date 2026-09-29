@@ -2884,3 +2884,130 @@ Stoppregel (19.4): **~2,4–2,7 %** *(0,50 € ÷ 20,47 € bzw. ÷ 18,84 €)*.
 dem Markennamen, nicht die Produkte. Der Ausschluss verhindert, dass
 Filzprodukte für Suchen nach „taeradesign …" zahlt und sich
 Stammkunden-Käufe zurechnet; diese Suchen bedient C Brand.
+
+### 19.8 Zwischenprüfung am 29.09.2026 — kein Kontrollblick, alle drei Änderungen greifen
+
+**Kein Kontrollblick im Sinne von Abschnitt 11** — der nächste bleibt
+~02.–04.10. fällig (Empfehlung unten: 03.10.). Auf Wunsch des Betreibers
+einen Tag nach 19.3 mitgelesen, mit einer Frage: Greifen die drei
+Änderungen vom 28.09.? Konto 932-417-3105, `tk@taeradesign.de`, per
+Claude in Chrome, am Morgen des 29.09. **Nur gelesen, nichts geändert.**
+
+#### Fenster 28.–29.09.2026
+
+**Nicht belastbar, nur zum Bemerken:** Das ganze Fenster liegt in den
+letzten zwei Tagen (Fallstrick Abschnitt 11), fast alles davon am 28.09.
+Die Werte liefen beim Ablesen noch nach (Konto 598 → 601 Impr.). Kein
+Kauf, deshalb kein ROAS — die Tabelle beantwortet nur Frage 1 des
+Kontrollblicks: Liefert die Kampagne aus?
+
+| Kampagne | Status | Impr. | Kosten | Käufe |
+|---|---|---:|---:|---:|
+| Filzprodukte | Aktiv (eingeschränkt) — „Durch Ziel eingeschränkt" | 483 | 3,92 € | 0 |
+| D Wichtelwelt | Aktiv | 59 | 0,00 € | 0 |
+| Gotteslob | Pausiert (seit 28.09., 11:23) | 44 | 1,25 € | 0 |
+| F Kommunion | Aktiv (eingeschränkt) — Lernphase | 14 | 0,50 € | 0 |
+| C Brand | Aktiv (eingeschränkt) — Eingeschränkte Gebotseinstellungen | 1 | 0,00 € | 0 |
+| **Konto** | Budgets 19,50 €/Tag | 601 | 5,67 € | 0 |
+
+*(Gotteslob: Kosten vom Vormittag des 28.09., vor der Pause. G
+Zeugnismappen und die Altkampagnen: pausiert, 0 Impr.)*
+
+#### F Kommunion: liefert aus und lernt
+
+- **14 Impressionen, 1 Klick, 0,50 €** — CTR 7,1 %, CPC genau am
+  Deckel. Der Klick fiel am 28.09.
+- **„Aktiv (eingeschränkt)" ist die Lernphase.** Statustext im
+  Kampagnenkopf: „Gebotsstrategie ist neu und befindet sich in der
+  Lernphase", „4 Tage zum Lernen übrig", „1 Tag seit der letzten
+  signifikanten Änderung". **Ende damit etwa am 03.10.** Kein
+  Handlungsbedarf — nicht nachjustieren (Abschnitt 11)
+- **Anzeige „A Gotteslobhülle":** Aktiv, Effektivität „Gut", kein
+  Richtlinienhinweis (wie 19.3)
+- **Keywords:** [gotteslob hülle] 10 Impr. und der Klick ·
+  [gotteslobhülle personalisiert] 2 · [gotteslobhülle] 1 ·
+  [gotteslobhülle filz] 1 · [gotteslobhülle kommunion] und
+  [gotteslobhülle mit namen] 0 · [gotteslobhülle bestickt] weiter
+  „Nicht aktiv — Geringes Suchvolumen"
+- **Suchbegriffe: alle zum Thema, kein Ausschluss nötig.** 11 der 14
+  Impressionen ausgewiesen: gotteslob einband 4 · hülle gotteslob 2 ·
+  je 1: gotteslob buchhülle (der Klick), gotteslobhülle, einband für
+  gotteslob, gebetbuchhülle, gotteslob umschlag. Bis auf
+  „gotteslobhülle" alle als „Genau passend (ähnliche Variante)"
+- **Für den Kontrollblick:** Das Hauptkeyword [gotteslobhülle] kam auf
+  1 Impression. Ob der Deckel von 0,50 € es bremst, sagt ein Tag nicht
+  *(Vermutung, nicht belegt)*
+
+#### Hinter „Durch Gebotsstrategie eingeschränkt" steckt eine Empfehlung — nicht übernommen
+
+In der Kampagnenliste trägt F den orangen Hinweis „Durch
+Gebotsstrategie eingeschränkt". **Er öffnet keine Diagnose, sondern
+eine Empfehlung:** „Mit ‚Conversions maximieren' in Verbindung mit
+Ziel-CPA effizienter bieten", vorbelegt mit **Ziel-CPA 21,23 €**
+(„EMPFOHLEN"), begründet mit „genügend Conversion-Daten" im Konto. Mit
+„Abbrechen" geschlossen. Der eigentliche Status steht im Kampagnenkopf
+(oben: Lernphase).
+
+**Einordnung:** 21,23 € je Kauf liegen **über** dem Deckungsbeitrag
+einer Hülle — 18,84 € zum Grundpreis, 20,47 € mit Aufpreis (19.6).
+Jeder Kauf zum Zielwert wäre ein Verlust. Dazu die Lernphase und die
+rote Linie „Einzelfreigabe", die auch für Googles Vorschläge gilt.
+**Keine offene Aufgabe.**
+
+#### Filzprodukte: die Hülle läuft wieder
+
+- **Gotteslobhülle** (Produktbericht, 28,99 €): **47 Impr.,
+  2 Produktklicks, 0,36 €** (CTR 4,3 %, CPC 0,18 €), alles seit der
+  Aufnahme am 28.09. um 11:20. Nach Impressionen Platz 4 in der
+  Kampagne, hinter drei Filzplatten-Artikeln (75, 65, 58). **Die Frage
+  aus 19.4 — liefert Filzprodukte die Hülle bei 450 % überhaupt aus? —
+  ist für den ersten Tag beantwortet: ja.** Der Standard-Shopping-Test
+  bleibt zurückgestellt (19.1)
+- **Status „Durch Ziel eingeschränkt"**, im Kampagnenkopf und in der
+  Liste; Statustext „Anzeigen für diese Kampagne werden an eine
+  eingeschränkte Zielgruppe ausgeliefert". Das ist der bekannte Befund
+  (Budgetabruf 12 %, 18.4), jetzt von Google selbst benannt — **der
+  Anlass der Zielentscheidung am Kontrollblick (19.7)**
+- **Regel `cpb_ordered` (15.4): kein Fund.** Produkttypen 28.–29.09.:
+  11 Artikel `cpb_ordered` (25.09.: 9), 0 Impr., 0,00 €.
+  `cpb_product`: 10 Artikel, 74 Impr., 4 Klicks, 2,18 € — davon 47
+  Impr., 2 Klicks und 0,36 € die Hülle *(die übrigen neun: 27 Impr.,
+  2 Klicks, 1,82 €; ein Tag, nicht deuten)*
+- **Volumen:** 483 Impressionen im Fenster, nach ~300 am Tag (18.4) und
+  213/389 am 26./27.09. (18.10). Ein Tag — nicht deuten
+
+#### Änderungsverlauf und Benachrichtigungen
+
+- **Änderungsverlauf 28.–29.09.: genau die vier Einträge aus 19.3**,
+  alle am 28.09., `tk@taeradesign.de`, Webclient (manuell): 11:20:29
+  Filzprodukte „1 Filter für Asset-Eintragsgruppen geändert" · 11:23:09
+  Gotteslob „1 kampagne pausiert" · 11:27:58 Kommunion „Kampagne
+  geändert" · 11:31:54 Kommunion „1 kampagne aktiv". **Keine
+  automatische Änderung.** Ersetzt nicht die Auto-Apply-Prüfung (~12.10.)
+- **Benachrichtigungen:** „Erweiterte Conversions prüfen" (bekannt,
+  bleibt bewusst aus — Abschnitt 3, Warnhinweise vom 08.08.), dazu
+  Googles Standardvorschläge, u. a. „1 redundantes Keyword entfernen"
+  (welches, nicht geöffnet), Bild-Assets, Videos, Snippet-Erweiterungen,
+  responsive Suchanzeigen optimieren. **Nichts zu Richtlinien oder
+  Zahlung.** Nichts übernommen, ebenso wenig die Karte „ROAS-Ziele
+  anpassen" (+1,4 %) über der Kampagnenliste
+- **Arbeitshinweise:** Die Kampagnenliste zeigt **10 Zeilen je Seite**,
+  sortiert nach Umsatz — ohne Umsatz im Fenster steht Filzprodukte auf
+  **Seite 2**, die Kontosumme enthält sie trotzdem. Der Klick auf einen
+  Kampagnennamen öffnete per Claude in Chrome die Kampagne nicht; die
+  Unterseiten gehen direkt über die URL mit `campaignId` —
+  **Filzprodukte `20676090469`**, Kommunion `24299415265`. Der Zeitraum
+  im Konto steht jetzt auf 28.–29.09.
+
+#### Was daraus folgt
+
+- **Alle drei Änderungen vom 28.09. greifen:** F liefert aus, die Hülle
+  läuft über Filzprodukte, Gotteslob ruht. Kein Eingriff nötig
+- **Empfehlung (Claude): Kontrollblick am 03.10.** Die Lernphase von F
+  ist dann vorbei, und es bleiben knapp vier bewertbare Tage (28.09. ab
+  Mittag bis 01.10.). Am 02.10. wären es knapp drei; der 04.10. ist der
+  siebte Tag nach dem 27.09., den der Morgenblick schon als überfällig
+  meldet
+- **Am Kontrollblick unverändert (19.5, 19.7):** F im ersten Fenster,
+  vorher die Stoppregel festlegen (19.4); Auslieferung der Hülle in
+  Filzprodukte; Filzprodukte-Ziel zur Entscheidung
