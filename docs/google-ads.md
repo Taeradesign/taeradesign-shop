@@ -3011,3 +3011,128 @@ rote Linie „Einzelfreigabe", die auch für Googles Vorschläge gilt.
 - **Am Kontrollblick unverändert (19.5, 19.7):** F im ersten Fenster,
   vorher die Stoppregel festlegen (19.4); Auslieferung der Hülle in
   Filzprodukte; Filzprodukte-Ziel zur Entscheidung
+
+## 20. Kontrollblick am 01.10.2026 — die Hülle verkauft über Filzprodukte, Ziel auf 300 %
+
+**Kontrollblick im Sinne von Abschnitt 11**, vier Tage nach dem vom
+27.09. — einen Tag vor dem Fenster, auf Wunsch des Betreibers. Konto
+932-417-3105, `tk@taeradesign.de`, per Claude in Chrome, am Morgen des
+01.10. Fenster **28.09.–01.10.** (seit den Änderungen aus 19.3).
+**Belastbar sind davon nur der 28. und 29.09.** (Fallstrick Abschnitt
+11) — die Zahlen dienen dem Bemerken.
+
+### 20.1 Zahlen 28.09.–01.10.2026
+
+| Kampagne | Status | Impr. | Klicks | Kosten | Käufe | Umsatz | ROAS |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Filzprodukte | Aktiv | 1.391 | 24 | 8,22 € | 1 | 33,99 € | **413 %** |
+| F Kommunion | Aktiv (eingeschränkt) | 74 | 5 | 2,43 € | 0 | — | — |
+| D Wichtelwelt | Aktiv | 168 | 1 | 0,01 € | 0 | — | — |
+| C Brand | Aktiv (eingeschränkt) | 3 | 1 | 0,01 € | 0 | — | — |
+| Gotteslob | Pausiert (seit 28.09.) | 44 | 3 | 1,25 € | 0 | — | — |
+| **Konto** | Budgets 19,50 €/Tag | 1.680 | 34 | 11,92 € | 1 | 33,99 € | **285 %** |
+
+*(Gotteslob: Kosten vom Vormittag des 28.09., vor der Pause. Zum
+Vergleich: Dasselbe Fenster 28.–29.09. zeigte am 29.09. morgens 601
+Impr., heute für 28.–29.09. 1.158 — die Werte laufen kräftig nach.)*
+
+**Gegen die Linie (19.6):** Filzprodukte mit 413 % und das Konto mit
+285 % liegen **über der ~180-%-Linie** (und über den 154 % reiner
+Warenspanne). Der eine Kauf zu 33,99 € trägt *(Annahme: 5,50 € Versand
+durchgereicht)* rund **18,52 € DB** (0,65 × 28,49 €) gegen 11,92 €
+Kontokosten — **rund +6,60 € im Fenster**. Ein Kauf; nicht deuten.
+
+### 20.2 Filzprodukte: der Kauf ist eine Gotteslobhülle
+
+- **Produktbericht Gotteslobhülle (28,99 €): 191 Impr., 6 Klicks,
+  1,74 €, 1 Kauf, 33,99 €.** Platz 2 nach Impressionen hinter einer
+  Filzplatte (238). **Die Rückführung der Hülle in Filzprodukte (19.3)
+  liefert aus und hat verkauft** — der Standard-Shopping-Test bleibt
+  zurückgestellt (19.1)
+- **Budgetabruf grob ein Viertel** (8,22 € auf rund 3,3 Tage à 10 €) —
+  nach 12 % am 27.09. (18.4). Kampagnenstatus jetzt „Aktiv", nicht mehr
+  „Durch Ziel eingeschränkt" *(ob das an den Werten liegt oder Googles
+  Anzeige schwankt, ist offen)*
+- **Regel `cpb_ordered` (15.4): kein Fund.** Produkttypen im Fenster:
+  `cpb_ordered` 10 Artikel, 0 Impr., 0,00 € · `cpb_product` 10 Artikel,
+  262 Impr., 10 Klicks, 4,31 €, 1 Kauf (die Hülle)
+- Übrige Produkttypen: kunst- & bastelmaterialien 714 Impr., 9 Klicks,
+  2,30 € · wichtelzubehör 85 Impr., 1 Klick, 0,10 € · stickdateien 57
+  Impr., 1 Klick, 0,24 € · „Kein Produkttyp" 180 Impr., 0 Klicks
+
+### 20.3 F Kommunion: liefert aus, kein Kauf, unterausgelastet
+
+- **74 Impr., 5 Klicks, 2,43 €, CPC Ø 0,49 €** (am Deckel 0,50 €),
+  CTR 6,8 %, 0 Käufe. Ausgabe rund **0,70 €/Tag bei 3 € Budget**
+- **Suchbegriffe (66 Impr. ausgewiesen, 3 Klicks): alle zum Thema,
+  kein Ausschluss nötig.** gotteslob hülle 16 Impr. / 0 Klicks ·
+  gotteslob einband 7 / 1 · einband für gotteslob 6 · gotteslobhülle 4 /
+  1 · gebetbuch hülle 4 · einband gotteslob 2 · gebetbuch einband
+  kommunion 2 · gotteslob buchhülle 1 / 1 · gotteslobhülle filz 1 ·
+  gotteslobhülle personalisiert 1
+- **[gotteslob hülle] mit 16 Impressionen ohne Klick** — ob der Deckel
+  von 0,50 € die Position drückt, ist *Vermutung, nicht belegt*.
+  Lernphase bis etwa 03.10. (19.8) — **nicht nachjustieren**
+- Statushinweis „Durch Gebotsstrategie eingeschränkt" weiter = Googles
+  Ziel-CPA-Empfehlung (19.8), nicht übernommen
+
+### 20.4 Stoppregel für F Kommunion (Betreiber, 01.10.2026: „ok")
+
+> **F wird gestoppt, wenn nach 60 Klicks kein Kauf über F kam**
+> (beim heutigen CPC rund 30 €).
+
+Begründung *(Annahmen)*: Bei der tragenden Klickquote von ~2,4 % (19.6)
+käme in 60 Klicks mit etwa 77 % Wahrscheinlichkeit mindestens ein Kauf
+(1 − 0,976⁶⁰), bei 4 % mit etwa 91 %. Bleibt er aus, ist die
+Klickquote wahrscheinlich zu niedrig. Gezählt werden Klicks, nicht
+Einzelkäufe gedeutet (19.4).
+
+**Der Haken:** Beim heutigen Tempo (~1,4 Klicks/Tag) dauert das rund
+sechs Wochen — Mitte November. Als Alternative war ein Stichtag 31.10.
+genannt; gewählt ist die Klickregel. Bei jedem Kontrollblick den
+Klickstand von F seit 28.09. mitschreiben.
+
+### 20.5 Änderung: Filzprodukte Ziel-ROAS 450 % → 300 %
+
+- **Entscheidung Betreiber, 01.10.2026** (19.7, Schritt 1). Begründung:
+  450 % war seit dem Wegfall der 37-€/h-Linie (19.1) unbegründet; 300 %
+  ist ein spürbarer Schritt und bleibt weit über der ~200-%-Untergrenze
+  (19.6). **Die einzige Änderung heute**, keine an F
+- **Gesetzt vom Betreiber selbst** — die Sicherheitsprüfung von Claude
+  Code hat die Eingabe durch Claude abgelehnt (Eingriff in ein
+  Werbekonto mit Geldwirkung). Damit bleibt „Einzelfreigabe" auch
+  technisch abgesichert
+- **Gegengeprüft nach Neuladen:** Kampagneneinstellungen zeigen
+  „Ziel-ROAS von 300%" bzw. „Ziel-ROAS – 300 %". Im Änderungsverlauf war
+  der Eintrag unmittelbar danach noch nicht sichtbar (Bericht nicht in
+  Echtzeit) — beim nächsten Blick nachsehen
+- **Erwartung:** mehr Auslieferung und Budgetabruf, niedrigerer ROAS.
+  Ziel-ROAS-Änderungen bringen eine neue Lernphase — **beim nächsten
+  Kontrollblick nicht gleich wieder drehen** (Abschnitt 11)
+
+### 20.6 Änderungsverlauf und Nebenbefunde
+
+- **Änderungsverlauf 28.09.–01.10.: nur die vier Einträge aus 19.3.**
+  Keine automatische Änderung
+- **Gotteslob (pausiert)** trägt den Statustext „Alle Asset-Gruppen sind
+  durch Richtlinien eingeschränkt, 99 % der Produkte sind aus dieser
+  Kampagne ausgeschlossen". Die 99 % passen zur Herausnahme der Hülle
+  (19.3); den Richtlinienteil **vor einer Reaktivierung klären** —
+  solange pausiert, ohne Wirkung
+- Benachrichtigung „Erweiterte Conversions prüfen" weiter da (bekannt,
+  bewusst aus); Empfehlungskarte Ziel-CPA nicht übernommen
+
+### 20.7 Termine
+
+- **Markenliste „Taeradesign" + Ausschluss bei Filzprodukte (19.7,
+  Schritt 2): ~05.10.2026** — einige Tage nach der Zieländerung, nicht
+  am selben Tag wie eine andere Änderung an Filzprodukte. Claude legt
+  die Werte vorab vor; vorher die Basislinie „taeradesign" in den
+  Suchbegriff-Statistiken festhalten; offen: Eintrag mit oder ohne
+  Schrägstrich (18.4)
+- **Nächster Kontrollblick ~06.–08.10.2026.** Dann: Wirkung des Ziels
+  300 % (Impressionen, Budgetabruf, ROAS gegen ~180 %); Klickstand F
+  gegen die Stoppregel; Hülle in Filzprodukte; Änderungsverlauf mit dem
+  Eintrag vom 01.10.
+- Übrige Termine unverändert: Auto-Apply ~12.10., D Wichtelwelt Anfang
+  November, G Zeugnismappen Januar
