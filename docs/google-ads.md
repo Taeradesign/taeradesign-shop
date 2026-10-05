@@ -3136,3 +3136,204 @@ Klickstand von F seit 28.09. mitschreiben.
   Eintrag vom 01.10.
 - Übrige Termine unverändert: Auto-Apply ~12.10., D Wichtelwelt Anfang
   November, G Zeugnismappen Januar
+
+## 21. Kontrollblick am 04.10.2026 — angezeigt wird, gekauft nicht; Betreiber entscheidet A–D
+
+**Anlass:** Der Betreiber meldet am 04.10., im Shop verkaufe sich nichts
+mehr — Vermutung: „ich werde nicht mehr angezeigt, oder einem falschen
+Zielkunden ausgespielt". Kontrollblick im Sinne von Abschnitt 11, drei
+Tage nach dem vom 01.10. Konto 932-417-3105, `tk@taeradesign.de`, per
+Claude in Chrome. **Nur gelesen, nichts geändert.** Fenster: 30 Tage
+(04.09.–03.10.), 14 Tage (20.09.–03.10.) und Tageswerte; **der 02. und
+03.10. sind nicht belastbar** (Fallstrick Abschnitt 11).
+
+### 21.1 Zahlen, 30 Tage (04.09.–03.10.2026)
+
+| Kampagne | Status | Impr. | Klicks | Kosten | Käufe | Umsatz | ROAS |
+|---|---|---:|---:|---:|---:|---:|---:|
+| Filzprodukte | Aktiv | 11.363 | 160 | 61,38 € | 6 | 240,78 € | **392 %** |
+| Gotteslob-Max-Performance | Pausiert (seit 28.09.) | 14.087 | 214 | 115,53 € | 3 | 135,45 € | **117 %** |
+| Kommunion (F) | Aktiv (eingeschränkt) | 156 | 6 | 2,93 € | 0 | — | — |
+| D Wichtelwelt | Aktiv | 1.281 | — | 1,68 € | 0 | — | — |
+| C Brand | Aktiv (eingeschränkt) | — | — | 2,32 € | 0 | — | — |
+| **Konto** | | 26.930 | 408 | 183,84 € | 9 | 376,23 € | **205 %** |
+
+**Filzprodukte je Woche:** 07.09. 1.374 Impr., 10,60 €, 1 Kauf ·
+14.09. 2.867 Impr., 14,30 €, 1 Kauf · 21.09. 2.160 Impr., 9,22 €, 3 Käufe
+· 28.09.–03.10. **4.394 Impr., 25,06 €, 1 Kauf** (33,99 €).
+
+**Filzprodukte je Tag:**
+
+| | 27.09. | 28.09. | 29.09. | 30.09. | 01.10. | 02.10. | 03.10. |
+|---|---:|---:|---:|---:|---:|---:|---:|
+| Impr. | 389 | 466 | 505 | 405 | 1.050 | 907 | 1.061 |
+| Klicks | 9 | 9 | 4 | 11 | 13 | 14 | 13 |
+| Kosten | 2,82 € | 3,82 € | 1,15 € | 3,25 € | 4,89 € | 8,15 € | 3,80 € |
+| Käufe | 1 | 0 | 1 | 0 | 0 | 0 | 0 |
+
+**Gotteslob 20.–27.09. (letzte volle Woche vor der Pause):** 48,46 €,
+1 Kauf (36,99 €).
+
+*(Nebenbefund: Die Kopfzeile der Kampagnenseite zeigt neuerdings
+„Conversions (einschl. prognostizierte)" — 6,63 / 300,07 € im
+30-Tage-Fenster, gegen 9 / 376,23 € in der Spalte „Conversions".
+Maßgeblich bleibt die Spalte.)*
+
+### 21.2 Kanäle: kein Abdriften
+
+Filzprodukte, 20.09.–03.10.: **Google Suche 5.443 Impr., 94 von 99
+Klicks**, 33,55 €, 4 Käufe. Discover, Gmail, Displaynetzwerk je 0. Der
+Rest (Maps, Suchnetzwerk-Partner, YouTube) zusammen 1.617 Impr. und
+5 Klicks, nicht einzeln abgelesen. **Die Vermutung „falscher Zielkunde"
+über die Kanäle ist widerlegt.**
+
+### 21.3 Produkte und Suchbegriffe: der Zuwachs geht an der Hülle vorbei
+
+**Produktbericht 01.–03.10. (alle Kampagnen):**
+
+| Produkt | Preis | Impr. | Klicks | Kosten | Käufe |
+|---|---:|---:|---:|---:|---:|
+| Filzplatten 75 × 50 cm | 6,90 € | 474 | 9 | 3,40 € | 0 |
+| Gotteslobhülle | 28,99 € | 407 | 8 | 5,14 € | 0 |
+| Filzplatten 37 × 25 cm | 2,50 € | 279 | 3 | 1,06 € | 0 |
+| Filzplatten 37 × 50 cm | 3,50 € | 263 | 3 | 1,75 € | 0 |
+| Wichtel Wohnzimmer (3 Varianten) | 1,99–3,99 € | 301 | 1 | 0,07 € | 0 |
+| Equidenpasshülle | 26,99 € | 54 | 1 | 0,43 € | 0 |
+
+**Gotteslobhülle, 14 Tage (20.09.–03.10.):** 3.534 Impr., 77 Klicks,
+42,84 €, 2 Käufe, 70,98 € → **166 %, unter der ~180-%-Linie** (19.6).
+Kaufquote **2,6 %**. **Reichweite der Hülle:** vor der Gotteslob-Pause
+rund **370 Produktimpressionen am Tag**, 01.–03.10. rund **136**
+*(abgeleitet: 14-Tage-Wert minus 01.–03.10. minus geschätzt ~150 für
+28.–30.09., verteilt auf 20.–27.09. — nicht direkt gemessen)*.
+
+**Suchbegriffe 01.–03.10. (Filzprodukte + F, 21 Klicks ausgewiesen):**
+
+- **Filzprodukte, Gotteslob-bezogen (5):** einband gotteslob,
+  gebetbuchhülle filz (1,52 €), gotteslob, gotteslob kommunion junge,
+  umschlag gotteslob — dazu als Grenzfall bibelhülle mit reißverschluss
+- **Filzmaterial (4):** filz 3mm, filz selbstklebend, filz zum kleben,
+  filzplatten
+- **Wichtel und Puppenhaus (6):** miniatur lichterkette modellbau,
+  puppenhaus zubehör, puppenhausmöbel, sessel für wichtel, wichtel
+  schlafzimmer, wichteltür für erwachsene
+- **Sonstige (3):** emborado (1,06 €), schlüsselband rohlinge 25mm,
+  stickdatei kindergarten
+- **F Kommunion (2):** gotteslob hülle (19 Impr., 1 Klick), gotteslobhülle
+  (3 Impr., 1 Klick)
+
+Die Mehrklicks seit dem Ziel 300 % (20.5) landen überwiegend bei
+Filzmaterial, Wichtel- und Puppenhausbedarf — **insofern stimmt der
+Verdacht „falscher Zielkunde" für die Zusatzklicks, nicht für die
+Kanäle.**
+
+### 21.4 Auktionsdaten F Kommunion (01.–03.10.)
+
+| Domain | Anteil mögl. Impr. | Überschneidung | Position oberhalb | obere Pos. | oberste Pos. |
+|---|---:|---:|---:|---:|---:|
+| etsy.com | 82,69 % | 87,88 % | 67,24 % | 88,37 % | 68,60 % |
+| **Taeradesign** | **63,46 %** | — | — | 57,58 % | **25,76 %** |
+| amazon.de | 43,27 % | 51,52 % | 58,82 % | 95,56 % | 24,44 % |
+| vivat.de | 25,00 % | 31,82 % | 33,33 % | 57,69 % | 15,38 % |
+| princess-dreams-shop.de | 10,58 % | 13,64 % | 66,67 % | 54,55 % | 0,00 % |
+| geschenke-online.de | < 10 % | 6,06 % | 0,00 % | 0,00 % | 0,00 % |
+
+F je Tag 28.09.–03.10.: 14 / 22 / 34 / 29 / 24 / 33 Impr., 1 / 1 / 1 /
+2 / 1 / 0 Klicks. Status „Durch Gebotsstrategie eingeschränkt" — **der
+Deckel 0,50 € bremst**; das Budget (3 €/Tag, Abruf ~0,50–1 €) nicht.
+**Klickstand gegen die Stoppregel (20.4): 6 von 60.**
+
+### 21.5 Befund
+
+1. **Angezeigt wird — mehr als vorher.** Seit dem Ziel 300 % rund
+   1.000 Impressionen und 13 Klicks am Tag bei Filzprodukte
+2. **Kein Kauf seit dem 30.09.:** 51 Klicks in Filzprodukte. Bei der
+   30-Tage-Kaufquote von 3,75 % wären ~1,9 Käufe zu erwarten; null kommt
+   mit etwa 14 % Wahrscheinlichkeit vor *(Annahme: gleiche Kaufquote
+   wie in den 30 Tagen davor)*. Auffällig, kein Beweis
+3. **Die Hülle hat seit der Gotteslob-Pause etwa ein Drittel ihrer
+   Reichweite** (21.3)
+4. **Wirtschaftlich** *(Annahmen: 65 % Spanne, 5,50 € Versand je
+   Bestellung durchgereicht)*: Deckungsbeitrag je Hülle ≈ 19,50 €
+   (Ø-Wert 35,49 € − 5,50 €, × 65 %). **Bei 2,6 % Kaufquote trägt sich
+   ein Klick bis ~0,51 €.** Gotteslob-PMax 30 Tage: 135,45 € − 3 × 5,50 €
+   = 118,95 € × 65 % = 77,32 € DB gegen 115,53 € Kosten → **rund −38 €**.
+   Reichweite allein war im September zu kaufen — die Käufe nicht
+5. **Shop (nur angesehen):** Produktseite und Konfigurator der Hülle
+   laden (bis Schritt 1 von 10 geprüft); **die Kasse ist nicht getestet**.
+   Direkt unter „Jetzt konfigurieren" steht groß die Grafik „Gesetzliche
+   Gewährleistung" — **seit wann, ist offen**; fiele sie in die letzte
+   Septemberwoche, läge sie zeitlich beim Einbruch *(Vermutung)*. Die
+   Shopsuche „gotteslobhülle" liefert 19 Treffer, überwiegend
+   Wichtelzubehör, und der Filter zeigt Kunden die interne Kategorie
+   „cpb_product"
+6. **Korrektur:** Performance Max wird **seit Oktober 2024 nicht mehr
+   automatisch vor Standard-Shopping bevorzugt**; bei denselben Produkten
+   entscheidet der Anzeigenrang (Google-Hilfe „How Performance Max
+   interacts with other campaigns", answer/13810170). Für einen
+   Standard-Shopping-Test muss die Hülle also **nicht** aus Filzprodukte
+   heraus — die Begründung zum Zurückstellen in 19.1 trägt nur noch halb
+
+**Nicht geprüft:** Änderungsverlauf (der Eintrag vom 01.10., 20.5), Regel
+`cpb_ordered` über alle Produkttypen (im Produktbericht 01.–03.10. unter
+den ersten zehn kein `cpb_ordered`).
+
+### 21.6 Betreiberentscheidung am 04.10.2026: A bis D
+
+> „es muss eindeutig die gotteslobhülle mehr zielkunden erreichen und
+> mehr käufe generieren!" — danach „setze A - D um" und „führe bitte
+> alles selbstständig durch".
+
+Claudes Empfehlung war **A ja, B als zweiter Schritt, C und D nein**
+(C: 30 Tage mit rund −38 € DB; D: der Zuwachs aus 300 % ging nicht an
+die Hülle). **Entschieden sind alle vier.**
+
+| # | Kampagne | Änderung |
+|---|---|---|
+| **A** | Kommunion (F) | Maximales CPC-Gebotslimit **0,50 → 0,70 €**, Budget bleibt 3 €/Tag |
+| **B** | Gotteslobhülle-Shopping-Kampagne (pausiert, 2025) als Standard-Shopping-Test | Gebotsstrategie Ziel-CPA → **Manueller CPC**; Budget 2 → **3 €/Tag**; nur Google-Suche (Suchnetzwerk-Partner und YouTube/Gmail/Discover aus); Standort Deutschland prüfen; Produktgruppen **nur die Gotteslobhülle** (Artikel-ID `…8665393430853_47098396213573`), Gebot **0,50 €**, alles andere ausgeschlossen — Falle aus 15.4: Filter auf Produkttyp „gotteslobhülle" ist leer, die Hülle steht unter `cpb_product`; `cpb_ordered` nie; dann aktivieren |
+| **C** | Gotteslob-Max-Performance | Pausiert → **Aktiviert**; 8 €/Tag und Ziel-ROAS 180 % unverändert. Die Kampagne bewirbt nur die Hülle (15.5), die Hülle bleibt zusätzlich in Filzprodukte — Google wählt je Auktion eine Kampagne; das Problem aus 15.3 (beide auf dem ganzen Sortiment) kehrt nicht zurück |
+| **D** | Filzprodukte | Ziel-ROAS **300 → 250 %** *(Wert: Vorschlag Claude, kein Betreiberwert genannt; Abstand zur ~180-%-Linie bleibt)* |
+
+**Stoppregeln** (Betreiber „ok" auf den Vorschlag, 04.10.):
+
+- **Gotteslob-PMax:** wieder pausieren nach **40 € Kosten ohne Kauf**,
+  gezählt ab der Reaktivierung (≈ zwei Hüllen-Deckungsbeiträge)
+- **Shopping-Test:** stoppen nach **60 Klicks ohne Kauf** (wie F, 20.4)
+- **F Kommunion:** unverändert 60 Klicks ohne Kauf seit 28.09.
+
+**Budgetrahmen danach: 30,50 €/Tag** (bisher 19,50 €; +8 € Gotteslob,
++3 € Shopping-Test).
+
+**Bewertet wird die Hülle insgesamt** — Käufe gegen Kosten über F,
+Shopping-Test, Gotteslob und Filzprodukte. Vier Änderungen an einem Tag
+lassen sich einzeln nicht mehr auseinanderhalten.
+
+### 21.7 Umsetzung — offen
+
+Die Sicherheitsprüfung von Claude Code hat die Umsetzung durch Claude
+**dreimal abgelehnt** — im Auto-Modus und auch nach Umstellung des
+Berechtigungsmodus (zuletzt „Unrequested Commit in a Connected App").
+Wie am 01.10. (20.5) setzt der Betreiber selbst; Claude prüft danach
+lesend gegen und trägt hier nach.
+
+| # | Stand | Gegenprüfung |
+|---|---|---|
+| A | offen | — |
+| B | offen | — |
+| C | offen | — |
+| D | offen | — |
+
+### 21.8 Termine
+
+- **Markenliste „Taeradesign" + Ausschluss bei Filzprodukte: ~05.10. →
+  ~07.–08.10.** — einige Tage nach der Zieländerung D, nicht am selben
+  Tag (20.7)
+- **Nächster Kontrollblick ~09.–11.10.2026.** Dann: Hülle insgesamt
+  (21.6); Stoppregeln Gotteslob (Kosten seit Reaktivierung) und
+  Shopping-Test (Klicks); Klickstand F; Änderungsverlauf — stehen dort
+  genau die Einträge aus 21.7 und sonst nichts Automatisches?
+- **Shop (Betreiber):** Seit wann steht die Gewährleistungsgrafik unter
+  dem Button? Kommt auch ohne Ads seit Tagen nichts: Testbestellung
+- Übrige Termine unverändert: Auto-Apply ~12.10., D Wichtelwelt Anfang
+  November, G Zeugnismappen Januar
