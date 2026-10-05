@@ -3309,20 +3309,87 @@ die Hülle). **Entschieden sind alle vier.**
 Shopping-Test, Gotteslob und Filzprodukte. Vier Änderungen an einem Tag
 lassen sich einzeln nicht mehr auseinanderhalten.
 
-### 21.7 Umsetzung — offen
+### 21.7 Umsetzung am 05.10.2026 — der Betreiber klickt, Claude prüft gegen
 
-Die Sicherheitsprüfung von Claude Code hat die Umsetzung durch Claude
-**dreimal abgelehnt** — im Auto-Modus und auch nach Umstellung des
+Am 04.10. hat die Sicherheitsprüfung von Claude Code die Umsetzung durch
+Claude **dreimal abgelehnt** — im Auto-Modus und auch nach Umstellung des
 Berechtigungsmodus (zuletzt „Unrequested Commit in a Connected App").
-Wie am 01.10. (20.5) setzt der Betreiber selbst; Claude prüft danach
-lesend gegen und trägt hier nach.
+**Am 05.10. dasselbe:** zuerst im Auto-Modus („Real-World Transactions",
+schon das Markieren des CPC-Felds), nach erneuter Umstellung durch den
+Betreiber wieder (schon das Aufklappen von „Gebote"). Navigieren und
+Lesen blieben erlaubt. Arbeitsteilung deshalb: **Claude öffnet die
+Stelle und liest nach dem Neuladen gegen, der Betreiber tippt und
+speichert** — Schritt für Schritt im Live-Dialog.
 
-| # | Stand | Gegenprüfung |
-|---|---|---|
-| A | offen | — |
-| B | offen | — |
-| C | offen | — |
-| D | offen | — |
+| # | Kampagne | Stand | Gegenprüfung nach Neuladen |
+|---|---|---|---|
+| A | Kommunion (F) | ✅ 05.10. | „Limit für maximales CPC-Gebot" **0,70 €**; Klicks maximieren und 3 €/Tag unverändert |
+| B | **neu:** „Gotteslobhülle Shopping-Test", ID **24326487754** | ✅ 05.10., veröffentlicht und aktiv | siehe 21.7.1 |
+| C | Gotteslob-Max-Performance | ✅ 05.10., aktiviert gegen 11:25 Uhr | „Aktiviert", Status „Aktiv (eingeschränkt)"; 8 €/Tag, Ziel-ROAS 180 %, Kampagnenspezifisch: Käufe unverändert |
+| D | Filzprodukte | ✅ 05.10. | „Ziel-ROAS von 250 %"; 10 €/Tag unverändert |
+
+**Kontosumme danach: 30,50 €/Tag** (Kampagnenliste, „Gesamt: Konto") —
+wie in 21.6 vorgesehen.
+
+#### 21.7.1 B: Die alte Kampagne war keine Shopping-Kampagne
+
+- **Befund vor der Umsetzung:** Die „Gotteslobhülle-Shopping-Kampagne"
+  ist im Konto eine **Suchkampagne** (Kampagnentyp „Suchnetzwerk") — so
+  stand sie schon in der Bestandsaufnahme vom 08.08. (Abschnitt 3) und
+  in 14.8. Produktgruppen, Artikel-ID und das Netzwerk „YouTube, Gmail
+  und Discover" gibt es dort nicht; **B war so nicht umsetzbar.** 21.6
+  hatte sich auf den Namen verlassen
+- **Betreiber, 05.10.: „ok" auf Claudes Empfehlung,** stattdessen eine
+  **neue Standard-Shopping-Kampagne** anzulegen. Verworfen: „Shopping -
+  Alle Produkte" umbauen (trägt Historie und Altlasten) und B streichen.
+  Die alte Suchkampagne bleibt pausiert und unangetastet
+- **Werte, nach Neuladen gegengeprüft:** Standard-Shopping
+  (Kampagnenpriorität Niedrig), Merchant Center 5293575741,
+  3,00 €/Tag, Manueller CPC, **nur Google Suchnetzwerk**, Deutschland
+  (Land), Start 05.10. ohne Ende, Anzeigengruppe „Gotteslobhülle" mit
+  0,50 €, Produktgruppe nur Artikel-ID
+  `shopify_de_8665393430853_47098396213573` (Parent, keine
+  `cpb_ordered`-Kopie), **„Alles andere" ausgeschlossen**,
+  Conversion-Zielvorhaben **Kampagnenspezifisch: Käufe**
+- **Zwei Fallen im Assistenten:**
+  1. **Suchnetzwerk-Partner waren voreingestellt** (unter „Weitere
+     Einstellungen" → „Werbenetzwerke") — vor dem Veröffentlichen
+     abgewählt
+  2. **„Auswahl von Produkten verwenden" legt „Alles andere in 'Alle
+     Produkte'" mit dem Anzeigengruppengebot an, nicht
+     ausgeschlossen** — die Zusammenfassung zeigte nur die Hülle. Nach
+     dem Veröffentlichen sofort ausgeschlossen, bis dahin 0
+     Impressionen. **Bei jeder neuen Shopping-Kampagne nach dem
+     Veröffentlichen die Produktgruppentabelle prüfen**
+- **Zielvorhaben:** Der Assistent übernahm den Kontostandard
+  (Warenkorb, Bezahlvorgang, Kontakte, Anruf-Leads, Käufe). Beim
+  manuellen CPC ohne Wirkung aufs Bieten, aber die Spalte „Conversions"
+  hätte Warenkörbe und Anrufe mitgezählt — gegen die Stoppregel
+  „60 Klicks ohne **Kauf**". Auf Claudes Empfehlung vom Betreiber auf
+  „Kampagnenspezifisch: Käufe" gestellt, wie F, Filzprodukte und
+  Gotteslob
+
+#### 21.7.2 Nebenbefunde
+
+- **C, Richtlinienhinweis:** „Religiöse Überzeugungen in
+  personalisierten Anzeigen" — eingeschränkte Auslieferung, keine
+  Ablehnung; bekannt seit 08.08. (Abschnitt 3), in 14.4 für tragbar
+  befunden, danach 14.087 Impressionen in 30 Tagen. Die Prüfung aus 20.6
+  („vor einer Reaktivierung klären") ist damit erledigt
+- **Stoppregel Gotteslob zählt ab 05.10., gegen 11:25 Uhr**
+  (40 € ohne Kauf, 21.6)
+- **Änderungsverlauf:** Bei der Gegenprüfung von A zeigte er für den
+  05.10. noch nichts — Bericht nicht in Echtzeit (wie 20.5). Am
+  Kontrollblick nachsehen
+- **Googles Vorschläge nicht übernommen:** „Conversions maximieren mit
+  Ziel-CPA" (Kampagnenliste +0,5 %; Diagnose F mit vorgeschlagenem
+  Ziel-CPA 21,23 €), „Partnerwebsites im Suchnetzwerk aktivieren"
+  (F, +2,5 %), „Test erstellen" für die Umstellung des Shopping-Tests
+  auf Performance Max
+- **Der Shopping-Test liegt neben der Hülle in Filzprodukte und
+  Gotteslob** — bei denselben Produkten entscheidet der Anzeigenrang
+  (21.5 Nr. 6). Ob er bei 0,50 € überhaupt Auktionen gewinnt, zeigen
+  erst die Impressionen am Kontrollblick
 
 ### 21.8 Termine
 
@@ -3330,9 +3397,11 @@ lesend gegen und trägt hier nach.
   ~07.–08.10.** — einige Tage nach der Zieländerung D, nicht am selben
   Tag (20.7)
 - **Nächster Kontrollblick ~09.–11.10.2026.** Dann: Hülle insgesamt
-  (21.6); Stoppregeln Gotteslob (Kosten seit Reaktivierung) und
+  (21.6); Stoppregeln Gotteslob (Kosten seit 05.10., 11:25 Uhr) und
   Shopping-Test (Klicks); Klickstand F; Änderungsverlauf — stehen dort
   genau die Einträge aus 21.7 und sonst nichts Automatisches?
+  **Shopping-Test:** Liefert er überhaupt aus (Impressionen), und steht
+  „Alles andere" weiter auf ausgeschlossen (21.7.1)?
 - **Shop (Betreiber):** Seit wann steht die Gewährleistungsgrafik unter
   dem Button? Kommt auch ohne Ads seit Tagen nichts: Testbestellung
 - Übrige Termine unverändert: Auto-Apply ~12.10., D Wichtelwelt Anfang
