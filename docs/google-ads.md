@@ -3407,7 +3407,7 @@ wie in 21.6 vorgesehen.
 - Übrige Termine unverändert: Auto-Apply ~12.10., D Wichtelwelt Anfang
   November, G Zeugnismappen Januar
 
-### 21.9 Markenausschluss am 07.10.2026 — kein Kontrollblick, Liste angelegt, Ausschluss bei Filzprodukte
+### 21.9 Markenausschluss am 07.10.2026 — kein Kontrollblick, Liste angelegt, Ausschluss bei Filzprodukte und Gotteslob
 
 **Kein Kontrollblick im Sinne von Abschnitt 11** — der Termin aus 19.7
 und 21.8, vom Morgenblick am 07.10. als fällig gemeldet. Konto
@@ -3451,35 +3451,84 @@ gegengeprüft.
   Suchanfragen „taeradesign.de" unter den Ausschluss fallen, zeigt erst
   die Suchbegriff-Statistik — laut Google-Hilfe gelten Markenausschlüsse
   auch für Schreibvarianten, im Konto nicht geprüft
-- **Ausschluss:** Die Kampagnentabelle der Liste zeigt genau eine
-  Kampagne — **Filzprodukte, Performance Max, Verwendung „Ausschluss"**.
-  Vorher stand in den Einstellungen „Keine Markenlisten ausgeschlossen".
-  **C Brand ist nicht betroffen**
-- **Gotteslob: nicht gesetzt, offen.** Empfehlung Claude: ja — sonst
-  kann ein Kauf über eine „taeradesign"-Suche die Stoppregel „40 € ohne
-  Kauf" (21.6) aushebeln, ohne etwas über Neukunden zu sagen.
-  Betreiberentscheidung steht aus
-- **Änderungsverlauf:** zeigte am 07.10. gegen 12 Uhr für den Tag noch
-  nichts — nicht in Echtzeit (wie 21.7.2). Am Kontrollblick nachsehen
+- **Ausschluss bei Filzprodukte:** Die Kampagnentabelle der Liste zeigte
+  danach genau eine Kampagne — **Filzprodukte, Performance Max,
+  Verwendung „Ausschluss"**. Vorher stand in den Einstellungen „Keine
+  Markenlisten ausgeschlossen". Änderungsverlauf: **07.10.2026,
+  12:01:55, `tk@taeradesign.de`, Webclient (manuell), „1
+  auszuschließen: markenliste hinzugefügt"**
+- **Ausschluss bei Gotteslob — Betreiber, 07.10., auf Claudes
+  Empfehlung:** sonst kann ein Kauf über eine „taeradesign"-Suche die
+  Stoppregel „40 € ohne Kauf" (21.6) aushebeln, ohne etwas über
+  Neukunden zu sagen. Vorher auch dort „Keine Markenlisten
+  ausgeschlossen". **Danach zeigt die Liste zwei Kampagnen:
+  Gotteslob-Max-Performance und Filzprodukte, beide „Ausschluss".** Im
+  Änderungsverlauf von Gotteslob stand der Eintrag bei der Prüfung noch
+  nicht (nicht in Echtzeit, wie 21.7.2)
+- **C Brand, der Shopping-Test und F sind nicht betroffen**
+
+#### 21.9.1 Traffic-Finder für Smart Bidding — an, ohne dass ihn jemand eingeschaltet hat
+
+- **Befund:** Beide PMax tragen in den Einstellungen unter „Budget- und
+  Gebotsoptimierung" **„Traffic-Finder für Smart Bidding (Beta):
+  Traffic-Vielfalt erhöhen"** — Filzprodukte und Gotteslob. In diesem
+  Protokoll bisher nirgends erwähnt. D Wichtelwelt nicht angesehen
+- **Kein Eintrag im Änderungsverlauf.** Filzprodukte über „Gesamte Zeit"
+  durchgesehen, alle Einträge von 2026 aufgeklappt: nur manuelle
+  Änderungen an Gebotsstrategie und Ziel (08.08. Umstellung auf
+  „Conversion-Wert maximieren" mit 400 %, 23.08. 450 %, 01.10. 300 %,
+  05.10. 250 %), Budget (02.04., 13.05., 26.05.), Produktgruppen
+  (17.09., 28.09.) und Markenliste (07.10.). Gotteslob, Kategorie
+  „Gebote": 24.03.2026 Empfehlung „ROAS-Ziel prognostizieren" (321,155 %),
+  12.09. Ziel 180 % und TV −100 %. **Weder manuell noch über Auto-Apply
+  eingeschaltet** — Google hat ihn selbst gesetzt; seit wann, ist nicht
+  feststellbar
+- **Was er laut Google ist:** Englisch „Smart Bidding Exploration",
+  vorgestellt auf der Google Marketing Live 2025. Bietet auf weniger
+  naheliegende Suchanfragen, um mehr Suchkategorien mit Conversions zu
+  erreichen. In der Google-Hilfe als **Opt-in** beschrieben, und:
+  „When Smart Bidding Exploration is activated, the effective ROAS
+  performance target will be around 10% below your initial campaign
+  goal" (support.google.com/google-ads/answer/16294223) — **das steht
+  dort für Suchkampagnen**. Seit Juni 2026 laut Fachpresse allgemein
+  verfügbar für PMax ohne Produktfeed und **als Beta für PMax mit
+  Produktfeed und Shopping** — das sind Filzprodukte und Gotteslob. Ob
+  die 10 % dort genauso gelten, sagt Google nicht
+- **Was das hieße (Rechnung, Annahme 10 %):** Gotteslob 180 % → wirksam
+  **~162 %** — zwischen 154 % und der ~180-%-Linie, verdient also nichts
+  (19.6); die 180 % waren am 04.10. bewusst auf die Linie gesetzt
+  (21.6). Filzprodukte 250 % → ~225 %, weiter über der Linie
+- **Möglicher Zusammenhang, nicht belegt:** „Traffic-Vielfalt" heißt
+  mehr verschiedene Suchkategorien — das passt zu 21.3 (Zusatzklicks bei
+  Filzmaterial und Wichtelbedarf statt an der Hülle). Naheliegender bleibt
+  dort die Zielsenkung 450 → 300 %
+- **Nichts geändert (Empfehlung Claude, Betreiber entscheidet am
+  Kontrollblick):** Der
+  Traffic-Finder lief offenbar die ganze Zeit mit, alle bisherigen Zahlen
+  enthalten ihn; vier Änderungen am 05.10. und der Ausschluss heute
+  reichen. **Entscheidung am Kontrollblick ~09.–11.10.:** Greift bei
+  Gotteslob die Stoppregel, erledigt sich die Frage dort. Verkauft
+  Gotteslob, dort Traffic-Finder aus oder Ziel auf ~200 %, damit die
+  Linie wirklich gilt
+- **Beifang aus dem Verlauf von Filzprodukte — Auto-Apply 2025:**
+  „Ziel-ROAS senken" am 09.05., 13.06., 06.09. und 21.10.2025 (jeweils
+  gegen 4 Uhr), „Ziel-CPA erhöhen" am 13.11.2025. Bestätigt 14.3 (kein
+  Einzelfall); Auto-Apply ist seit 23.08.2026 aus (Abschnitt 9)
 
 #### Nebenbefunde, nicht bewertet
 
-- In den Einstellungen von Filzprodukte steht **„Traffic-Finder für
-  Smart Bidding (BETA): Traffic-Vielfalt erhöhen"** — in diesem
-  Protokoll bisher nirgends erwähnt. Ob Voreinstellung oder von Google
-  gesetzt, ist offen. Nichts geändert
 - Diagnose in der Kampagnenübersicht von Filzprodukte: „Kampagne
   aufgrund eines erwarteten Anstiegs der Zugriffszahlen eventuell bald
   durch Budget eingeschränkt" und „in der letzten Woche keine
   Conversion-Wert erzielt" — Stoff für den Kontrollblick
-- Der Ansichtszeitraum im Konto steht jetzt auf „Heute" (07.10.)
+- Der Ansichtszeitraum im Konto steht wieder auf „Letzte 30 Tage"
 
 #### Termine
 
 - **Kontrollblick ~09.–11.10.2026** wie in 21.8, zusätzlich: (a)
-  Änderungsverlauf 07.10. — Markenliste und Ausschluss, sonst nichts?
-  (b) Traffic-Finder bei Filzprodukte — seit wann, von wem?
+  Änderungsverlauf 07.10. — zwei Ausschlüsse (Filzprodukte, Gotteslob),
+  sonst nichts? (b) **Traffic-Finder entscheiden** (21.9.1), zuerst bei
+  Gotteslob
 - **Wirkung des Ausschlusses:** frühestens ~14.10. gegen die Basislinie
   oben — taucht „taeradesign" in der Suchbegriff-Statistik von
   Filzprodukte noch auf?
-- **Gotteslob-Ausschluss:** Betreiber entscheidet
