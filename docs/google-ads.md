@@ -3406,3 +3406,80 @@ wie in 21.6 vorgesehen.
   dem Button? Kommt auch ohne Ads seit Tagen nichts: Testbestellung
 - Übrige Termine unverändert: Auto-Apply ~12.10., D Wichtelwelt Anfang
   November, G Zeugnismappen Januar
+
+### 21.9 Markenausschluss am 07.10.2026 — kein Kontrollblick, Liste angelegt, Ausschluss bei Filzprodukte
+
+**Kein Kontrollblick im Sinne von Abschnitt 11** — der Termin aus 19.7
+und 21.8, vom Morgenblick am 07.10. als fällig gemeldet. Konto
+932-417-3105, `tk@taeradesign.de`, per Claude in Chrome. **Live-Dialog
+wie 21.7:** Die Sicherheitsprüfung von Claude Code lehnte schon das
+Öffnen des Dialogs „Markenliste erstellen" durch Claude ab; der
+Betreiber hat angelegt und gesetzt, Claude hat nach dem Neuladen
+gegengeprüft.
+
+#### Basislinie vor dem Ausschluss (Filzprodukte)
+
+„Statistiken zu Suchbegriffen" der Kampagne, Kategorie „taeradesign":
+
+| Fenster | Kategorie „taeradesign" | Kampagne gesamt | Anteil |
+|---|---|---|---|
+| 09.09.–06.10. (28 Tage) | 182 Impr., 3 Klicks, 0,00 Conv. | 13.954 Impr., 199 Klicks, 82,47 € | 1,3 % der Impr., 1,5 % der Klicks |
+| 30.09.–06.10. (7 Tage) | 79 Impr., 3 Klicks, 0,00 Conv. | nicht abgelesen | — |
+
+- Im Vergleichszeitraum 12.08.–08.09. hatte die Kategorie Conversions
+  (Spalte „Conversions" −100 %); den absoluten Wert zeigt der Bericht
+  dort nicht, nicht abgelesen
+- Die Kampagnensumme stammt aus der Kampagnenübersicht und umfasst alle
+  Kanäle, die Kategorie nur die Suche — der Anteil an der Suche liegt
+  also etwas höher (Annahme, nicht gemessen)
+- **Einordnung:** Gespart wird kaum etwas — 3 Klicks in 28 Tagen, beim
+  Ø-CPC der Kampagne von 0,41 € rund 1,20 €. Es geht um die Zurechnung:
+  Stammkunden-Käufe über „taeradesign …" sollen Filzprodukte nicht mehr
+  schönen; diese Suchen bedient C Brand (19.7)
+
+#### Was angelegt und gesetzt wurde, nach Neuladen gegengeprüft
+
+- **Markenliste „Taeradesign"** auf Kontoebene (Tools → Gemeinsam
+  genutzte Bibliothek → Markenlisten, `brandListId` 12261779404): zwei
+  Marken „Taeradesign" — `https://www.taeradesign.com` und
+  `https://www.taeradesign.com/`, beide Status „Aktiv". **Die offene
+  Frage aus 18.4 ist damit entschieden: beide Einträge**
+- **`taeradesign.de`:** Der Betreiber wollte die Domain mitnehmen. Die
+  Liste enthält keinen eigenen `.de`-Eintrag; die Domain leitet auf
+  taeradesign.com um (`docs/ist-zustand.md`), die Marke ist dieselbe.
+  Keine Markenanfrage (Prüfung 4–6 Wochen, Abschnitt 8). Ob
+  Suchanfragen „taeradesign.de" unter den Ausschluss fallen, zeigt erst
+  die Suchbegriff-Statistik — laut Google-Hilfe gelten Markenausschlüsse
+  auch für Schreibvarianten, im Konto nicht geprüft
+- **Ausschluss:** Die Kampagnentabelle der Liste zeigt genau eine
+  Kampagne — **Filzprodukte, Performance Max, Verwendung „Ausschluss"**.
+  Vorher stand in den Einstellungen „Keine Markenlisten ausgeschlossen".
+  **C Brand ist nicht betroffen**
+- **Gotteslob: nicht gesetzt, offen.** Empfehlung Claude: ja — sonst
+  kann ein Kauf über eine „taeradesign"-Suche die Stoppregel „40 € ohne
+  Kauf" (21.6) aushebeln, ohne etwas über Neukunden zu sagen.
+  Betreiberentscheidung steht aus
+- **Änderungsverlauf:** zeigte am 07.10. gegen 12 Uhr für den Tag noch
+  nichts — nicht in Echtzeit (wie 21.7.2). Am Kontrollblick nachsehen
+
+#### Nebenbefunde, nicht bewertet
+
+- In den Einstellungen von Filzprodukte steht **„Traffic-Finder für
+  Smart Bidding (BETA): Traffic-Vielfalt erhöhen"** — in diesem
+  Protokoll bisher nirgends erwähnt. Ob Voreinstellung oder von Google
+  gesetzt, ist offen. Nichts geändert
+- Diagnose in der Kampagnenübersicht von Filzprodukte: „Kampagne
+  aufgrund eines erwarteten Anstiegs der Zugriffszahlen eventuell bald
+  durch Budget eingeschränkt" und „in der letzten Woche keine
+  Conversion-Wert erzielt" — Stoff für den Kontrollblick
+- Der Ansichtszeitraum im Konto steht jetzt auf „Heute" (07.10.)
+
+#### Termine
+
+- **Kontrollblick ~09.–11.10.2026** wie in 21.8, zusätzlich: (a)
+  Änderungsverlauf 07.10. — Markenliste und Ausschluss, sonst nichts?
+  (b) Traffic-Finder bei Filzprodukte — seit wann, von wem?
+- **Wirkung des Ausschlusses:** frühestens ~14.10. gegen die Basislinie
+  oben — taucht „taeradesign" in der Suchbegriff-Statistik von
+  Filzprodukte noch auf?
+- **Gotteslob-Ausschluss:** Betreiber entscheidet
