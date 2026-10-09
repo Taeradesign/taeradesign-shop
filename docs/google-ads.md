@@ -3532,3 +3532,106 @@ gegengeprüft.
 - **Wirkung des Ausschlusses:** frühestens ~14.10. gegen die Basislinie
   oben — taucht „taeradesign" in der Suchbegriff-Statistik von
   Filzprodukte noch auf?
+
+## 22. Kontrollblick am 09.10.2026 — Gotteslob verkauft, Filzprodukte nicht
+
+Kontrollblick im Sinne von Abschnitt 11, fünf Tage nach dem vom 04.10.
+Konto 932-417-3105 per Claude in Chrome. **Nur gelesen, nichts
+geändert.** Fenster **05.–09.10.2026**, ab der Umsetzung 21.7. **Der 08.
+und 09.10. sind nicht belastbar** (Fallstrick Abschnitt 11) — bewertbar
+sind gut drei Tage, und alle Kaufzahlen sind einstellig.
+
+### 22.1 Zahlen 05.–09.10.2026
+
+| Kampagne | Impr. | Klicks | Kosten | Bestellungen | Umsatz | ROAS |
+|---|---:|---:|---:|---:|---:|---:|
+| Filzprodukte (250 %) | 6.265 | ~75 | 41,80 € | 1 | 25,99 € | **62 %** |
+| Gotteslob-Max-Performance (180 %) | 1.225 | ~35 | 31,18 € | 3 | 99,97 € | **321 %** |
+| Gotteslobhülle Shopping-Test | 771 | 28 | 10,63 € | 0 | — | — |
+| Kommunion (F) | 230 | ~8 | 5,50 € | 0 | — | — |
+| D Wichtelwelt | — | — | 0,65 € | 0 | — | — |
+| C Brand | — | — | 0,21 € | 0 | — | — |
+| **Konto** | 8.563 | 153 | 89,97 € | 4 | 125,96 € | **140 %** |
+
+*(Klickzahlen mit „~" aus Kosten ÷ durchschn. CPC abgeleitet; die
+Tabelle zeigte nur Interaktionsrate und CPC. Budgetsumme weiter
+30,50 €/Tag.)*
+
+- **Hülle insgesamt** (21.6: Gotteslob + Shopping-Test + F): 47,31 €
+  Kosten, 3 Bestellungen, 99,97 € → **211 %, über der ~180-%-Linie**
+  (19.6). Ohne den Hüllen-Anteil an Filzprodukte gerechnet; der ist
+  nicht getrennt ausgewiesen
+- **Produktbericht** (alle Kampagnen): Gotteslobhülle 1.829 Impr.,
+  55 Klicks, 34,77 €, 2,00 Conv., 65,98 € · 20 Filzbänder 1,00 Conv.,
+  25,99 € — der eine Kauf über Filzprodukte ist **keine Hülle**
+- **Reichweite der Hülle:** 1.829 Produktimpressionen in fünf Tagen,
+  rund **365 am Tag** — wieder auf dem Stand vor der Gotteslob-Pause
+  (~370, 21.3), gegen ~136 am 01.–03.10.
+- **Ungeklärt:** Gotteslob zeigt „Umsatz für Hauptprodukt" **0,00 €**,
+  obwohl die Kampagne nur die Hülle bewirbt. Vermutung, nicht belegt:
+  Gekauft wird die `cpb_ordered`-Bestellkopie mit eigener Artikel-ID,
+  die Google nicht als beworbenes Produkt erkennt (Regel 17.09.)
+
+### 22.2 Stoppregeln
+
+- **Gotteslob (40 € ohne Kauf):** greift nicht — 31,18 €, 3 Bestellungen
+- **Shopping-Test (60 Klicks ohne Kauf):** 28 Klicks, 0 Käufe. Liefert
+  aus (CTR 3,6 %, CPC 0,38 €); „Alles andere in ‚Alle Produkte'" steht
+  weiter auf **Ausgeschlossen** (21.7.1). Bei ~6 Klicks am Tag um den
+  14.10. an der Grenze
+- **F Kommunion (60 Klicks ohne Kauf seit 28.09.):** 6 bis 03.10. plus
+  ~8 im Fenster plus 04.10. (nicht gemessen) — **grob 15, weit unter 60**
+
+### 22.3 Änderungsverlauf und Status
+
+- **05.–09.10.: genau 9 Einträge**, alle manuell — sechs vom 05.10.
+  (`tkeilbach83@gmail.com`: F, Filzprodukte, Gotteslob aktiv,
+  Shopping-Test angelegt samt Produktgruppen und Zielvorhaben) und drei
+  vom 07.10. (`tk@taeradesign.de`: Markenliste, Ausschlüsse). **Nichts
+  Automatisches**
+- Gotteslob „Aktiv (eingeschränkt) — Alle Asset-Gruppen sind durch
+  Richtlinien eingeschränkt": bekannt (21.7.2)
+- In der Kampagnenliste steht **„Aktive Entwürfe: 1"** — nicht
+  angesehen; vermutlich ein Überbleibsel aus der Anlage am 05.10.
+- `cpb_ordered`: Die gesichteten Bestellkopien stehen auf „Nicht
+  berechtigt — keine Kampagnen" — kein Fund
+- **Nicht geschafft:** Zielseiten der URL-Erweiterung bei Filzprodukte
+  (die Seite lud nicht) — bleibt offen (9.6, 14.8)
+
+### 22.4 Befund und Empfehlung
+
+- **Die Hülle verkauft wieder**, und zwar über Gotteslob, nicht über
+  Filzprodukte. Drei Käufe sind wenig, und die letzten zwei Tage fehlen
+  noch — aber die Richtung aus 21.6 bestätigt sich
+- **Filzprodukte: 41,80 € für einen Kauf (62 %)** — weit unter der
+  Linie. Lernphase seit 05.10. (Ziel 250 %); nach dem Takt nicht jetzt
+  drehen, aber am nächsten Kontrollblick mit Vorrang ansehen
+- **Traffic-Finder (21.9.1) — Empfehlung Claude, weicht von 21.9.1 ab:**
+  Dort stand „verkauft Gotteslob, dort Traffic-Finder aus oder Ziel
+  ~200 %". Die Sorge war, das wirksame Ziel sinke auf ~162 %. Gemessen
+  sind **321 %** — mit Traffic-Finder. Jetzt abzuschalten, hieße an der
+  einzigen Kampagne zu drehen, die verkauft, mitten in der Lernphase.
+  **Empfehlung: an lassen, am nächsten Kontrollblick mit vollen zehn
+  Tagen neu ansehen.**
+
+**Betreiberentscheidung am 09.10.2026:** „lassen wir alles erstmal, wie
+es ist." **Nichts geändert** — Traffic-Finder bleibt bei Filzprodukte
+und Gotteslob an, Filzprodukte bleibt bei 250 %, alle Budgets und
+Stoppregeln unverändert.
+
+**Offen, ohne Betreiberwert:** Die Gotteslob-Stoppregel „40 € ohne
+Kauf, gezählt ab der Reaktivierung" kann nach drei Käufen nicht mehr
+greifen. Ob sie ab dem letzten Kauf weiterzählt oder Gotteslob ab jetzt
+nur noch am ROAS gegen die ~180-%-Linie gemessen wird, ist nicht
+festgelegt — am nächsten Kontrollblick klären.
+
+### 22.5 Termine
+
+- **Nächster Kontrollblick ~14.–16.10.2026.** Dann: (1) Hülle insgesamt
+  mit vollen zehn Tagen seit 05.10.; (2) **Filzprodukte mit Vorrang** —
+  bleibt es unter der Linie?; (3) Traffic-Finder bei Gotteslob neu
+  ansehen (22.4); (4) Shopping-Test an der 60-Klick-Grenze; (5) Wirkung
+  des Markenausschlusses (21.9); (6) URL-Erweiterung bei Filzprodukte
+  (22.3, nicht geschafft); (7) „Aktive Entwürfe: 1" ansehen; (8)
+  Gotteslob-Stoppregel festlegen (22.4)
+- Auto-Apply ~12.10. unverändert (Abschnitt 9)
