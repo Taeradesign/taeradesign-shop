@@ -3635,3 +3635,146 @@ festgelegt — am nächsten Kontrollblick klären.
   (22.3, nicht geschafft); (7) „Aktive Entwürfe: 1" ansehen; (8)
   Gotteslob-Stoppregel festlegen (22.4)
 - Auto-Apply ~12.10. unverändert (Abschnitt 9)
+
+## 23. Zwischenprüfung am 13.10.2026 — Auto-Apply aus, Shopping-Test nach Stoppregel pausiert
+
+**Kein Kontrollblick im Sinne von Abschnitt 11** — der bleibt bei
+~14.–16.10. (22.5). Zwei Anlässe: Der Morgenblick meldete die
+Auto-Apply-Prüfung (~12.10.) als fällig, und der Betreiber meldete,
+seit zwei Tagen sei im Shop nichts mehr verkauft worden, nachdem es
+davor gut lief. Konto 932-417-3105 per Claude in Chrome. **Geändert
+wurde genau eines:** Der Shopping-Test ist pausiert (23.3) — vom
+Betreiber gesetzt, von Claude nach Neuladen gegengeprüft. Fenster
+**05.–13.10.2026**; **der 12. und 13.10. sind nicht belastbar**
+(Fallstrick Abschnitt 11).
+
+### 23.1 Auto-Apply
+
+- **0 von 7 und 0 von 14 ausgewählt** — Sollzustand (Abschnitt 9)
+- Reiter „Verlauf": „Für 0 Empfehlungstypen ist die automatische
+  Anwendung aktiviert", alle Zeilen „Deaktiviert". Jüngste automatische
+  Anwendung: Displaynetzwerk-Aktivierung am 12.08.2026, seither nichts
+- **Änderungsverlauf 13.09.–12.10.:** Jüngster Eintrag ist der
+  Markenausschluss bei Gotteslob vom 07.10., 12:13:59 (manuell).
+  **Nichts Automatisches**
+- Anzeige-Auffälligkeit, nicht geklärt: Die Spalte „In den letzten
+  7 Tagen automatisch angewendet" zeigt dieselben Werte wie „Insgesamt"
+  (z. B. 24 bei „Redundante Keywords entfernen", zuletzt angewendet
+  28.11.2024) — passt nicht zu den Datumsangaben daneben, vermutlich
+  ein Anzeigefehler
+- Zwei Hinweisbanner im Konto, **nicht angeklickt, nicht geprüft:**
+  „Conversions maximieren – bei gleichem Budget [Bestätigen]" und
+  „Kampagnen mit weitgehend passenden Keywords umgestellt [Aufrufen]".
+  Der zweite klingt nach einer vollzogenen Änderung, der
+  Änderungsverlauf zeigt keine — vermutlich ein Vorschlag.
+  „Bestätigen" wäre eine Gebotsumstellung
+- **Nächste Prüfung ~13.11.2026**
+
+### 23.2 Zahlen 05.–13.10.2026
+
+| Kampagne | Impr. | Klicks | Kosten | Käufe | Umsatz | ROAS |
+|---|---:|---:|---:|---:|---:|---:|
+| Filzprodukte (250 %) | 14.342 | 167 | 75,83 € | 1 | 25,99 € | **34 %** |
+| Gotteslob-Max-Performance (180 %) | 2.597 | 59 | 55,49 € | 4 | 146,95 € | **265 %** |
+| Gotteslobhülle Shopping-Test | 2.068 | 74 | 27,08 € | 0 | — | — |
+| Kommunion (F) | 521 | 25 | 17,24 € | 0 | — | — |
+| D Wichtelwelt | 103 | — | 1,94 € | 0 | — | — |
+| C Brand | 10 | — | 0,23 € | 0 | — | — |
+| **Konto** | 19.641 | 337 | 177,81 € | 5 | 172,94 € | **97 %** |
+
+*(Aus der Kampagnentabelle mit Segment „Tag" gelesen. D und C zusammen
+12 Klicks, abgeleitet aus der Kontosumme.)*
+
+- **Hülle insgesamt** (Gotteslob + Shopping-Test + F): 99,81 € Kosten,
+  4 Käufe, 146,95 € → **147 %** — unter der ~180-%-Linie (19.6) und
+  auch unter den 154 % der reinen Warenspanne. Am 09.10. waren es 211 %
+- **Gotteslob nach Klicktag:** Käufe am 07.10. (33,99 €), 08.10.
+  (33,99 €) und 09.10. (zwei, 78,97 €). **10.–13.10.: 21 Klicks,
+  20,66 €, kein Kauf**
+- **Nachträglich zugeordnet:** 22.1 wies für 05.–09.10. bei Gotteslob
+  3 Bestellungen und 99,97 € aus, jetzt sind es 4 und 146,95 € — der
+  zweite Kauf vom 09.10. kam später dazu
+- **Filzprodukte:** Der eine Kauf stammt vom 05.10. **06.–13.10.:
+  147 Klicks, 68,10 €, kein Kauf**
+- **Filzprodukte vor und nach der Senkung auf 250 %** (aus der
+  30-Tage-Sicht 13.09.–12.10. — 24.650 Impr., 307 Klicks, 127,90 €,
+  6 Käufe, 177,77 € — abzüglich 05.–12.10.): **13.09.–04.10. rund
+  54,33 € Kosten, 5 Käufe, 151,78 € → ~279 %**; seit 05.10. 34 %.
+  Der Vergleich ist nicht sauber — im früheren Zeitraum lag das Ziel
+  bis 01.10. bei 450 %, dann bei 300 %, und die Hülle kam am 28.09.
+  zurück (Abschnitt 19, 20.5) —, aber die Richtung ist deutlich: Mit dem
+  niedrigeren Ziel kauft die Kampagne mehr Reichweite (13.973 Impr. in
+  acht Tagen gegen 10.677 in 22) und keine Käufer
+- **F Kommunion seit dem Start am 28.09.:** 33 Klicks und 20,97 € bis
+  12.10. (30-Tage-Sicht), dazu am 13.10. rund ein Klick — **grob 34 von
+  60**, kein Kauf
+- **Auslieferung:** Impressionen und Klicks liegen am 10.–12.10. bei
+  allen laufenden Kampagnen auf dem Stand der Tage davor oder darüber.
+  Die Anzeigen liefern, geklickt wird — gekauft wird nicht
+- **Zuordnung nach Klicktag:** Google bucht einen Kauf auf den Tag des
+  Anzeigenklicks. Der letzte Kauf-Klick ist vom 09.10. Die Verkäufe,
+  die der Betreiber bis etwa 11.10. gesehen hat, stecken entweder in
+  den Klicktagen 07.–09.10. oder kamen nicht über Anzeigen — die
+  Shopify-Bestellliste wurde nicht angesehen
+- **Tracking:** Zielvorhaben „Kauf" aktiv (12 von 12 Kampagnen),
+  Conversion-Aktion „Google Shopping App Purchase" Status „Aktiv",
+  im Fenster 5,00 Conv. und 172,94. Trichter im Fenster: „In den
+  Einkaufswagen" 13, „Bezahlvorgang starten" **0**, Käufe 5 — die Null
+  bei fünf Käufen ist nicht geklärt
+- **Shop:** Die Produktseite der Hülle lädt (28,99 €), der Konfigurator
+  öffnet, keine Konsolenfehler. **Warenkorb und Checkout nicht
+  getestet** — das Plugin legt beim Hinzufügen eine Bestellkopie an
+
+### 23.3 Shopping-Test pausiert
+
+- **Stoppregel erreicht** (Betreiber, 04.10., 21.7.1: 60 Klicks ohne
+  Kauf): **74 Klicks, 27,08 €, kein Kauf.** Klicks je Tag ab 05.10.:
+  0, 9, 5, 13, 7, 7, 16, 14, 3 — die 60 wurden am **12.10.**
+  überschritten (11.10.: 57, 12.10.: 71). Die Schätzung „~6 Klicks am
+  Tag, um den 14.10." aus 22.2 war zu niedrig
+- **Betreiberfrage:** Erklärt der Hinweis „99 % der Produkte sind aus
+  dieser Kampagne ausgeschlossen" den fehlenden Verkauf? **Nein** — der
+  Ausschluss ist die Absicht (21.7.1). Produktgruppen im Fenster:
+  Hülle (`shopify_de_8665393430853_47098396213573`, 0,50 €) 2.070 Impr.,
+  74 Klicks, 27,08 €; „Alles andere in ‚Alle Produkte'" ausgeschlossen,
+  0 Impr. Alle Klicks gingen auf das richtige Produkt
+- **Vergleich:** Gotteslob-Max-Performance bewirbt dieselbe Hülle und
+  kam im selben Fenster mit 59 Klicks auf 4 Käufe, bei 0,94 € statt
+  0,37 € je Klick. Warum die Shopping-Klicks schlechter kaufen, zeigen
+  die Daten nicht
+- **Gesetzt vom Betreiber am 13.10.2026, gegengeprüft nach Neuladen:**
+  Kampagnenkopf „Pausiert" (Budget 3,00 € unverändert), „Gesamt: Konto"
+  **27,50 € pro Tag** statt 30,50 €. **Der Eintrag im Änderungsverlauf
+  war bei zwei Abrufen kurz danach noch nicht zu sehen** (jüngster:
+  05.10., 11:41:53) — am Kontrollblick nachsehen
+
+### 23.4 Befund und Empfehlung
+
+- **Zwei Tage ohne Verkauf sind für sich kein Grund zu justieren.**
+  Auslieferung, Tracking und Shop zeigen keinen Defekt, und bei fünf
+  Käufen auf 337 Klicks sind ein paar leere Tage auffällig, aber kein
+  Beleg
+- **Das Geldleck ist Filzprodukte**, nicht die Flaute: 68,10 € ohne Kauf
+  seit 06.10. **Empfehlung Claude für den Kontrollblick: Ziel zurück
+  auf mindestens 300 %, wenn bis dahin kein Kauf dazukommt.** Nicht
+  heute gedreht — Lernphase seit 05.10., und der Takt dient dem
+  Bemerken (Abschnitt 11). **Der Betreiber hat dazu noch nicht
+  entschieden**
+- **Gotteslob nicht anfassen** — die einzige Kampagne, die verkauft.
+  Die Stoppregel bleibt offen (22.4): Seit dem letzten Kauf-Klick sind
+  20,66 € aufgelaufen; zählte „40 € ohne Kauf" ab dem letzten Kauf,
+  griffe sie um den 16.10. **Betreiberwert fehlt weiter**
+- **F Kommunion läuft weiter** — grob 34 von 60 Klicks
+
+### 23.5 Termine
+
+- **Nächster Kontrollblick unverändert ~14.–16.10.2026.** Dann:
+  (1) **Filzprodukte entscheiden** (23.4); (2) Hülle insgesamt — seit
+  13.10. nur noch Gotteslob und F; (3) Traffic-Finder bei Gotteslob neu
+  ansehen (22.4); (4) Stoppregeln: F an der 60, **Gotteslob-Regel
+  festlegen**; (5) Wirkung des Markenausschlusses (21.9); (6)
+  URL-Erweiterung bei Filzprodukte (22.3); (7) „Aktive Entwürfe: 1"
+  ansehen; (8) Änderungsverlauf: Pausierung vom 13.10. eingetragen,
+  sonst nichts Automatisches?; (9) die zwei Hinweisbanner klären (23.1)
+- **Auto-Apply ~13.11.2026** (Abschnitt 9)
+- **Budgetsumme seit 13.10.2026: 27,50 €/Tag**
